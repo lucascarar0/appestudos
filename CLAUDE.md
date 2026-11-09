@@ -42,7 +42,7 @@ Para a biblioteca: `LB["Nome"] = { v: [[tópico, descrição]], b: [[título, au
 Adicione novas entradas de `D` dentro do objeto `const D={...}`.
 
 ## Metas de conteúdo por disciplina
-Resumo e explicação com 5+ parágrafos e referências; 4+ mapas mentais; 20 casos; provas nos 3 níveis. Hoje só Anatomia Humana I cumpre o padrão completo; Cálculo I e Direito Constitucional têm texto, mas não os 20 casos nem as 60 questões. Priorize qualidade e fidelidade às referências, não volume.
+Resumo e explicação com 5+ parágrafos e referências; 4+ mapas mentais; 20 casos; provas nos 3 níveis. Hoje Anatomia Humana I e Bioquímica cumprem o padrão completo, com aulas (Bioquímica é o modelo mais limpo: um bloco só, que cria `D[k]` do zero e usa os mapas das aulas como mapas de revisão); Cálculo I e Direito Constitucional têm texto, mas não os 20 casos nem as 60 questões. Priorize qualidade e fidelidade às referências, não volume.
 
 ## Como testar
 Abra `index.html` no navegador. Confira: tela inicial, lista do curso, as 4 abas da disciplina (Aprender com resumo, mapa, explicação e caso; Praticar; Biblioteca; Progresso) e o modo escuro.
