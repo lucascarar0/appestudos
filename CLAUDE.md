@@ -29,12 +29,19 @@ App de estudos de graduação. Arquivo único `index.html`, sem build, sem backe
   q: { f: [["enunciado", ["a","b","c"], indiceDaCorreta]], m: [], d: [] } // fácil, médio, difícil
 }
 ```
+Formato novo (modelo pronto: `Anatomia Humana I`, bloco "Anatomia Humana I: conteúdo completo" no `index.html`):
+- Folha do mapa com explicação: use `["Nome", "explicação curta"]` no lugar da string.
+- Vários casos: `casos: [[título, identificação, queixa, história, exame, pergunta, resposta comentada], ...]` (20 por disciplina). Se `casos` existir, ele substitui `caso`.
+- Questões: 20 por nível, com comentário opcional no 4º item. Cada prova sorteia 10 questões do banco.
+- Biblioteca: livro com 4º item (URL) abre o PDF de acesso aberto; sem URL é só referência. Artigos abrem busca na SciELO.
+- Disciplina nova: como o bloco roda depois de `D`, defina também `d.maps=[d.map,...X[k]]`.
+
 Para mais mapas, adicione em `X["Nome da disciplina"] = [ [raiz, [[ramo, [folhas]]]], ... ]`.
 Para a biblioteca: `LB["Nome"] = { v: [[tópico, descrição]], b: [[título, autor, descrição]], a: [[tópico, descrição]] }`.
 Adicione novas entradas de `D` dentro do objeto `const D={...}`.
 
 ## Metas de conteúdo por disciplina
-Resumo e explicação com 5+ parágrafos e referências; 4+ mapas mentais; 20 casos; provas nos 3 níveis. Hoje só 3 disciplinas têm texto completo e as metas de casos e questões ainda não foram atingidas. Priorize qualidade e fidelidade às referências, não volume.
+Resumo e explicação com 5+ parágrafos e referências; 4+ mapas mentais; 20 casos; provas nos 3 níveis. Hoje só Anatomia Humana I cumpre o padrão completo; Cálculo I e Direito Constitucional têm texto, mas não os 20 casos nem as 60 questões. Priorize qualidade e fidelidade às referências, não volume.
 
 ## Como testar
 Abra `index.html` no navegador. Confira: tela inicial, lista do curso, as 4 abas da disciplina (Aprender com resumo, mapa, explicação e caso; Praticar; Biblioteca; Progresso) e o modo escuro.
