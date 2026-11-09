@@ -1,0 +1,33 @@
+{
+ "id": "fon", "curso": "Fonoaudiologia",
+ "fontes": [
+   {"uni": "UFSC", "url": "https://fonoaudiologia.ufsc.br/files/2019/12/PROJETO-PEDAGÓGICO-FONOAUDIOLOGIA-2018.1.pdf", "matriz": "Currículo 2018.1 (curso 109)", "semestres": 8,
+    "disciplinas": [
+     ["Módulo I: Caracterização do Ser Humano Saudável I", 1], ["Módulo II: Introdução ao Estudo da Fonoaudiologia I", 1], ["Contexto Social e Saúde Coletiva I", 1], ["Habilidades Auditiva, Vocal e Articulatória", 1], ["Módulo III: Aspectos Morfofuncionais do Sistema Nervoso", 1], ["Métodos e Técnicas de Pesquisa I", 1], ["Língua Brasileira de Sinais I", 1],
+     ["Módulo IV: Ser Humano Saudável I", 2], ["Contexto Social e Saúde Coletiva II", 2], ["Módulo V: Caracterização do Ser Humano Saudável II", 2], ["Módulo VI: Introdução ao Estudo da Fonoaudiologia II", 2], ["Seminários Interdisciplinares", 2],
+     ["Módulo VII: O Ser Humano e as Alterações em Fonoaudiologia I", 3], ["Contexto Social e Saúde Coletiva III", 3], ["Investigação em Audiologia", 3], ["Ética em Saúde", 3], ["Módulo VIII: Ser Humano Saudável II", 3], ["Biossegurança para Fonoaudiologia", 3],
+     ["Métodos e Técnicas de Pesquisa II", 4], ["Módulo IX: O Ser Humano e as Alterações em Fonoaudiologia II", 4], ["Contexto Social e Saúde Coletiva IV", 4], ["Módulo X: O Processo de Investigação Diagnóstica Aplicado à Fonoaudiologia I", 4],
+     ["Projeto de Pesquisa I", 5], ["Módulo XI: O Processo de Investigação Diagnóstica Aplicada à Fonoaudiologia II", 5], ["Módulo XII: O Processo Terapêutico I", 5], ["Atuação Fonoaudiológica na Comunidade I", 5],
+     ["Reunião Clínica I", 6], ["Trabalho de Conclusão de Curso I (TCC I)", 6], ["Módulo XIII: O Processo Terapêutico II", 6], ["Atuação Fonoaudiológica na Comunidade II", 6], ["Otoneurologia", 6], ["Estágio em Fonoaudiologia Ambulatorial I", 6], ["Gestão Profissional em Fonoaudiologia", 6],
+     ["Reunião Clínica II", 7], ["Projeto de Pesquisa II", 7], ["Estágio Hospitalar I", 7], ["Estágio em Saúde Coletiva I", 7], ["Estágio em Intervenção Fonoaudiológica I", 7], ["Estágio em Procedimentos Audiológicos I", 7], ["Estágio em Fonoaudiologia Ambulatorial II", 7],
+     ["Reunião Clínica III", 8], ["Trabalho de Conclusão de Curso II (TCC II)", 8], ["Estágio Hospitalar II", 8], ["Estágio em Saúde Coletiva II", 8], ["Estágio em Intervenção Fonoaudiológica II", 8], ["Estágio em Procedimentos Audiológicos II", 8]
+    ]},
+   {"uni": "UDESC", "nao_encontrada": "UDESC não oferece Fonoaudiologia"},
+   {"uni": "UFFS", "nao_encontrada": "UFFS Chapecó não oferece Fonoaudiologia"},
+   {"uni": "Unochapecó", "nao_encontrada": "oferta não confirmada e site (uno.edu.br) não expõe matriz; nada encontrado na busca"},
+   {"uni": "FURB", "nao_encontrada": "FURB não oferece Fonoaudiologia (nenhum PPC no repositório de projetos pedagógicos)"},
+   {"uni": "Univali", "nao_encontrada": "Síntese do PP de Fonoaudiologia (Itajaí, 2023-2024) existe, mas o site recusa o acesso (robots)"},
+   {"uni": "Unisul", "nao_encontrada": "curso presencial em Tubarão (8 semestres); o PPC publicado traz a matriz só como imagem, sem nomes de UCs no texto"}
+ ],
+ "uniao": [
+  ["Contexto Social e Saúde Coletiva I", 1], ["Habilidades Auditiva, Vocal e Articulatória", 1], ["Língua Brasileira de Sinais I", 1], ["Métodos e Técnicas de Pesquisa I", 1], ["Módulo I: Caracterização do Ser Humano Saudável I", 1], ["Módulo II: Introdução ao Estudo da Fonoaudiologia I", 1], ["Módulo III: Aspectos Morfofuncionais do Sistema Nervoso", 1],
+  ["Contexto Social e Saúde Coletiva II", 2], ["Módulo IV: Ser Humano Saudável I", 2], ["Módulo V: Caracterização do Ser Humano Saudável II", 2], ["Módulo VI: Introdução ao Estudo da Fonoaudiologia II", 2], ["Seminários Interdisciplinares", 2],
+  ["Biossegurança para Fonoaudiologia", 3], ["Contexto Social e Saúde Coletiva III", 3], ["Ética em Saúde", 3], ["Investigação em Audiologia", 3], ["Módulo VII: O Ser Humano e as Alterações em Fonoaudiologia I", 3], ["Módulo VIII: Ser Humano Saudável II", 3],
+  ["Contexto Social e Saúde Coletiva IV", 4], ["Métodos e Técnicas de Pesquisa II", 4], ["Módulo IX: O Ser Humano e as Alterações em Fonoaudiologia II", 4], ["Módulo X: Investigação Diagnóstica em Fonoaudiologia I", 4],
+  ["Atuação Fonoaudiológica na Comunidade I", 5], ["Módulo XI: Investigação Diagnóstica em Fonoaudiologia II", 5], ["Módulo XII: O Processo Terapêutico I", 5], ["Projeto de Pesquisa I", 5],
+  ["Atuação Fonoaudiológica na Comunidade II", 6], ["Estágio em Fonoaudiologia Ambulatorial I", 6], ["Gestão Profissional em Fonoaudiologia", 6], ["Módulo XIII: O Processo Terapêutico II", 6], ["Otoneurologia", 6], ["Reunião Clínica I", 6], ["Trabalho de Conclusão de Curso I", 6],
+  ["Estágio em Fonoaudiologia Ambulatorial II", 7], ["Estágio em Intervenção Fonoaudiológica I", 7], ["Estágio em Procedimentos Audiológicos I", 7], ["Estágio em Saúde Coletiva I", 7], ["Estágio Hospitalar I", 7], ["Projeto de Pesquisa II", 7], ["Reunião Clínica II", 7],
+  ["Estágio em Intervenção Fonoaudiológica II", 8], ["Estágio em Procedimentos Audiológicos II", 8], ["Estágio em Saúde Coletiva II", 8], ["Estágio Hospitalar II", 8], ["Reunião Clínica III", 8], ["Trabalho de Conclusão de Curso II", 8]
+ ],
+ "notas": "Bacharelado presencial, 8 semestres. Só a UFSC teve matriz legível; a união equivale à grade da UFSC (currículo modular/integrado — módulos mantidos com o nome do módulo; nomes dos Módulos X/XI encurtados). Anatomia, Bioquímica etc. não aparecem como disciplinas isoladas: estão dentro dos módulos, por isso as chaves do app não foram usadas. Univali e Unisul oferecem o curso mas as matrizes não puderam ser lidas."
+}

@@ -1,0 +1,929 @@
+{
+ "id": "eco",
+ "curso": "Ciências Econômicas",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://docs.google.com/spreadsheets/d/1DdfRt17Km-0giJAv5rCnjxIyvy4NosGNQQK1TaTEwMA/edit?gid=683478194",
+   "matriz": "Fluxograma do currículo vigente (linkado em economia.ufsc.br/fluxogramas-do-curriculo, atualização dez/2025); cursos 304/318",
+   "semestres": 9,
+   "disciplinas": [
+    [
+     "Introdução à Macroeconomia",
+     1
+    ],
+    [
+     "Informática para Economistas",
+     1
+    ],
+    [
+     "Introdução ao Pensamento Econômico",
+     1
+    ],
+    [
+     "Instituições de Direito Público e Privado",
+     1
+    ],
+    [
+     "Introdução à Estatística",
+     1
+    ],
+    [
+     "Matemática Financeira",
+     1
+    ],
+    [
+     "Contabilidade Social",
+     2
+    ],
+    [
+     "Introdução à Microeconomia",
+     2
+    ],
+    [
+     "Cálculo 1",
+     2
+    ],
+    [
+     "Geometria Analítica",
+     2
+    ],
+    [
+     "Sociologia",
+     2
+    ],
+    [
+     "Macroeconomia I",
+     3
+    ],
+    [
+     "Economia Política I",
+     3
+    ],
+    [
+     "Economia Matemática",
+     3
+    ],
+    [
+     "Estatística Econômica",
+     3
+    ],
+    [
+     "Ciência Política",
+     3
+    ],
+    [
+     "Macroeconomia II",
+     4
+    ],
+    [
+     "Economia Política II",
+     4
+    ],
+    [
+     "Microeconomia I",
+     4
+    ],
+    [
+     "História Econômica Geral",
+     4
+    ],
+    [
+     "Econometria",
+     4
+    ],
+    [
+     "Macroeconomia III",
+     5
+    ],
+    [
+     "Desenvolvimento Socioeconômico",
+     5
+    ],
+    [
+     "Microeconomia II",
+     5
+    ],
+    [
+     "Formação Econômica do Brasil",
+     5
+    ],
+    [
+     "Contabilidade e Análise Financeira",
+     5
+    ],
+    [
+     "Microeconomia III",
+     6
+    ],
+    [
+     "Economia Brasileira Contemporânea I",
+     6
+    ],
+    [
+     "Economia Brasileira Contemporânea II",
+     7
+    ],
+    [
+     "Técnicas de Pesquisa em Economia",
+     8
+    ],
+    [
+     "Monografia I",
+     8
+    ],
+    [
+     "Monografia II",
+     9
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "url": "https://www.udesc.br/arquivos/esag/id_cpmenu/695/ppp_16239677187376_695.pdf",
+   "matriz": "PPC 2007 (ESAG, linha Economia de Empresas) — único PPC encontrado, pode estar desatualizado",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Introdução à Economia",
+     1
+    ],
+    [
+     "História Econômica Geral",
+     1
+    ],
+    [
+     "Filosofia",
+     1
+    ],
+    [
+     "Metodologia Científica e da Pesquisa",
+     1
+    ],
+    [
+     "Matemática I",
+     1
+    ],
+    [
+     "Instituições de Direito Público e Privado",
+     1
+    ],
+    [
+     "Tecnologia Básica de Informação e da Comunicação Aplicada às Ciências Econômicas",
+     1
+    ],
+    [
+     "História do Pensamento Econômico",
+     2
+    ],
+    [
+     "Contabilidade Geral",
+     2
+    ],
+    [
+     "Sociologia",
+     2
+    ],
+    [
+     "Matemática II",
+     2
+    ],
+    [
+     "Funções Administrativas",
+     2
+    ],
+    [
+     "Ética Humana e Profissional",
+     2
+    ],
+    [
+     "Formação Econômica do Brasil I",
+     3
+    ],
+    [
+     "Contabilidade de Custos",
+     3
+    ],
+    [
+     "Métodos Estatísticos",
+     3
+    ],
+    [
+     "Matemática III",
+     3
+    ],
+    [
+     "Microeconomia I",
+     3
+    ],
+    [
+     "Formação Econômica do Brasil II",
+     4
+    ],
+    [
+     "Administração Financeira I",
+     4
+    ],
+    [
+     "Estatística Econômica",
+     4
+    ],
+    [
+     "Matemática Financeira",
+     4
+    ],
+    [
+     "Microeconomia II",
+     4
+    ],
+    [
+     "Contas Nacionais",
+     4
+    ],
+    [
+     "Administração Financeira II",
+     5
+    ],
+    [
+     "Econometria I",
+     5
+    ],
+    [
+     "Macroeconomia I",
+     5
+    ],
+    [
+     "Finanças Públicas e Orçamento",
+     5
+    ],
+    [
+     "Legislação Tributaria",
+     5
+    ],
+    [
+     "Finanças Corporativas",
+     6
+    ],
+    [
+     "Administração Financeira III",
+     6
+    ],
+    [
+     "Econometria II",
+     6
+    ],
+    [
+     "Macroeconomia II",
+     6
+    ],
+    [
+     "Economia Brasileira Contemporânea",
+     6
+    ],
+    [
+     "Mercado de Capitais I",
+     7
+    ],
+    [
+     "Estratégias de Mercado",
+     7
+    ],
+    [
+     "Programação e Projetos I",
+     7
+    ],
+    [
+     "Economia Monetária",
+     7
+    ],
+    [
+     "Desenvolvimento Sócio-Econômico",
+     7
+    ],
+    [
+     "Economia Internacional",
+     7
+    ],
+    [
+     "Estágio Curricular Supervisionado I",
+     7
+    ],
+    [
+     "Mercado de Capitais II",
+     8
+    ],
+    [
+     "Economia Industrial",
+     8
+    ],
+    [
+     "Programação e Projetos II",
+     8
+    ],
+    [
+     "Logística",
+     8
+    ],
+    [
+     "Negócios Internacionais",
+     8
+    ],
+    [
+     "Estágio Curricular Supervisionado II e TCC",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "não oferece Ciências Econômicas no campus Chapecó"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "site novo uno.edu.br (SPA em JS); matriz não acessível"
+  },
+  {
+   "uni": "FURB",
+   "url": "https://www.furb.br/web/upl/graduacao/matriz/202409091458070.publicar%20matriz%20economia%202024.2.pdf",
+   "matriz": "2024.2.007-0 (noturno)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Fundamentos de Economia",
+     1
+    ],
+    [
+     "Laboratório de Dados Econômicos",
+     1
+    ],
+    [
+     "Mercado Financeiro I",
+     1
+    ],
+    [
+     "Matemática Geral",
+     1
+    ],
+    [
+     "Contabilidade Geral",
+     1
+    ],
+    [
+     "Contabilidade Social",
+     2
+    ],
+    [
+     "História do Pensamento Econômico",
+     2
+    ],
+    [
+     "Cálculo Diferencial e Integral I",
+     2
+    ],
+    [
+     "Produção Textual Acadêmica",
+     2
+    ],
+    [
+     "Economia na Prática I",
+     2
+    ],
+    [
+     "Mercado Financeiro II",
+     3
+    ],
+    [
+     "Formação Econômica do Brasil",
+     3
+    ],
+    [
+     "Estatística Geral",
+     3
+    ],
+    [
+     "Universidade, Ciência e Pesquisa",
+     3
+    ],
+    [
+     "História da Cultura Afro-brasileira e Indígena",
+     3
+    ],
+    [
+     "Economia na Prática II",
+     3
+    ],
+    [
+     "Empreendedorismo",
+     4
+    ],
+    [
+     "Macroeconomia I",
+     4
+    ],
+    [
+     "Finanças Corporativas",
+     4
+    ],
+    [
+     "Desenvolvimento Socioeconômico",
+     4
+    ],
+    [
+     "Análise Financeira de Investimentos",
+     4
+    ],
+    [
+     "Microeconomia I",
+     5
+    ],
+    [
+     "Macroeconomia II",
+     5
+    ],
+    [
+     "Econometria I",
+     5
+    ],
+    [
+     "Economia Política",
+     5
+    ],
+    [
+     "Economia e Finanças Públicas",
+     5
+    ],
+    [
+     "Alteridade e Direitos Humanos",
+     5
+    ],
+    [
+     "Economia na Prática III",
+     5
+    ],
+    [
+     "Econometria II",
+     6
+    ],
+    [
+     "Microeconomia II",
+     6
+    ],
+    [
+     "Economia Internacional",
+     6
+    ],
+    [
+     "Economia Brasileira Contemporânea",
+     6
+    ],
+    [
+     "Práticas em Sustentabilidade",
+     6
+    ],
+    [
+     "Economia na Prática IV",
+     6
+    ],
+    [
+     "Economia de Empresas – Business Games",
+     7
+    ],
+    [
+     "Desenvolvimento Regional",
+     7
+    ],
+    [
+     "Finanças Internacionais",
+     7
+    ],
+    [
+     "Microeconomia III",
+     7
+    ],
+    [
+     "Macroeconomia III",
+     7
+    ],
+    [
+     "Trabalho de Conclusão de Curso – TCC I",
+     7
+    ],
+    [
+     "Mercado Financeiro III",
+     8
+    ],
+    [
+     "Elaboração e Análise de Projetos",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso – TCC II",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "univali.br recusa acesso (client_error)"
+  },
+  {
+   "uni": "Unisul",
+   "url": "https://estaticos.animaeducacao.com.br/medias/4c302c36-14ce-44b3-80a9-4762f34f5797.pdf",
+   "matriz": "Matriz Ânima por níveis, 8 semestres; só EaD (sem oferta presencial); texto desordenado, sem semestre por UC",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Direito, Compliance e Governança Corporativa",
+     null
+    ],
+    [
+     "Modelagem Quantitativa para Tomada de Decisão",
+     null
+    ],
+    [
+     "Conjuntura Econômica e Globalização",
+     null
+    ],
+    [
+     "História do Pensamento Econômico",
+     null
+    ],
+    [
+     "Propósito e Impacto Social",
+     null
+    ],
+    [
+     "Macroeconomia",
+     null
+    ],
+    [
+     "Economia Política Internacional",
+     null
+    ],
+    [
+     "Economia do Setor Público",
+     null
+    ],
+    [
+     "Métodos Quantitativos em Economia",
+     null
+    ],
+    [
+     "Gestão Estratégica de Finanças",
+     null
+    ],
+    [
+     "Projeto em Ciências Econômicas",
+     null
+    ],
+    [
+     "Macroeconomia Avançada",
+     null
+    ],
+    [
+     "Pesquisa em Ciências Econômicas",
+     null
+    ],
+    [
+     "Diagnóstico e Imersão no Território",
+     null
+    ],
+    [
+     "Microeconomia",
+     null
+    ],
+    [
+     "Co-Criação e Desenvolvimento de Projetos",
+     null
+    ],
+    [
+     "Economia Brasileira",
+     null
+    ],
+    [
+     "Econometria",
+     null
+    ],
+    [
+     "Finanças de Mercado: Investimentos, Trading e Banking",
+     null
+    ],
+    [
+     "Trabalho de Conclusão de Curso",
+     null
+    ]
+   ]
+  }
+ ],
+ "uniao": [
+  [
+   "Contabilidade Geral",
+   1
+  ],
+  [
+   "Filosofia",
+   1
+  ],
+  [
+   "História Econômica Geral",
+   1
+  ],
+  [
+   "Informática para Economistas",
+   1
+  ],
+  [
+   "Instituições de Direito Público e Privado",
+   1
+  ],
+  [
+   "Introdução à Economia",
+   1
+  ],
+  [
+   "Introdução à Macroeconomia",
+   1
+  ],
+  [
+   "Matemática Financeira",
+   1
+  ],
+  [
+   "Matemática I",
+   1
+  ],
+  [
+   "Mercado Financeiro I",
+   1
+  ],
+  [
+   "Metodologia Científica",
+   1
+  ],
+  [
+   "Cálculo I",
+   2
+  ],
+  [
+   "Contabilidade Social",
+   2
+  ],
+  [
+   "Economia na Prática I",
+   2
+  ],
+  [
+   "Ética Profissional",
+   2
+  ],
+  [
+   "Funções Administrativas",
+   2
+  ],
+  [
+   "Geometria Analítica",
+   2
+  ],
+  [
+   "História do Pensamento Econômico",
+   2
+  ],
+  [
+   "Introdução à Microeconomia",
+   2
+  ],
+  [
+   "Matemática II",
+   2
+  ],
+  [
+   "Produção Textual Acadêmica",
+   2
+  ],
+  [
+   "Sociologia",
+   2
+  ],
+  [
+   "Ciência Política",
+   3
+  ],
+  [
+   "Contabilidade de Custos",
+   3
+  ],
+  [
+   "Economia Matemática",
+   3
+  ],
+  [
+   "Economia na Prática II",
+   3
+  ],
+  [
+   "Economia Política I",
+   3
+  ],
+  [
+   "Estatística Econômica",
+   3
+  ],
+  [
+   "Estatística I",
+   3
+  ],
+  [
+   "Formação Econômica do Brasil I",
+   3
+  ],
+  [
+   "História da Cultura Afro-brasileira e Indígena",
+   3
+  ],
+  [
+   "Macroeconomia I",
+   3
+  ],
+  [
+   "Matemática III",
+   3
+  ],
+  [
+   "Mercado Financeiro II",
+   3
+  ],
+  [
+   "Microeconomia I",
+   3
+  ],
+  [
+   "Universidade, Ciência e Pesquisa",
+   3
+  ],
+  [
+   "Administração Financeira I",
+   4
+  ],
+  [
+   "Análise Financeira de Investimentos",
+   4
+  ],
+  [
+   "Desenvolvimento Socioeconômico",
+   4
+  ],
+  [
+   "Economia Política II",
+   4
+  ],
+  [
+   "Empreendedorismo",
+   4
+  ],
+  [
+   "Finanças Corporativas",
+   4
+  ],
+  [
+   "Formação Econômica do Brasil II",
+   4
+  ],
+  [
+   "Macroeconomia II",
+   4
+  ],
+  [
+   "Microeconomia II",
+   4
+  ],
+  [
+   "Administração Financeira II",
+   5
+  ],
+  [
+   "Alteridade e Direitos Humanos",
+   5
+  ],
+  [
+   "Contabilidade e Análise Financeira",
+   5
+  ],
+  [
+   "Econometria I",
+   5
+  ],
+  [
+   "Economia do Setor Público",
+   5
+  ],
+  [
+   "Economia na Prática III",
+   5
+  ],
+  [
+   "Legislação Tributária",
+   5
+  ],
+  [
+   "Macroeconomia III",
+   5
+  ],
+  [
+   "Administração Financeira III",
+   6
+  ],
+  [
+   "Econometria II",
+   6
+  ],
+  [
+   "Economia Brasileira Contemporânea I",
+   6
+  ],
+  [
+   "Economia Internacional",
+   6
+  ],
+  [
+   "Economia na Prática IV",
+   6
+  ],
+  [
+   "Microeconomia III",
+   6
+  ],
+  [
+   "Práticas em Sustentabilidade",
+   6
+  ],
+  [
+   "Desenvolvimento Regional",
+   7
+  ],
+  [
+   "Economia Brasileira Contemporânea II",
+   7
+  ],
+  [
+   "Economia de Empresas – Business Games",
+   7
+  ],
+  [
+   "Economia Monetária",
+   7
+  ],
+  [
+   "Elaboração e Análise de Projetos I",
+   7
+  ],
+  [
+   "Estágio Supervisionado I",
+   7
+  ],
+  [
+   "Estratégias de Mercado",
+   7
+  ],
+  [
+   "Finanças Internacionais",
+   7
+  ],
+  [
+   "Trabalho de Conclusão de Curso I",
+   7
+  ],
+  [
+   "Economia Industrial",
+   8
+  ],
+  [
+   "Elaboração e Análise de Projetos II",
+   8
+  ],
+  [
+   "Estágio Supervisionado II",
+   8
+  ],
+  [
+   "Logística",
+   8
+  ],
+  [
+   "Mercado Financeiro III",
+   8
+  ],
+  [
+   "Negócios Internacionais",
+   8
+  ],
+  [
+   "Técnicas de Pesquisa em Economia",
+   8
+  ],
+  [
+   "Trabalho de Conclusão de Curso II",
+   8
+  ]
+ ],
+ "notas": "Bacharelado, 8 semestres típicos (UFSC 9 fases; Monografia II da 9ª fase unificada com TCC II na 8ª). UFSC: fonte é o fluxograma (Google Sheets) linkado pelo próprio curso, não o relatório CAGR (inacessível de forma confiável). UDESC: só foi encontrado o PPC de 2007 — conferir se há matriz mais nova. Unisul: só EaD; matriz por níveis sem semestre por UC, por isso semestres null na fonte e UCs da Unisul só entram na união quando equivalentes a disciplinas de outras fontes (Macroeconomia → Macroeconomia I; Macroeconomia Avançada → Macroeconomia III; Microeconomia → Microeconomia I; Econometria → Econometria I; Economia Brasileira → Economia Brasileira Contemporânea I; Economia do Setor Público → Economia do Setor Público; HPE; TCC). UCs exclusivas da Unisul NÃO incluídas por falta de semestre: Direito, Compliance e Governança Corporativa; Modelagem Quantitativa para Tomada de Decisão; Conjuntura Econômica e Globalização; Propósito e Impacto Social; Economia Política Internacional; Métodos Quantitativos em Economia; Gestão Estratégica de Finanças; Projeto em Ciências Econômicas; Pesquisa em Ciências Econômicas; Diagnóstico e Imersão no Território; Co-Criação e Desenvolvimento de Projetos; Finanças de Mercado: Investimentos, Trading e Banking. Outras equivalências: Introdução à Economia = Fundamentos de Economia; HPE = Introdução ao Pensamento Econômico; Informática para Economistas = Tecnologia Básica de Informação… = Laboratório de Dados Econômicos; Matemática I = Matemática Geral; Cálculo I = Cálculo 1 = Cálculo Diferencial e Integral I; Estatística I = Introdução à Estatística = Métodos Estatísticos = Estatística Geral; Contabilidade Social = Contas Nacionais; Economia Política I = Economia Política (FURB); Econometria I = Econometria (UFSC); FEB I = Formação Econômica do Brasil; Economia do Setor Público = Finanças Públicas e Orçamento = Economia e Finanças Públicas; Mercado Financeiro I/II = Mercado de Capitais I/II (UDESC); Elaboração e Análise de Projetos I/II = Programação e Projetos I/II; TCC I = Monografia I; TCC II = Monografia II = TCC II; Estágio Supervisionado II = parte de 'Estágio Curricular Supervisionado II e TCC' (UDESC); Ética Profissional = Ética Humana e Profissional; Metodologia Científica = Metodologia Científica e da Pesquisa. Economia na Prática I–IV (FURB) mantidas como componentes nomeados. Excluídos: eletiva, Prática Desportiva, AACC."
+}

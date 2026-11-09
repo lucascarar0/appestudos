@@ -1,0 +1,989 @@
+{
+ "id": "dir",
+ "curso": "Direito",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://ccj.ufsc.br/curso/ajuste/",
+   "matriz": "Currículo 2023 (lista parcial: tabela de transição curricular)",
+   "semestres": 10,
+   "disciplinas": [
+    [
+     "Teoria do Direito",
+     1
+    ],
+    [
+     "História do Direito",
+     1
+    ],
+    [
+     "Teoria Política",
+     1
+    ],
+    [
+     "Direito Civil - Parte Geral I",
+     1
+    ],
+    [
+     "Direito Penal I",
+     1
+    ],
+    [
+     "Economia Política",
+     2
+    ],
+    [
+     "Metodologia da Pesquisa em Direito",
+     2
+    ],
+    [
+     "Teoria do Direito II",
+     2
+    ],
+    [
+     "Direito Constitucional I",
+     2
+    ],
+    [
+     "Sociologia do Direito",
+     2
+    ],
+    [
+     "Direito Civil - Parte Geral II",
+     2
+    ],
+    [
+     "Direito Penal II",
+     2
+    ],
+    [
+     "Criminologia e Política Criminal",
+     3
+    ],
+    [
+     "Direito Constitucional II",
+     3
+    ],
+    [
+     "Direito Civil - Obrigações",
+     3
+    ],
+    [
+     "Direito Penal III",
+     3
+    ],
+    [
+     "Antropologia Jurídica",
+     4
+    ],
+    [
+     "Teoria do Processo",
+     4
+    ],
+    [
+     "Direito Constitucional III",
+     4
+    ],
+    [
+     "Dir. Civil - Contratos e Atos Unilaterais",
+     4
+    ],
+    [
+     "Formas Alt. de Solução de Conflitos II",
+     4
+    ],
+    [
+     "Direito Penal IV",
+     4
+    ],
+    [
+     "Direito Internacional",
+     5
+    ],
+    [
+     "Direito do Trabalho I",
+     5
+    ],
+    [
+     "Processo Civil I",
+     5
+    ],
+    [
+     "Processo Penal I",
+     5
+    ],
+    [
+     "Dir. Civil - Resp. Civil",
+     5
+    ],
+    [
+     "Filosofia do Direito",
+     6
+    ],
+    [
+     "Direito Civil - Família",
+     6
+    ],
+    [
+     "Processo Civil II",
+     6
+    ],
+    [
+     "Processo Penal II",
+     6
+    ],
+    [
+     "Direito do Trabalho II",
+     6
+    ],
+    [
+     "Prática Jurídica I",
+     6
+    ],
+    [
+     "Direito Civil - Coisas",
+     7
+    ],
+    [
+     "Processo Civil III",
+     7
+    ],
+    [
+     "Direito Empresarial I",
+     7
+    ],
+    [
+     "Direito Administrativo I",
+     7
+    ],
+    [
+     "Processo do Trabalho",
+     7
+    ],
+    [
+     "Prática Jurídica II",
+     7
+    ],
+    [
+     "Direito Civil - Sucessões",
+     8
+    ],
+    [
+     "Processo Civil IV",
+     8
+    ],
+    [
+     "Projetos de Pesquisa em Direito",
+     8
+    ],
+    [
+     "Direito Empresarial II",
+     8
+    ],
+    [
+     "Direito Administrativo II",
+     8
+    ],
+    [
+     "Direito Tributário I",
+     8
+    ],
+    [
+     "Prática Jurídica III",
+     8
+    ],
+    [
+     "Ética Profissional",
+     9
+    ],
+    [
+     "Direito Ambiental",
+     9
+    ],
+    [
+     "Direito Empresarial III",
+     9
+    ],
+    [
+     "Direito Tributário II",
+     9
+    ],
+    [
+     "Processo Constitucional",
+     9
+    ],
+    [
+     "Prática Jurídica IV",
+     9
+    ],
+    [
+     "Hermenêutica Jurídica",
+     10
+    ],
+    [
+     "Psicologia Jurídica",
+     10
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "nao_encontrada": "não oferece Direito"
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "não oferece Direito no campus Chapecó"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "PPCs antigos (unochapeco.edu.br/static/...) redirecionam para a home do novo site uno.edu.br (SPA em JS); matriz não acessível"
+  },
+  {
+   "uni": "FURB",
+   "url": "https://www.furb.br/web/upl/graduacao/projeto_pedagogico/202504221357150.9.PPC Direito 2022.1.pdf",
+   "matriz": "PPC 2022.1",
+   "semestres": 10,
+   "disciplinas": [
+    [
+     "Universidade Ciência e Pesquisa",
+     1
+    ],
+    [
+     "Teoria do Direito",
+     1
+    ],
+    [
+     "História das Instituições Jurídicas",
+     1
+    ],
+    [
+     "Teoria da Constituição e do Estado",
+     1
+    ],
+    [
+     "Direito Penal I",
+     1
+    ],
+    [
+     "Educação Física I",
+     1
+    ],
+    [
+     "Produção Textual Acadêmica",
+     2
+    ],
+    [
+     "Direito Constitucional I",
+     2
+    ],
+    [
+     "Direito Civil – Parte Geral",
+     2
+    ],
+    [
+     "Direito Penal II",
+     2
+    ],
+    [
+     "Educação Física II",
+     2
+    ],
+    [
+     "Direitos Humanos e Sustentabilidade",
+     2
+    ],
+    [
+     "Direito Civil – Direito das Obrigações",
+     3
+    ],
+    [
+     "Direito Constitucional II",
+     3
+    ],
+    [
+     "Meios Adequados de Solução de Conflitos",
+     3
+    ],
+    [
+     "Direito Penal III",
+     3
+    ],
+    [
+     "Diversidade e Sociedade",
+     3
+    ],
+    [
+     "Psicologia aplicada ao Direito",
+     3
+    ],
+    [
+     "Linguagem e Argumentação Jurídica",
+     3
+    ],
+    [
+     "Tópicos Extensionistas I",
+     3
+    ],
+    [
+     "Teoria Geral do Processo",
+     4
+    ],
+    [
+     "Direito Constitucional III",
+     4
+    ],
+    [
+     "Direito Penal IV",
+     4
+    ],
+    [
+     "Direito Civil – Responsabilidade Civil",
+     4
+    ],
+    [
+     "Teoria Social e Realidade Brasileira",
+     4
+    ],
+    [
+     "Direito Civil – Contratos – Parte Geral",
+     4
+    ],
+    [
+     "Tópicos Extensionistas II",
+     4
+    ],
+    [
+     "Direito Civil – Contratos em Espécie",
+     5
+    ],
+    [
+     "Direito Processual Civil I",
+     5
+    ],
+    [
+     "Direito Processual Penal I",
+     5
+    ],
+    [
+     "Direito das Relações de Trabalho I",
+     5
+    ],
+    [
+     "Filosofia do Direito",
+     5
+    ],
+    [
+     "Direito de Relações de Consumo",
+     5
+    ],
+    [
+     "Tópicos Extensionistas III",
+     5
+    ],
+    [
+     "Direito Processual Civil II",
+     6
+    ],
+    [
+     "Direito Processual Penal II",
+     6
+    ],
+    [
+     "Direito das Relações de Trabalho II",
+     6
+    ],
+    [
+     "Direito Civil – Relações de Família",
+     6
+    ],
+    [
+     "Hermenêutica Jurídica",
+     6
+    ],
+    [
+     "Tópicos Extensionistas IV",
+     6
+    ],
+    [
+     "Prática em Direito Civil",
+     6
+    ],
+    [
+     "Direito Processual Civil III",
+     7
+    ],
+    [
+     "Direito Civil – Direito das Coisas",
+     7
+    ],
+    [
+     "Direito Processual do Trabalho",
+     7
+    ],
+    [
+     "Direito das Relações Empresariais I",
+     7
+    ],
+    [
+     "Ética Profissional",
+     7
+    ],
+    [
+     "Direito Internacional",
+     7
+    ],
+    [
+     "Tópicos Extensionistas V",
+     7
+    ],
+    [
+     "Prática em Direito Penal",
+     7
+    ],
+    [
+     "Direito Civil – Sucessões",
+     8
+    ],
+    [
+     "Direito Financeiro",
+     8
+    ],
+    [
+     "Direito das Relações Empresariais II",
+     8
+    ],
+    [
+     "Direito Ambiental",
+     8
+    ],
+    [
+     "Bioética e Biodireito",
+     8
+    ],
+    [
+     "Oficina da Pesquisa",
+     8
+    ],
+    [
+     "Prática em Direito do Trabalho",
+     8
+    ],
+    [
+     "Intervenção I",
+     8
+    ],
+    [
+     "Direito Tributário I",
+     9
+    ],
+    [
+     "Direito Administrativo I",
+     9
+    ],
+    [
+     "Direito das Relações Empresariais III",
+     9
+    ],
+    [
+     "Direito da Infância, Juventude e Idoso",
+     9
+    ],
+    [
+     "Direito Previdenciário",
+     9
+    ],
+    [
+     "Tutela Jurisdicional Ambiental",
+     9
+    ],
+    [
+     "Prática de Impugnação em Decisões Cíveis",
+     9
+    ],
+    [
+     "Intervenção II",
+     9
+    ],
+    [
+     "Direito Tributário II",
+     10
+    ],
+    [
+     "Direito Administrativo II",
+     10
+    ],
+    [
+     "Direito, Tecnologia e Inovação",
+     10
+    ],
+    [
+     "Legislação Criminal Especial",
+     10
+    ],
+    [
+     "Intervenção III",
+     10
+    ],
+    [
+     "Trabalho de Curso (TC)",
+     10
+    ]
+   ]
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "univali.br e adminnovoportal.univali.br recusam acesso (client_error) às Sínteses de PPC de Direito (Itajaí, Tijucas, Kobrasol)"
+  },
+  {
+   "uni": "Unisul",
+   "url": "https://estaticos.animaeducacao.com.br/medias/20250926125828/matriz-Direito_Bach_10sem_Cluster2.pdf",
+   "matriz": "Matriz Direito Bacharelado 10 sem (Cluster 2, Ânima), presencial",
+   "semestres": 10,
+   "disciplinas": [
+    [
+     "Academia de futuros profissionais",
+     2
+    ],
+    [
+     "Lições Preliminares de Direito e Parte Geral do Direito Civil",
+     2
+    ],
+    [
+     "Direito Penal: Teoria Geral",
+     2
+    ],
+    [
+     "Teoria da Constituição, Teoria Política e Direitos Fundamentais",
+     2
+    ],
+    [
+     "Direito Civil: Obrigações, Responsabilidade Civil e Contratos",
+     2
+    ],
+    [
+     "Teoria da Empresa e Direito Societário",
+     2
+    ],
+    [
+     "Constituição, Democracia e Meio Ambiente",
+     2
+    ],
+    [
+     "Direitos Humanos e Multiculturalismo",
+     5
+    ],
+    [
+     "Direito Processual Penal",
+     5
+    ],
+    [
+     "Direitos Reais e Contratos em Espécie",
+     5
+    ],
+    [
+     "Direito Processual Civil: Da Teoria Geral ao Processo de Conhecimento",
+     5
+    ],
+    [
+     "Direito Administrativo",
+     5
+    ],
+    [
+     "Direito de Família e Sucessões",
+     5
+    ],
+    [
+     "Direito Penal: Parte Especial e Legislação Extravagante",
+     5
+    ],
+    [
+     "Direito do Trabalho",
+     5
+    ],
+    [
+     "Direito Econômico e Financeiro",
+     5
+    ],
+    [
+     "Direito do Consumidor",
+     5
+    ],
+    [
+     "Direito Tributário",
+     5
+    ],
+    [
+     "Direito Digital e Inteligência Artificial: Regulação e Inovação Jurídica",
+     5
+    ],
+    [
+     "Direito Previdenciário",
+     5
+    ],
+    [
+     "Ética Profissional",
+     5
+    ],
+    [
+     "Prática Cível",
+     5
+    ],
+    [
+     "Prática Tributária",
+     5
+    ],
+    [
+     "Prática Criminal",
+     5
+    ],
+    [
+     "Direito Processual do Trabalho",
+     9
+    ],
+    [
+     "Metodologia do Trabalho Científico",
+     9
+    ],
+    [
+     "Direito Internacional",
+     9
+    ],
+    [
+     "Recuperação Empresarial, Falência e Títulos de Crédito",
+     9
+    ],
+    [
+     "Direito Processual Civil: Recursos, Execução e Procedimentos Especiais",
+     9
+    ],
+    [
+     "Microssistemas Jurídicos: ECA, Idoso e Direito (nome truncado na fonte)",
+     9
+    ],
+    [
+     "Trabalho de Conclusão de Curso",
+     9
+    ],
+    [
+     "Prática Trabalhista",
+     9
+    ],
+    [
+     "Prática Jurídica em Direito Público",
+     9
+    ]
+   ]
+  }
+ ],
+ "uniao": [
+  [
+   "Direito Civil – Parte Geral I",
+   1
+  ],
+  [
+   "Direito Penal I",
+   1
+  ],
+  [
+   "História do Direito",
+   1
+  ],
+  [
+   "Teoria da Constituição e do Estado",
+   1
+  ],
+  [
+   "Teoria do Direito I",
+   1
+  ],
+  [
+   "Teoria Política",
+   1
+  ],
+  [
+   "Universidade, Ciência e Pesquisa",
+   1
+  ],
+  [
+   "Academia de Futuros Profissionais",
+   2
+  ],
+  [
+   "Constituição, Democracia e Meio Ambiente",
+   2
+  ],
+  [
+   "Direito Civil – Parte Geral II",
+   2
+  ],
+  [
+   "Direito Constitucional",
+   2
+  ],
+  [
+   "Direito Penal II",
+   2
+  ],
+  [
+   "Direitos Humanos",
+   2
+  ],
+  [
+   "Economia Política",
+   2
+  ],
+  [
+   "Metodologia da Pesquisa em Direito",
+   2
+  ],
+  [
+   "Produção Textual Acadêmica",
+   2
+  ],
+  [
+   "Sociologia do Direito",
+   2
+  ],
+  [
+   "Teoria do Direito II",
+   2
+  ],
+  [
+   "Criminologia e Política Criminal",
+   3
+  ],
+  [
+   "Direito Civil – Obrigações",
+   3
+  ],
+  [
+   "Direito Constitucional II",
+   3
+  ],
+  [
+   "Direito Penal III",
+   3
+  ],
+  [
+   "Diversidade e Sociedade",
+   3
+  ],
+  [
+   "Linguagem e Argumentação Jurídica",
+   3
+  ],
+  [
+   "Meios Adequados de Solução de Conflitos",
+   3
+  ],
+  [
+   "Psicologia Jurídica",
+   3
+  ],
+  [
+   "Antropologia Jurídica",
+   4
+  ],
+  [
+   "Direito Civil – Contratos I",
+   4
+  ],
+  [
+   "Direito Civil – Responsabilidade Civil",
+   4
+  ],
+  [
+   "Direito Constitucional III",
+   4
+  ],
+  [
+   "Direito Penal IV",
+   4
+  ],
+  [
+   "Teoria Geral do Processo",
+   4
+  ],
+  [
+   "Teoria Social e Realidade Brasileira",
+   4
+  ],
+  [
+   "Direito Civil – Contratos II",
+   5
+  ],
+  [
+   "Direito do Consumidor",
+   5
+  ],
+  [
+   "Direito do Trabalho I",
+   5
+  ],
+  [
+   "Direito Internacional",
+   5
+  ],
+  [
+   "Direito Processual Civil I",
+   5
+  ],
+  [
+   "Direito Processual Penal I",
+   5
+  ],
+  [
+   "Filosofia do Direito",
+   5
+  ],
+  [
+   "Direito Civil – Família",
+   6
+  ],
+  [
+   "Direito do Trabalho II",
+   6
+  ],
+  [
+   "Direito Processual Civil II",
+   6
+  ],
+  [
+   "Direito Processual Penal II",
+   6
+  ],
+  [
+   "Hermenêutica Jurídica",
+   6
+  ],
+  [
+   "Prática Jurídica I",
+   6
+  ],
+  [
+   "Direito Administrativo I",
+   7
+  ],
+  [
+   "Direito Civil – Coisas",
+   7
+  ],
+  [
+   "Direito Empresarial I",
+   7
+  ],
+  [
+   "Direito Processual Civil III",
+   7
+  ],
+  [
+   "Direito Processual do Trabalho",
+   7
+  ],
+  [
+   "Ética Profissional",
+   7
+  ],
+  [
+   "Prática Jurídica II",
+   7
+  ],
+  [
+   "Bioética e Biodireito",
+   8
+  ],
+  [
+   "Direito Administrativo II",
+   8
+  ],
+  [
+   "Direito Ambiental",
+   8
+  ],
+  [
+   "Direito Civil – Sucessões",
+   8
+  ],
+  [
+   "Direito Empresarial II",
+   8
+  ],
+  [
+   "Direito Financeiro",
+   8
+  ],
+  [
+   "Direito Processual Civil IV",
+   8
+  ],
+  [
+   "Direito Tributário I",
+   8
+  ],
+  [
+   "Estágio Supervisionado I",
+   8
+  ],
+  [
+   "Prática Jurídica III",
+   8
+  ],
+  [
+   "Projeto de Pesquisa em Direito",
+   8
+  ],
+  [
+   "Direito da Criança, do Adolescente e do Idoso",
+   9
+  ],
+  [
+   "Direito Empresarial III",
+   9
+  ],
+  [
+   "Direito Previdenciário",
+   9
+  ],
+  [
+   "Direito Tributário II",
+   9
+  ],
+  [
+   "Estágio Supervisionado II",
+   9
+  ],
+  [
+   "Prática Jurídica IV",
+   9
+  ],
+  [
+   "Prática Jurídica V",
+   9
+  ],
+  [
+   "Processo Constitucional",
+   9
+  ],
+  [
+   "Tutela Jurisdicional Ambiental",
+   9
+  ],
+  [
+   "Direito Digital, Tecnologia e Inovação",
+   10
+  ],
+  [
+   "Estágio Supervisionado III",
+   10
+  ],
+  [
+   "Legislação Criminal Especial",
+   10
+  ],
+  [
+   "Trabalho de Conclusão de Curso",
+   10
+  ]
+ ],
+ "notas": "Bacharelado presencial, 10 semestres. UFSC: só foi possível ler a tabela de transição do Currículo 2023 (PPC em arquivos.ufsc.br bloqueado por robots), lista possivelmente incompleta (não inclui p.ex. TCC nem Formas Alternativas I). Unisul (Ânima) organiza a matriz por níveis (Fundamental/Intermediário/Avançado) sem semestre fixo: semestres aproximados 2/5/9, usados no cálculo do semestre da união só quando a disciplina não existe em outra fonte. Unidades combinadas da Unisul foram mapeadas à disciplina mais próxima (ex.: Lições Preliminares → Parte Geral I; Penal Parte Especial → Penal III; Direitos Reais → Coisas; Teoria da Empresa → Empresarial I; Recuperação/Falência → Empresarial II; Família e Sucessões → Família; Direito Digital e IA → Direito Digital, Tecnologia e Inovação; Microssistemas ECA/Idoso → Criança, Adolescente e Idoso; Metodologia do Trabalho Científico → Metodologia da Pesquisa). Prática Jurídica I–V: práticas de cada fonte numeradas na ordem (FURB Civil/Penal/Trabalho/Impugnação Cível; Unisul Cível/Tributária/Criminal/Trabalhista/Direito Público). Estágio Supervisionado I–III = 'Intervenção I–III' da FURB. 'Direito Constitucional' (chave do app) = Direito Constitucional I. Oficina da Pesquisa (FURB) = Projetos de Pesquisa em Direito (UFSC). Excluídos: Tópicos Extensionistas I–V (FURB, extensão), eletivas, AACC. Educação Física I–II (Prática Desportiva da FURB, não computa carga horária do curso) excluídas da união."
+}

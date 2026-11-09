@@ -1,0 +1,337 @@
+{
+ "id": "eso",
+ "curso": "Engenharia de Software",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "nao_encontrada": "UFSC não oferece bacharelado em Engenharia de Software"
+  },
+  {
+   "uni": "UDESC",
+   "url": "https://www.udesc.br/arquivos/ceavi/id_cpmenu/139/Reforma_Curricular___Eng_Software_Res_001_2023_CEG_16860863686662_139.pdf",
+   "matriz": "Reforma curricular, Resolução nº 01/2023-CEG (CEAVI, Ibirama)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Introdução ao Desenvolvimento de Software e Testes",
+     1
+    ],
+    [
+     "Fundamentos de Engenharia de Software",
+     1
+    ],
+    [
+     "Tópicos em Matemática Básica e Lógica Matemática",
+     1
+    ],
+    [
+     "Processos",
+     1
+    ],
+    [
+     "Desenvolvimento de Software Orientado a Objetos I",
+     2
+    ],
+    [
+     "Requisitos de Software",
+     2
+    ],
+    [
+     "Infraestruturas Computacionais",
+     2
+    ],
+    [
+     "Comunicação e Metodologia de Pesquisa em Engenharia de Software",
+     2
+    ],
+    [
+     "Modelagem de Dados",
+     2
+    ],
+    [
+     "Desenvolvimento de Software Orientado a Objetos II",
+     3
+    ],
+    [
+     "Testes de Software",
+     3
+    ],
+    [
+     "Interface Humano-Computador",
+     3
+    ],
+    [
+     "Matemática Discreta",
+     3
+    ],
+    [
+     "Persistência de Dados",
+     3
+    ],
+    [
+     "Projeto de Software",
+     4
+    ],
+    [
+     "Probabilidade e Estatística",
+     4
+    ],
+    [
+     "Resolução de Problemas com Estruturas de Dados",
+     4
+    ],
+    [
+     "Desenvolvimento de Interface de Usuário",
+     4
+    ],
+    [
+     "Qualidade de Software",
+     4
+    ],
+    [
+     "Padrões de Projeto",
+     5
+    ],
+    [
+     "Desenvolvimento de Software Web",
+     5
+    ],
+    [
+     "Engenharia de Software Experimental",
+     5
+    ],
+    [
+     "Inteligência Artificial",
+     5
+    ],
+    [
+     "Gerência de Projetos",
+     5
+    ],
+    [
+     "Arquitetura de Software",
+     6
+    ],
+    [
+     "Desenvolvimento de Software para Dispositivos Móveis",
+     6
+    ],
+    [
+     "DevOps",
+     6
+    ],
+    [
+     "Projeto Integrador I",
+     6
+    ],
+    [
+     "Pesquisa Operacional e Otimização",
+     7
+    ],
+    [
+     "Gestão da Inovação em Engenharia de Software",
+     7
+    ],
+    [
+     "Projeto Integrador II",
+     7
+    ],
+    [
+     "Trabalho de Conclusão de Curso I",
+     7
+    ],
+    [
+     "Empreendedorismo em Engenharia de Software",
+     8
+    ],
+    [
+     "Aspectos Sociais e Legais da Engenharia de Software",
+     8
+    ],
+    [
+     "Sistemas de Informação",
+     8
+    ],
+    [
+     "Desenvolvimento de Software Concorrente e Distribuído",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso II",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "UFFS Chapecó não oferece Engenharia de Software"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "Unochapecó não oferece Engenharia de Software (só CC e SI na área)"
+  },
+  {
+   "uni": "FURB",
+   "nao_encontrada": "FURB não oferece Engenharia de Software (só CC e SI na área)"
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "Univali não oferece Engenharia de Software na graduação (só pós)"
+  },
+  {
+   "uni": "Unisul",
+   "nao_encontrada": "oferta semipresencial (Tubarão); o PPC publicado (estaticos.animaeducacao.com.br) não traz a tabela da matriz"
+  }
+ ],
+ "uniao": [
+  [
+   "Fundamentos de Engenharia de Software",
+   1
+  ],
+  [
+   "Introdução ao Desenvolvimento de Software e Testes",
+   1
+  ],
+  [
+   "Processos",
+   1
+  ],
+  [
+   "Tópicos em Matemática Básica e Lógica Matemática",
+   1
+  ],
+  [
+   "Comunicação e Metodologia de Pesquisa em Engenharia de Software",
+   2
+  ],
+  [
+   "Desenvolvimento de Software Orientado a Objetos I",
+   2
+  ],
+  [
+   "Infraestruturas Computacionais",
+   2
+  ],
+  [
+   "Modelagem de Dados",
+   2
+  ],
+  [
+   "Requisitos de Software",
+   2
+  ],
+  [
+   "Desenvolvimento de Software Orientado a Objetos II",
+   3
+  ],
+  [
+   "Interface Humano-Computador",
+   3
+  ],
+  [
+   "Matemática Discreta",
+   3
+  ],
+  [
+   "Persistência de Dados",
+   3
+  ],
+  [
+   "Testes de Software",
+   3
+  ],
+  [
+   "Desenvolvimento de Interface de Usuário",
+   4
+  ],
+  [
+   "Probabilidade e Estatística",
+   4
+  ],
+  [
+   "Projeto de Software",
+   4
+  ],
+  [
+   "Qualidade de Software",
+   4
+  ],
+  [
+   "Resolução de Problemas com Estruturas de Dados",
+   4
+  ],
+  [
+   "Desenvolvimento de Software Web",
+   5
+  ],
+  [
+   "Engenharia de Software Experimental",
+   5
+  ],
+  [
+   "Gerência de Projetos",
+   5
+  ],
+  [
+   "Inteligência Artificial",
+   5
+  ],
+  [
+   "Padrões de Projeto",
+   5
+  ],
+  [
+   "Arquitetura de Software",
+   6
+  ],
+  [
+   "Desenvolvimento de Software para Dispositivos Móveis",
+   6
+  ],
+  [
+   "DevOps",
+   6
+  ],
+  [
+   "Projeto Integrador I",
+   6
+  ],
+  [
+   "Gestão da Inovação em Engenharia de Software",
+   7
+  ],
+  [
+   "Pesquisa Operacional e Otimização",
+   7
+  ],
+  [
+   "Projeto Integrador II",
+   7
+  ],
+  [
+   "Trabalho de Conclusão de Curso I",
+   7
+  ],
+  [
+   "Aspectos Sociais e Legais da Engenharia de Software",
+   8
+  ],
+  [
+   "Desenvolvimento de Software Concorrente e Distribuído",
+   8
+  ],
+  [
+   "Empreendedorismo em Engenharia de Software",
+   8
+  ],
+  [
+   "Sistemas de Informação",
+   8
+  ],
+  [
+   "Trabalho de Conclusão de Curso II",
+   8
+  ]
+ ],
+ "notas": "Bacharelado presencial. Só 1 de 7 universidades com o curso presencial e matriz obtida (UDESC/CEAVI). As 4 disciplinas da 8ª fase além do TCC II estão na tabela da fase e não na lista de optativas, mas o documento não as rotula explicitamente como obrigatórias. Ofertas ausentes inferidas por buscas (não há página do curso nessas instituições); Unisul tem oferta semipresencial sem grade acessível. Duração típica: 8 semestres."
+}

@@ -1,0 +1,289 @@
+{
+ "id": "ri",
+ "curso": "Relações Internacionais",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://docs.google.com/spreadsheets/d/1U2uz7wYcL--3hQwSENRvbIZ1tkTBwvcVRqAFJcZ1zMI/edit?usp=sharing",
+   "matriz": "Fluxograma de disciplinas linkado em ri.ufsc.br/disciplinas/fluxograma-disciplinas (curso 340; ferramenta não oficial)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Pesquisa Bibliográfica",
+     1
+    ],
+    [
+     "Introdução às Relações Internacionais",
+     1
+    ],
+    [
+     "Introdução à Economia",
+     1
+    ],
+    [
+     "Instituições de Direito Público",
+     1
+    ],
+    [
+     "História das Relações Internacionais I",
+     1
+    ],
+    [
+     "Ciência Política",
+     1
+    ],
+    [
+     "Comércio Exterior",
+     2
+    ],
+    [
+     "Teoria das Relações Internacionais I",
+     2
+    ],
+    [
+     "Direito Internacional I",
+     2
+    ],
+    [
+     "História das Relações Internacionais II",
+     2
+    ],
+    [
+     "Introdução à Estatística",
+     2
+    ],
+    [
+     "Macro (Macro Aberta)",
+     3
+    ],
+    [
+     "Direito Internacional II",
+     3
+    ],
+    [
+     "Organizações Internacionais",
+     3
+    ],
+    [
+     "Teoria Política I",
+     3
+    ],
+    [
+     "Microeconomia",
+     3
+    ],
+    [
+     "Segurança Internacional",
+     4
+    ],
+    [
+     "Formação Econômica do Brasil I",
+     4
+    ],
+    [
+     "Geografia Econômica Internacional",
+     4
+    ],
+    [
+     "Economia Internacional I",
+     4
+    ],
+    [
+     "Negociação Internacional",
+     4
+    ],
+    [
+     "Teoria das Relações Internacionais II",
+     5
+    ],
+    [
+     "Formação Econômica do Brasil II",
+     5
+    ],
+    [
+     "Economia Internacional II (Finanças)",
+     5
+    ],
+    [
+     "Teoria Política II",
+     5
+    ],
+    [
+     "Política Externa Brasileira I",
+     6
+    ],
+    [
+     "Métodos e Técnicas de Pesquisa na Ciências Sociais e Relações Internacionais",
+     6
+    ],
+    [
+     "Economia Brasileira Contemporânea",
+     6
+    ],
+    [
+     "Política Externa Brasileira II",
+     7
+    ],
+    [
+     "Economia Política Internacional",
+     7
+    ],
+    [
+     "Monografia",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "nao_encontrada": "não oferece Relações Internacionais"
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "não oferece Relações Internacionais no campus Chapecó"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "não identificada oferta; site uno.edu.br inacessível (SPA em JS)"
+  },
+  {
+   "uni": "FURB",
+   "nao_encontrada": "não oferece (página de matrizes da FURB não lista o curso)"
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "univali.br recusa acesso (client_error)"
+  },
+  {
+   "uni": "Unisul",
+   "nao_encontrada": "curso presencial/EaD existe, mas a página não expõe o PDF da matriz; PDF encontrado na busca era de outro curso"
+  }
+ ],
+ "uniao": [
+  [
+   "Ciência Política",
+   1
+  ],
+  [
+   "História das Relações Internacionais I",
+   1
+  ],
+  [
+   "Instituições de Direito Público",
+   1
+  ],
+  [
+   "Introdução à Economia",
+   1
+  ],
+  [
+   "Introdução às Relações Internacionais",
+   1
+  ],
+  [
+   "Pesquisa Bibliográfica",
+   1
+  ],
+  [
+   "Comércio Exterior",
+   2
+  ],
+  [
+   "Direito Internacional I",
+   2
+  ],
+  [
+   "História das Relações Internacionais II",
+   2
+  ],
+  [
+   "Introdução à Estatística",
+   2
+  ],
+  [
+   "Teoria das Relações Internacionais I",
+   2
+  ],
+  [
+   "Direito Internacional II",
+   3
+  ],
+  [
+   "Macroeconomia Aberta",
+   3
+  ],
+  [
+   "Microeconomia",
+   3
+  ],
+  [
+   "Organizações Internacionais",
+   3
+  ],
+  [
+   "Teoria Política I",
+   3
+  ],
+  [
+   "Economia Internacional I",
+   4
+  ],
+  [
+   "Formação Econômica do Brasil I",
+   4
+  ],
+  [
+   "Geografia Econômica Internacional",
+   4
+  ],
+  [
+   "Negociação Internacional",
+   4
+  ],
+  [
+   "Segurança Internacional",
+   4
+  ],
+  [
+   "Economia Internacional II",
+   5
+  ],
+  [
+   "Formação Econômica do Brasil II",
+   5
+  ],
+  [
+   "Teoria das Relações Internacionais II",
+   5
+  ],
+  [
+   "Teoria Política II",
+   5
+  ],
+  [
+   "Economia Brasileira Contemporânea",
+   6
+  ],
+  [
+   "Métodos e Técnicas de Pesquisa em Relações Internacionais",
+   6
+  ],
+  [
+   "Política Externa Brasileira I",
+   6
+  ],
+  [
+   "Economia Política Internacional",
+   7
+  ],
+  [
+   "Política Externa Brasileira II",
+   7
+  ],
+  [
+   "Trabalho de Conclusão de Curso",
+   8
+  ]
+ ],
+ "notas": "Bacharelado presencial, 8 semestres. Só a UFSC foi encontrada: a fonte é a planilha-fluxograma linkada pelo site do curso (o próprio site avisa que é ferramenta do estudante e não substitui o currículo oficial no CAGR, que não pôde ser lido de forma confiável). União = matriz da UFSC; Monografia = Trabalho de Conclusão de Curso; 'Macro (Macro Aberta)' = Macroeconomia Aberta; 'Economia Internacional II (Finanças)' = Economia Internacional II. Univali (Itajaí) e Unisul oferecem RI, mas matrizes não acessíveis."
+}

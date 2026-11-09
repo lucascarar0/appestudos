@@ -1,0 +1,1057 @@
+{
+ "id": "si",
+ "curso": "Sistemas de Informação",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "http://sin.paginas.ufsc.br/files/2026/02/Fluxograma-Currículo-do-Curso-Sistemas-de-Informação-UFSC.pdf",
+   "matriz": "Currículo 2011/1 (20111) vigente, fluxograma atualizado em 19/02/2026; fases conferidas com https://sin.ufsc.br/files/2018/10/PPC2010.pdf",
+   "semestres": 9,
+   "disciplinas": [
+    [
+     "Teoria Geral de Sistemas",
+     1
+    ],
+    [
+     "Fundamentos Matemáticos da Informática",
+     1
+    ],
+    [
+     "Introdução à Informática",
+     1
+    ],
+    [
+     "Introdução à Programação Orientada a Objetos",
+     1
+    ],
+    [
+     "Aspectos Comportamentais do Empreendedor",
+     1
+    ],
+    [
+     "Administração I",
+     2
+    ],
+    [
+     "Marketing Pessoal e Empreendedorismo",
+     2
+    ],
+    [
+     "Probabilidade e Estatística",
+     2
+    ],
+    [
+     "Organização e Arquitetura de Computadores",
+     2
+    ],
+    [
+     "Desenvolvimento de Sistemas Orientados a Objetos I",
+     2
+    ],
+    [
+     "Gestão Econômica e de Investimentos",
+     3
+    ],
+    [
+     "Técnicas Estatísticas de Predição",
+     3
+    ],
+    [
+     "Geração de Idéias e Criatividade em Informática",
+     3
+    ],
+    [
+     "Estruturas de Dados",
+     3
+    ],
+    [
+     "Gestão Estratégica de Tecnologias, Informação e Comunicação",
+     4
+    ],
+    [
+     "Bancos de Dados I",
+     4
+    ],
+    [
+     "Desenvolvimento de Sistemas Móveis e Embarcados",
+     4
+    ],
+    [
+     "Sistemas Operacionais",
+     4
+    ],
+    [
+     "Análise e Projeto de Sistemas",
+     4
+    ],
+    [
+     "Programação para Web",
+     5
+    ],
+    [
+     "Modelagem e Automação de Processos de Negócios",
+     5
+    ],
+    [
+     "Bancos de Dados II",
+     5
+    ],
+    [
+     "Programação Paralela e Distribuída",
+     5
+    ],
+    [
+     "Redes de Computadores",
+     5
+    ],
+    [
+     "Engenharia de Software",
+     5
+    ],
+    [
+     "Administração e Gerência de Redes de Computadores",
+     6
+    ],
+    [
+     "Computação Distribuída",
+     6
+    ],
+    [
+     "Engenharia de Usabilidade",
+     6
+    ],
+    [
+     "Informática e Sociedade",
+     6
+    ],
+    [
+     "Introdução a Compiladores",
+     6
+    ],
+    [
+     "Bancos de Dados III",
+     6
+    ],
+    [
+     "Projeto em Ciência de Dados",
+     7
+    ],
+    [
+     "Gerência de Projetos",
+     7
+    ],
+    [
+     "Introdução a Projetos",
+     7
+    ],
+    [
+     "Sistemas Inteligentes",
+     7
+    ],
+    [
+     "Segurança da Informação e de Redes",
+     8
+    ],
+    [
+     "Aprendizado de Máquina",
+     8
+    ],
+    [
+     "Plano de Negócios em Informática",
+     8
+    ],
+    [
+     "Projetos I",
+     8
+    ],
+    [
+     "Projetos II",
+     9
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "url": "https://udesc.br/arquivos/ceplan/id_cpmenu/1831/PPC_gradeSIN231_SGPe_19093_2022_1723847422248_1831.pdf",
+   "matriz": "Grade SIN231 – matriz da reforma (seção 7.2.1), CEPLAN São Bento do Sul",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Lógica de Programação",
+     1
+    ],
+    [
+     "Fundamentos de Matemática para Informática",
+     1
+    ],
+    [
+     "Introdução Sistemas de Informação",
+     1
+    ],
+    [
+     "Matemática I",
+     1
+    ],
+    [
+     "Metodologia da Pesquisa",
+     1
+    ],
+    [
+     "Sociologia das Organizações",
+     1
+    ],
+    [
+     "Teoria Geral de Sistemas",
+     1
+    ],
+    [
+     "Gestão Empresarial I",
+     1
+    ],
+    [
+     "Arquitetura e Organização de Computadores",
+     2
+    ],
+    [
+     "Introdução a Programação Orientada a Objetos",
+     2
+    ],
+    [
+     "Ética Profissional",
+     2
+    ],
+    [
+     "Álgebra Linear e Geometria Analítica",
+     2
+    ],
+    [
+     "Gestão Ambiental",
+     2
+    ],
+    [
+     "Fundamentos de Sistemas de Informação",
+     2
+    ],
+    [
+     "Matemática II",
+     3
+    ],
+    [
+     "Estrutura de Dados I",
+     3
+    ],
+    [
+     "Programação I",
+     3
+    ],
+    [
+     "Engenharia de Software I",
+     3
+    ],
+    [
+     "Sistemas Operacionais",
+     3
+    ],
+    [
+     "Análise de Sistemas",
+     4
+    ],
+    [
+     "Estrutura de Dados II",
+     4
+    ],
+    [
+     "Engenharia de Software II",
+     4
+    ],
+    [
+     "Probabilidade e Estatística",
+     4
+    ],
+    [
+     "Programação II",
+     4
+    ],
+    [
+     "Automação de Sistemas",
+     5
+    ],
+    [
+     "Banco de Dados",
+     5
+    ],
+    [
+     "Gerência de Projetos",
+     5
+    ],
+    [
+     "Redes de Computadores I",
+     5
+    ],
+    [
+     "Programação III",
+     5
+    ],
+    [
+     "Sistemas de Apoio à Decisão",
+     6
+    ],
+    [
+     "Inteligência Artificial",
+     6
+    ],
+    [
+     "Pesquisa Operacional",
+     6
+    ],
+    [
+     "Logística",
+     6
+    ],
+    [
+     "Redes de Computadores II",
+     6
+    ],
+    [
+     "Desenvolvimento de Aplicações para a Web I",
+     6
+    ],
+    [
+     "Sistemas Integrados de Gestão",
+     7
+    ],
+    [
+     "Gestão do Conhecimento",
+     7
+    ],
+    [
+     "Sistemas de Informação Geográfica",
+     7
+    ],
+    [
+     "Tópicos Especiais em Redes de Computadores",
+     7
+    ],
+    [
+     "Tópicos Especiais I",
+     7
+    ],
+    [
+     "Gestão da Segurança da Informação",
+     7
+    ],
+    [
+     "Desenvolvimento de Aplicações para a Web II",
+     7
+    ],
+    [
+     "Trabalho de Conclusão de Curso I",
+     7
+    ],
+    [
+     "Gestão Empresarial II",
+     8
+    ],
+    [
+     "Direito e Sistemas de Informação",
+     8
+    ],
+    [
+     "Relações Interpessoais",
+     8
+    ],
+    [
+     "Gerencia de Redes de Computadores",
+     8
+    ],
+    [
+     "Ciência de Dados",
+     8
+    ],
+    [
+     "Tópicos Especiais II",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso II",
+     8
+    ],
+    [
+     "Estágio Curricular Supervisionado",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "UFFS Chapecó não oferece Sistemas de Informação"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "curso existe, mas o site uno.edu.br (JS) não expõe a matriz ao WebFetch"
+  },
+  {
+   "uni": "FURB",
+   "url": "https://www.furb.br/web/upl/graduacao/projeto_pedagogico/202504221851030.37.PPC SISTEMAS DE INFORMACAO 2020.1.pdf",
+   "matriz": "PPC 2020.1 (Quadro 17)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Introdução à Programação",
+     1
+    ],
+    [
+     "Fundamentos Matemáticos",
+     1
+    ],
+    [
+     "Arquitetura de Computadores I",
+     1
+    ],
+    [
+     "Teoria Geral de Sistemas",
+     1
+    ],
+    [
+     "Ambiente Corporativo e Postura Profissional",
+     1
+    ],
+    [
+     "Educação Física - Prática Desportiva I",
+     1
+    ],
+    [
+     "Programação Orientada a Objetos",
+     2
+    ],
+    [
+     "Administração Geral",
+     2
+    ],
+    [
+     "Lógica para Computação",
+     2
+    ],
+    [
+     "Estatística",
+     2
+    ],
+    [
+     "Universidade, Ciência e Pesquisa",
+     2
+    ],
+    [
+     "Educação Física - Prática Desportiva II",
+     2
+    ],
+    [
+     "Algoritmos e Estrutura de Dados",
+     3
+    ],
+    [
+     "Matemática Financeira",
+     3
+    ],
+    [
+     "Contabilidade Geral",
+     3
+    ],
+    [
+     "Fundamentos de Sistemas de Informação",
+     3
+    ],
+    [
+     "Banco de Dados I",
+     3
+    ],
+    [
+     "Legislação em Informática",
+     3
+    ],
+    [
+     "Teoria dos Grafos",
+     4
+    ],
+    [
+     "Pesquisa Operacional",
+     4
+    ],
+    [
+     "Banco de Dados II",
+     4
+    ],
+    [
+     "Programação Web",
+     4
+    ],
+    [
+     "Fundamentos de Economia",
+     4
+    ],
+    [
+     "Inteligência Artificial",
+     5
+    ],
+    [
+     "Interação Humano-Computador",
+     5
+    ],
+    [
+     "Sistemas Operacionais",
+     5
+    ],
+    [
+     "Engenharia de Software",
+     5
+    ],
+    [
+     "Teoria Social e Realidade Brasileira",
+     5
+    ],
+    [
+     "Inovação Tecnológica",
+     5
+    ],
+    [
+     "Segurança da Informação",
+     6
+    ],
+    [
+     "Projeto de Software I",
+     6
+    ],
+    [
+     "Inteligência Artificial Aplicada",
+     6
+    ],
+    [
+     "Redes de Computadores",
+     6
+    ],
+    [
+     "Produção Textual Acadêmica",
+     7
+    ],
+    [
+     "Trabalho de Conclusão de Curso I",
+     7
+    ],
+    [
+     "Projeto de Software II",
+     7
+    ],
+    [
+     "Gerência de Projetos de Informática",
+     7
+    ],
+    [
+     "Infraestrutura de Tecnologia da Informação e Comunicação",
+     7
+    ],
+    [
+     "Testes de Software",
+     7
+    ],
+    [
+     "Trabalho de Conclusão de Curso II",
+     8
+    ],
+    [
+     "Prática em Sustentabilidade",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "site univali.br recusa o WebFetch; oferta presencial não confirmada"
+  },
+  {
+   "uni": "Unisul",
+   "url": "https://estaticos.animaeducacao.com.br/medias/20250709143519/unisul-doc-institucional-ppc_bachsistemas-de-informacao_unisul_uni_NpLaHXw.pdf",
+   "matriz": "PPC 2022, presencial (Tubarão)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Programação de soluções computacionais",
+     1
+    ],
+    [
+     "Modelagem de Software",
+     1
+    ],
+    [
+     "Vida & Carreira",
+     1
+    ],
+    [
+     "Ambientes computacionais e conectividade",
+     2
+    ],
+    [
+     "Sistemas computacionais e segurança",
+     2
+    ],
+    [
+     "Inovação sustentabilidade e competitividade empresarial",
+     3
+    ],
+    [
+     "Core curriculum",
+     3
+    ],
+    [
+     "Usabilidade, desenvolvimento web, mobile e jogos",
+     4
+    ],
+    [
+     "Sistemas distribuídos e mobile",
+     4
+    ],
+    [
+     "Modelos, métodos e técnicas de engenharia de software",
+     5
+    ],
+    [
+     "Gestão e equalidade de software",
+     5
+    ],
+    [
+     "Projetos e processos de TI",
+     6
+    ],
+    [
+     "Governança e serviços de TI",
+     6
+    ],
+    [
+     "Arquiteturas empresariais",
+     7
+    ],
+    [
+     "Direito digital",
+     7
+    ],
+    [
+     "Análise de dados e big data",
+     8
+    ],
+    [
+     "Inteligência artificial",
+     8
+    ]
+   ]
+  }
+ ],
+ "uniao": [
+  [
+   "Ambiente Corporativo e Postura Profissional",
+   1
+  ],
+  [
+   "Aspectos Comportamentais do Empreendedor",
+   1
+  ],
+  [
+   "Educação Física – Prática Desportiva I",
+   1
+  ],
+  [
+   "Fundamentos Matemáticos para Informática",
+   1
+  ],
+  [
+   "Gestão Empresarial I",
+   1
+  ],
+  [
+   "Introdução à Informática",
+   1
+  ],
+  [
+   "Introdução à Programação",
+   1
+  ],
+  [
+   "Introdução a Sistemas de Informação",
+   1
+  ],
+  [
+   "Matemática I",
+   1
+  ],
+  [
+   "Metodologia da Pesquisa",
+   1
+  ],
+  [
+   "Modelagem de Software",
+   1
+  ],
+  [
+   "Sociologia das Organizações",
+   1
+  ],
+  [
+   "Teoria Geral de Sistemas",
+   1
+  ],
+  [
+   "Vida & Carreira",
+   1
+  ],
+  [
+   "Administração Geral",
+   2
+  ],
+  [
+   "Álgebra Linear e Geometria Analítica",
+   2
+  ],
+  [
+   "Ambientes Computacionais e Conectividade",
+   2
+  ],
+  [
+   "Arquitetura e Organização de Computadores",
+   2
+  ],
+  [
+   "Educação Física – Prática Desportiva II",
+   2
+  ],
+  [
+   "Ética Profissional",
+   2
+  ],
+  [
+   "Fundamentos de Sistemas de Informação",
+   2
+  ],
+  [
+   "Gestão Ambiental",
+   2
+  ],
+  [
+   "Lógica para Computação",
+   2
+  ],
+  [
+   "Marketing Pessoal e Empreendedorismo",
+   2
+  ],
+  [
+   "Probabilidade e Estatística",
+   2
+  ],
+  [
+   "Programação Orientada a Objetos",
+   2
+  ],
+  [
+   "Sistemas Computacionais e Segurança",
+   2
+  ],
+  [
+   "Universidade, Ciência e Pesquisa",
+   2
+  ],
+  [
+   "Banco de Dados I",
+   3
+  ],
+  [
+   "Contabilidade Geral",
+   3
+  ],
+  [
+   "Core Curriculum",
+   3
+  ],
+  [
+   "Direito e Legislação em Informática",
+   3
+  ],
+  [
+   "Estruturas de Dados I",
+   3
+  ],
+  [
+   "Geração de Ideias e Criatividade em Informática",
+   3
+  ],
+  [
+   "Gestão Econômica e de Investimentos",
+   3
+  ],
+  [
+   "Inovação, Sustentabilidade e Competitividade Empresarial",
+   3
+  ],
+  [
+   "Matemática Financeira",
+   3
+  ],
+  [
+   "Matemática II",
+   3
+  ],
+  [
+   "Programação I",
+   3
+  ],
+  [
+   "Sistemas Operacionais",
+   3
+  ],
+  [
+   "Técnicas Estatísticas de Predição",
+   3
+  ],
+  [
+   "Análise e Projeto de Sistemas",
+   4
+  ],
+  [
+   "Banco de Dados II",
+   4
+  ],
+  [
+   "Desenvolvimento de Sistemas Móveis e Embarcados",
+   4
+  ],
+  [
+   "Engenharia de Software II",
+   4
+  ],
+  [
+   "Estruturas de Dados II",
+   4
+  ],
+  [
+   "Fundamentos de Economia",
+   4
+  ],
+  [
+   "Gestão Estratégica de Tecnologias, Informação e Comunicação",
+   4
+  ],
+  [
+   "Pesquisa Operacional",
+   4
+  ],
+  [
+   "Programação II",
+   4
+  ],
+  [
+   "Programação Web I",
+   4
+  ],
+  [
+   "Sistemas Distribuídos e Mobile",
+   4
+  ],
+  [
+   "Teoria dos Grafos",
+   4
+  ],
+  [
+   "Usabilidade, Desenvolvimento Web, Mobile e Jogos",
+   4
+  ],
+  [
+   "Automação de Sistemas",
+   5
+  ],
+  [
+   "Engenharia de Software I",
+   5
+  ],
+  [
+   "Gestão e Qualidade de Software",
+   5
+  ],
+  [
+   "Inovação Tecnológica",
+   5
+  ],
+  [
+   "Inteligência Artificial",
+   5
+  ],
+  [
+   "Interação Humano-Computador",
+   5
+  ],
+  [
+   "Modelagem e Automação de Processos de Negócios",
+   5
+  ],
+  [
+   "Modelos, Métodos e Técnicas de Engenharia de Software",
+   5
+  ],
+  [
+   "Programação III",
+   5
+  ],
+  [
+   "Programação Paralela e Distribuída",
+   5
+  ],
+  [
+   "Redes de Computadores I",
+   5
+  ],
+  [
+   "Teoria Social e Realidade Brasileira",
+   5
+  ],
+  [
+   "Banco de Dados III",
+   6
+  ],
+  [
+   "Computação Distribuída",
+   6
+  ],
+  [
+   "Gerência de Redes de Computadores",
+   6
+  ],
+  [
+   "Governança e Serviços de TI",
+   6
+  ],
+  [
+   "Informática e Sociedade",
+   6
+  ],
+  [
+   "Inteligência Artificial Aplicada",
+   6
+  ],
+  [
+   "Introdução a Compiladores",
+   6
+  ],
+  [
+   "Logística",
+   6
+  ],
+  [
+   "Projeto de Software I",
+   6
+  ],
+  [
+   "Projetos e Processos de TI",
+   6
+  ],
+  [
+   "Redes de Computadores II",
+   6
+  ],
+  [
+   "Segurança da Informação",
+   6
+  ],
+  [
+   "Sistemas de Apoio à Decisão",
+   6
+  ],
+  [
+   "Arquiteturas Empresariais",
+   7
+  ],
+  [
+   "Gerência de Projetos",
+   7
+  ],
+  [
+   "Gestão do Conhecimento",
+   7
+  ],
+  [
+   "Infraestrutura de Tecnologia da Informação e Comunicação",
+   7
+  ],
+  [
+   "Introdução a Projetos",
+   7
+  ],
+  [
+   "Produção Textual Acadêmica",
+   7
+  ],
+  [
+   "Programação Web II",
+   7
+  ],
+  [
+   "Projeto de Software II",
+   7
+  ],
+  [
+   "Projeto em Ciência de Dados",
+   7
+  ],
+  [
+   "Sistemas de Informação Geográfica",
+   7
+  ],
+  [
+   "Sistemas Integrados de Gestão",
+   7
+  ],
+  [
+   "Testes de Software",
+   7
+  ],
+  [
+   "Tópicos Especiais em Redes de Computadores",
+   7
+  ],
+  [
+   "Trabalho de Conclusão de Curso I",
+   7
+  ],
+  [
+   "Análise de Dados e Big Data",
+   8
+  ],
+  [
+   "Aprendizado de Máquina",
+   8
+  ],
+  [
+   "Ciência de Dados",
+   8
+  ],
+  [
+   "Estágio Curricular Supervisionado",
+   8
+  ],
+  [
+   "Gestão Empresarial II",
+   8
+  ],
+  [
+   "Plano de Negócios em Informática",
+   8
+  ],
+  [
+   "Prática em Sustentabilidade",
+   8
+  ],
+  [
+   "Relações Interpessoais",
+   8
+  ],
+  [
+   "Trabalho de Conclusão de Curso II",
+   8
+  ]
+ ],
+ "notas": "Bacharelado presencial. 4 de 7 matrizes (UFSC, UDESC-CEPLAN, FURB, Unisul). UFSC: CAGR instável (devolve outros cursos), então a lista de obrigatórias veio do fluxograma 2026 (currículo 20111) e as fases do PPC 2010; fases de Desenvolvimento de Sistemas Móveis e Embarcados, Modelagem e Automação de Processos de Negócios, Segurança da Informação e de Redes e Bancos de Dados III são aproximadas (ordem do fluxograma). Novo currículo UFSC 20271 vale a partir de 2027/1 (não usado). UDESC: 'Tópicos Especiais I/II' excluídas por serem genéricas. Equivalências: Projetos I/II (UFSC) = TCC I/II; Lógica de Programação = Introdução à Programação = Introdução à POO (UFSC, 1ª fase); DSOO I = Introdução a POO (UDESC) = POO; Estruturas de Dados = Estrutura de Dados I = Algoritmos e Estrutura de Dados; Engenharia de Software (UFSC/FURB) = Engenharia de Software I; Programação para Web = Programação Web = Desenvolvimento de Aplicações para a Web I; Sistemas Inteligentes = Inteligência Artificial; Engenharia de Usabilidade = IHC; Administração I = Administração Geral; Estatística = Probabilidade e Estatística; Arquitetura de Computadores I = OAC; Análise de Sistemas = Análise e Projeto de Sistemas; Banco de Dados (UDESC) = Banco de Dados I; Gerência de Projetos de Informática = Gerência de Projetos; Administração e Gerência de Redes = Gerencia de Redes; Direito e SI = Legislação em Informática; Segurança da Informação e de Redes = Gestão da Segurança da Informação = Segurança da Informação; Redes de Computadores = Redes de Computadores I. Duração típica: 8 semestres (UFSC: 9). Unisul (PPC 2022, presencial, Tubarão): currículo por módulos amplos de 160 h, semestres inferidos da ordem da tabela; 'Programação de soluções computacionais' = Introdução à Programação; 'Direito digital' = Direito e Legislação em Informática; 'Inteligência artificial' unificada; 'Gestão e equalidade de software' (grafia do original) → Gestão e Qualidade de Software; sem TCC e estágio obrigatório."
+}

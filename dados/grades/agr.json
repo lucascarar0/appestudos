@@ -1,0 +1,1045 @@
+{
+ "id": "agr",
+ "curso": "Agronomia",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://cagr.sistemas.ufsc.br/relatorios/curriculoCurso?curso=555",
+   "matriz": "Currículo 20212 - Campus Curitibanos",
+   "semestres": 10,
+   "disciplinas": [
+    [
+     "Zoologia Geral",
+     1
+    ],
+    [
+     "Ecologia Geral",
+     1
+    ],
+    [
+     "Biologia Celular",
+     1
+    ],
+    [
+     "Introdução à Agronomia",
+     1
+    ],
+    [
+     "Anatomia e Morfologia Vegetal",
+     1
+    ],
+    [
+     "Pré-cálculo",
+     1
+    ],
+    [
+     "Química Geral e Orgânica",
+     1
+    ],
+    [
+     "Ética e Filosofia da Ciência",
+     1
+    ],
+    [
+     "Bioquímica",
+     2
+    ],
+    [
+     "Sistemática Vegetal",
+     2
+    ],
+    [
+     "Cálculo Diferencial e Integral",
+     2
+    ],
+    [
+     "Física",
+     2
+    ],
+    [
+     "Química Analítica",
+     2
+    ],
+    [
+     "Sociologia Rural",
+     2
+    ],
+    [
+     "Geologia e Mineralogia",
+     2
+    ],
+    [
+     "Meteorologia e Climatologia",
+     3
+    ],
+    [
+     "Morfofisiologia Animal",
+     3
+    ],
+    [
+     "Propriedades Físicas e Químicas do Solo",
+     3
+    ],
+    [
+     "Desenho Técnico",
+     3
+    ],
+    [
+     "Fisiologia Vegetal",
+     3
+    ],
+    [
+     "Genética",
+     3
+    ],
+    [
+     "Metodologia da Pesquisa",
+     3
+    ],
+    [
+     "Estatística Básica",
+     3
+    ],
+    [
+     "Entomologia Agrícola",
+     4
+    ],
+    [
+     "Microbiologia Agrícola",
+     4
+    ],
+    [
+     "Elementos de Geodésia",
+     4
+    ],
+    [
+     "Gênese, Morfologia e Classificação do Solo",
+     4
+    ],
+    [
+     "Legislação e Gestão Ambiental",
+     4
+    ],
+    [
+     "Estatística Experimental",
+     4
+    ],
+    [
+     "Fundamentos de Economia Rural",
+     4
+    ],
+    [
+     "Poluição Ambiental",
+     4
+    ],
+    [
+     "Hidrologia",
+     5
+    ],
+    [
+     "Silvicultura",
+     5
+    ],
+    [
+     "Fitopatologia Agrícola",
+     5
+    ],
+    [
+     "Fundamentos de Melhoramento Animal",
+     5
+    ],
+    [
+     "Mecanização Agrícola",
+     5
+    ],
+    [
+     "Melhoramento Genético de Plantas",
+     5
+    ],
+    [
+     "Fertilidade do Solo e Adubação",
+     5
+    ],
+    [
+     "Agrometeorologia",
+     6
+    ],
+    [
+     "Hidráulica",
+     6
+    ],
+    [
+     "Conservação e Uso da Biodiversidade",
+     6
+    ],
+    [
+     "Nutrição Animal",
+     6
+    ],
+    [
+     "Horticultura",
+     6
+    ],
+    [
+     "Matologia I",
+     6
+    ],
+    [
+     "Biotecnologia Vegetal",
+     6
+    ],
+    [
+     "Topografia",
+     6
+    ],
+    [
+     "Manejo Integrado de Pragas e Doenças Agrícola",
+     7
+    ],
+    [
+     "Construções Rurais",
+     7
+    ],
+    [
+     "Geoprocessamento",
+     7
+    ],
+    [
+     "Fruticultura I",
+     7
+    ],
+    [
+     "Tecnologia e Produção de Sementes",
+     7
+    ],
+    [
+     "Manejo e Conservação do Solo e da Água",
+     7
+    ],
+    [
+     "Forragicultura",
+     7
+    ],
+    [
+     "Planejamento de TCC",
+     7
+    ],
+    [
+     "Olericultura",
+     8
+    ],
+    [
+     "Irrigação e Drenagem",
+     8
+    ],
+    [
+     "Agroecologia",
+     8
+    ],
+    [
+     "Bovinocultura de Corte e Leite",
+     8
+    ],
+    [
+     "Plantas de Lavoura I",
+     8
+    ],
+    [
+     "Fisiologia e Manejo Pós Colheita",
+     8
+    ],
+    [
+     "Tecnologia de Produtos Agropecuários",
+     8
+    ],
+    [
+     "Gestão dos Negócios Agroindustriais",
+     8
+    ],
+    [
+     "Floricultura e Paisagismo",
+     9
+    ],
+    [
+     "Avaliação, Perícia e Restauração Ambiental",
+     9
+    ],
+    [
+     "Avaliação e Perícia",
+     9
+    ],
+    [
+     "Suinocultura e Avicultura",
+     9
+    ],
+    [
+     "Tecnologia de Aplicação de Defensivos Agrícolas",
+     9
+    ],
+    [
+     "Plantas de Lavoura II",
+     9
+    ],
+    [
+     "Bioenergia",
+     9
+    ],
+    [
+     "Trabalho de Conclusão de Curso",
+     9
+    ],
+    [
+     "Extensão e Desenvolvimento Rural",
+     9
+    ],
+    [
+     "Cooperativismo e Comercialização",
+     9
+    ],
+    [
+     "Extensão Rural",
+     10
+    ],
+    [
+     "Sistemas Agroflorestais",
+     10
+    ],
+    [
+     "Estágio Obrigatório Supervisionado",
+     10
+    ],
+    [
+     "Análise e Processamento de Dados",
+     10
+    ],
+    [
+     "Manejo de Bacias Hidrográficas",
+     10
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "url": "https://www.udesc.br/arquivos/cav/id_cpmenu/1000/R_E34_7364478170331362455_17734146207414_1000.pdf",
+   "matriz": "Grade AGR261 - 2026/1 (SIGA, emitida em 13/03/2026) - CAV/Lages",
+   "semestres": 10,
+   "disciplinas": [
+    [
+     "Anatomia e Fisiologia dos Animais Domésticos",
+     1
+    ],
+    [
+     "Desenho Técnico",
+     1
+    ],
+    [
+     "Epistemologia e Metodologia Científica",
+     1
+    ],
+    [
+     "Física",
+     1
+    ],
+    [
+     "Introdução à Agronomia, Ética e Empreendedorismo",
+     1
+    ],
+    [
+     "Matemática Básica",
+     1
+    ],
+    [
+     "Morfologia Vegetal",
+     1
+    ],
+    [
+     "Química Geral e Orgânica",
+     1
+    ],
+    [
+     "Bioquímica",
+     2
+    ],
+    [
+     "Botânica Sistemática",
+     2
+    ],
+    [
+     "Cálculo Diferencial e Integral",
+     2
+    ],
+    [
+     "Ciência do Solo",
+     2
+    ],
+    [
+     "Estatística",
+     2
+    ],
+    [
+     "Mecânica, Motores e Tratores Agrícolas",
+     2
+    ],
+    [
+     "Química Analítica",
+     2
+    ],
+    [
+     "Ecologia Geral e Agrícola",
+     3
+    ],
+    [
+     "Experimentação Agrícola",
+     3
+    ],
+    [
+     "Fisiologia Vegetal",
+     3
+    ],
+    [
+     "Genética",
+     3
+    ],
+    [
+     "Legislação Agrária",
+     3
+    ],
+    [
+     "Meteorologia e Climatologia",
+     3
+    ],
+    [
+     "Topografia",
+     3
+    ],
+    [
+     "Entomologia Geral",
+     4
+    ],
+    [
+     "Fertilidade do Solo",
+     4
+    ],
+    [
+     "Gênese e Classificação do Solo",
+     4
+    ],
+    [
+     "Horticultura",
+     4
+    ],
+    [
+     "Melhoramento Animal",
+     4
+    ],
+    [
+     "Nutrição Animal",
+     4
+    ],
+    [
+     "Prática de Máquinas Agrícolas",
+     4
+    ],
+    [
+     "Sistemas de Informação Geográfica",
+     4
+    ],
+    [
+     "Aquicultura",
+     5
+    ],
+    [
+     "Biologia do Solo",
+     5
+    ],
+    [
+     "Entomologia Agrícola",
+     5
+    ],
+    [
+     "Fitopatologia Geral",
+     5
+    ],
+    [
+     "Introdução à Economia",
+     5
+    ],
+    [
+     "Melhoramento Vegetal",
+     5
+    ],
+    [
+     "Olericultura",
+     5
+    ],
+    [
+     "Uso e Conservação do Solo",
+     5
+    ],
+    [
+     "Avaliação de Impactos Ambientais",
+     6
+    ],
+    [
+     "Bovinocultura de Leite",
+     6
+    ],
+    [
+     "Fitopatologia Agrícola",
+     6
+    ],
+    [
+     "Floricultura",
+     6
+    ],
+    [
+     "Forragicultura",
+     6
+    ],
+    [
+     "Hidráulica Agrícola",
+     6
+    ],
+    [
+     "Hidrologia e Manejo de Bacias Hidrográficas",
+     6
+    ],
+    [
+     "Técnicas de Análises Bromatológicas",
+     6
+    ],
+    [
+     "Biologia e Manejo de Plantas Daninhas",
+     7
+    ],
+    [
+     "Bovinocultura de Corte",
+     7
+    ],
+    [
+     "Comercialização Agrícola",
+     7
+    ],
+    [
+     "Culturas de Inverno",
+     7
+    ],
+    [
+     "Economia Agrícola",
+     7
+    ],
+    [
+     "Irrigação e Drenagem",
+     7
+    ],
+    [
+     "Paisagismo e Jardinagem",
+     7
+    ],
+    [
+     "Sensoriamento Remoto Aplicado à Agricultura",
+     7
+    ],
+    [
+     "Silvicultura Geral",
+     7
+    ],
+    [
+     "Adubação e Calagem",
+     8
+    ],
+    [
+     "Avicultura",
+     8
+    ],
+    [
+     "Construções Rurais",
+     8
+    ],
+    [
+     "Fruticultura",
+     8
+    ],
+    [
+     "Gramíneas de Verão",
+     8
+    ],
+    [
+     "Pós-Colheita de Produtos Agrícolas",
+     8
+    ],
+    [
+     "Sociologia Rural",
+     8
+    ],
+    [
+     "Suinocultura",
+     8
+    ],
+    [
+     "Agricultura de Precisão",
+     9
+    ],
+    [
+     "Dicotiledôneas de Verão",
+     9
+    ],
+    [
+     "Extensão Rural, Comunicação e Marketing",
+     9
+    ],
+    [
+     "Planejamento Agrícola",
+     9
+    ],
+    [
+     "Tecnologia de Produtos Agropecuários",
+     9
+    ],
+    [
+     "Tecnologia e Produção de Sementes",
+     9
+    ],
+    [
+     "Trabalho de Conclusão de Curso (TCC)",
+     9
+    ],
+    [
+     "Tópicos Especiais I",
+     10
+    ],
+    [
+     "Tópicos Especiais II",
+     10
+    ],
+    [
+     "Tópicos Especiais III",
+     10
+    ],
+    [
+     "Tópicos Especiais IV",
+     10
+    ],
+    [
+     "Toxicologia dos Inseticidas e Receituário Agronômico",
+     10
+    ],
+    [
+     "Viticultura",
+     10
+    ],
+    [
+     "Estágio Curricular Supervisionado",
+     10
+    ]
+   ]
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "Curso existe no Campus Chapecó (PPC 2023, 10 níveis, 75 CCR obrigatórios segundo parecer CONSUNI/CGAE 13/2023), mas a lista de componentes por nível não foi localizada"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "Site unochapeco.edu.br bloqueia leitura; matriz não acessível"
+  },
+  {
+   "uni": "FURB",
+   "nao_encontrada": "Não oferece Agronomia"
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "Não oferece Agronomia"
+  },
+  {
+   "uni": "Unisul",
+   "nao_encontrada": "PPC presencial (Tubarão, 10 semestres) localizado, mas a tabela da matriz não é extraível do PDF"
+  }
+ ],
+ "uniao": [
+  [
+   "Anatomia e Fisiologia dos Animais Domésticos",
+   1
+  ],
+  [
+   "Biologia Celular",
+   1
+  ],
+  [
+   "Desenho Técnico",
+   1
+  ],
+  [
+   "Ecologia Geral e Agrícola",
+   1
+  ],
+  [
+   "Ética e Filosofia da Ciência",
+   1
+  ],
+  [
+   "Física",
+   1
+  ],
+  [
+   "Introdução à Agronomia",
+   1
+  ],
+  [
+   "Matemática Básica",
+   1
+  ],
+  [
+   "Metodologia Científica",
+   1
+  ],
+  [
+   "Morfologia Vegetal",
+   1
+  ],
+  [
+   "Química Geral e Orgânica",
+   1
+  ],
+  [
+   "Zoologia Geral",
+   1
+  ],
+  [
+   "Bioquímica",
+   2
+  ],
+  [
+   "Botânica Sistemática",
+   2
+  ],
+  [
+   "Cálculo I",
+   2
+  ],
+  [
+   "Ciência do Solo",
+   2
+  ],
+  [
+   "Estatística Básica",
+   2
+  ],
+  [
+   "Geologia e Mineralogia",
+   2
+  ],
+  [
+   "Mecânica, Motores e Tratores Agrícolas",
+   2
+  ],
+  [
+   "Química Analítica",
+   2
+  ],
+  [
+   "Sociologia Rural",
+   2
+  ],
+  [
+   "Experimentação Agrícola",
+   3
+  ],
+  [
+   "Fisiologia Vegetal",
+   3
+  ],
+  [
+   "Genética",
+   3
+  ],
+  [
+   "Legislação Agrária",
+   3
+  ],
+  [
+   "Meteorologia e Climatologia",
+   3
+  ],
+  [
+   "Topografia",
+   3
+  ],
+  [
+   "Economia Rural",
+   4
+  ],
+  [
+   "Elementos de Geodésia",
+   4
+  ],
+  [
+   "Entomologia Agrícola",
+   4
+  ],
+  [
+   "Entomologia Geral",
+   4
+  ],
+  [
+   "Fertilidade do Solo",
+   4
+  ],
+  [
+   "Gênese e Classificação do Solo",
+   4
+  ],
+  [
+   "Geoprocessamento",
+   4
+  ],
+  [
+   "Horticultura",
+   4
+  ],
+  [
+   "Legislação e Gestão Ambiental",
+   4
+  ],
+  [
+   "Mecanização Agrícola",
+   4
+  ],
+  [
+   "Melhoramento Animal",
+   4
+  ],
+  [
+   "Microbiologia Agrícola",
+   4
+  ],
+  [
+   "Nutrição Animal",
+   4
+  ],
+  [
+   "Poluição Ambiental",
+   4
+  ],
+  [
+   "Aquicultura",
+   5
+  ],
+  [
+   "Fitopatologia Agrícola",
+   5
+  ],
+  [
+   "Fitopatologia Geral",
+   5
+  ],
+  [
+   "Hidrologia",
+   5
+  ],
+  [
+   "Manejo e Conservação do Solo e da Água",
+   5
+  ],
+  [
+   "Melhoramento Vegetal",
+   5
+  ],
+  [
+   "Olericultura",
+   5
+  ],
+  [
+   "Silvicultura",
+   5
+  ],
+  [
+   "Agrometeorologia",
+   6
+  ],
+  [
+   "Avaliação de Impactos Ambientais",
+   6
+  ],
+  [
+   "Biologia e Manejo de Plantas Daninhas",
+   6
+  ],
+  [
+   "Biotecnologia Vegetal",
+   6
+  ],
+  [
+   "Bovinocultura de Leite",
+   6
+  ],
+  [
+   "Conservação e Uso da Biodiversidade",
+   6
+  ],
+  [
+   "Floricultura",
+   6
+  ],
+  [
+   "Forragicultura",
+   6
+  ],
+  [
+   "Hidráulica Agrícola",
+   6
+  ],
+  [
+   "Técnicas de Análises Bromatológicas",
+   6
+  ],
+  [
+   "Bovinocultura de Corte",
+   7
+  ],
+  [
+   "Comercialização Agrícola",
+   7
+  ],
+  [
+   "Construções Rurais",
+   7
+  ],
+  [
+   "Culturas de Inverno",
+   7
+  ],
+  [
+   "Economia Agrícola",
+   7
+  ],
+  [
+   "Fruticultura",
+   7
+  ],
+  [
+   "Irrigação e Drenagem",
+   7
+  ],
+  [
+   "Manejo Integrado de Pragas e Doenças",
+   7
+  ],
+  [
+   "Paisagismo e Jardinagem",
+   7
+  ],
+  [
+   "Projeto de Trabalho de Conclusão de Curso",
+   7
+  ],
+  [
+   "Sensoriamento Remoto Aplicado à Agricultura",
+   7
+  ],
+  [
+   "Tecnologia e Produção de Sementes",
+   7
+  ],
+  [
+   "Adubação e Calagem",
+   8
+  ],
+  [
+   "Agroecologia",
+   8
+  ],
+  [
+   "Avicultura",
+   8
+  ],
+  [
+   "Fisiologia e Manejo Pós-Colheita",
+   8
+  ],
+  [
+   "Gestão dos Negócios Agroindustriais",
+   8
+  ],
+  [
+   "Gramíneas de Verão",
+   8
+  ],
+  [
+   "Plantas de Lavoura I",
+   8
+  ],
+  [
+   "Suinocultura",
+   8
+  ],
+  [
+   "Tecnologia de Produtos Agropecuários",
+   8
+  ],
+  [
+   "Agricultura de Precisão",
+   9
+  ],
+  [
+   "Avaliação, Perícia e Restauração Ambiental",
+   9
+  ],
+  [
+   "Bioenergia",
+   9
+  ],
+  [
+   "Dicotiledôneas de Verão",
+   9
+  ],
+  [
+   "Extensão e Desenvolvimento Rural",
+   9
+  ],
+  [
+   "Extensão Rural",
+   9
+  ],
+  [
+   "Planejamento Agrícola",
+   9
+  ],
+  [
+   "Plantas de Lavoura II",
+   9
+  ],
+  [
+   "Tecnologia de Aplicação de Defensivos Agrícolas",
+   9
+  ],
+  [
+   "Trabalho de Conclusão de Curso",
+   9
+  ],
+  [
+   "Análise e Processamento de Dados",
+   10
+  ],
+  [
+   "Estágio Curricular Supervisionado",
+   10
+  ],
+  [
+   "Manejo de Bacias Hidrográficas",
+   10
+  ],
+  [
+   "Sistemas Agroflorestais",
+   10
+  ],
+  [
+   "Toxicologia dos Inseticidas e Receituário Agronômico",
+   10
+  ],
+  [
+   "Viticultura",
+   10
+  ]
+ ],
+ "notas": "Bacharelado presencial nas duas fontes; duração 10 semestres (estágio no 10º). UFSC: usado o campus Curitibanos (curso 555); componentes repetidos com marcação '(Ext 18h-a)' contados uma vez e 'Avaliação e Perícia' unida a 'Avaliação, Perícia e Restauração Ambiental'. UDESC: grade 2026/1 inclui disciplinas 'Obrigatória' e 'Mista' (mista = obrigatória teórico-prática); 'Tópicos Especiais I-IV' excluídos por serem vagas genéricas. Equivalências: Anatomia e Morfologia Vegetal = Morfologia Vegetal; Ecologia Geral = Ecologia Geral e Agrícola; Pré-cálculo = Matemática Básica; Metodologia da Pesquisa = Epistemologia e Metodologia Científica -> Metodologia Científica; Morfofisiologia Animal = Anatomia e Fisiologia dos Animais Domésticos; Introdução à Agronomia = Introdução à Agronomia, Ética e Empreendedorismo; Sistemática Vegetal = Botânica Sistemática; Cálculo Diferencial e Integral -> Cálculo I; Estatística = Estatística Básica; Estatística Experimental = Experimentação Agrícola; Propriedades Físicas e Químicas do Solo = Ciência do Solo; Gênese, Morfologia e Classificação do Solo = Gênese e Classificação do Solo; Fundamentos de Economia Rural = Introdução à Economia -> Economia Rural; Mecanização Agrícola = Prática de Máquinas Agrícolas; Microbiologia Agrícola = Biologia do Solo; Geoprocessamento = Sistemas de Informação Geográfica; Hidrologia = Hidrologia e Manejo de Bacias Hidrográficas; Fertilidade do Solo e Adubação = Fertilidade do Solo; Fundamentos de Melhoramento Animal = Melhoramento Animal; Melhoramento Genético de Plantas = Melhoramento Vegetal; Manejo e Conservação do Solo e da Água = Uso e Conservação do Solo; Hidráulica = Hidráulica Agrícola; Matologia I = Biologia e Manejo de Plantas Daninhas; Silvicultura = Silvicultura Geral; Fruticultura I = Fruticultura; Floricultura e Paisagismo = Floricultura; Fisiologia e Manejo Pós Colheita = Pós-Colheita de Produtos Agrícolas; Cooperativismo e Comercialização = Comercialização Agrícola; Extensão Rural (UFSC) = Extensão Rural, Comunicação e Marketing; Bovinocultura de Corte e Leite e Suinocultura e Avicultura (UFSC) contadas nas duas disciplinas correspondentes da UDESC; Planejamento de TCC -> Projeto de TCC. UFFS Chapecó, Unochapecó e Unisul oferecem o curso, mas as matrizes não puderam ser lidas."
+}

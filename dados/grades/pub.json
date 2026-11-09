@@ -1,0 +1,40 @@
+{
+ "id": "pub", "curso": "Publicidade e Propaganda",
+ "fontes": [
+   {"uni": "UFSC", "nao_encontrada": "UFSC não oferece Publicidade e Propaganda"},
+   {"uni": "UDESC", "nao_encontrada": "UDESC não oferece Publicidade e Propaganda"},
+   {"uni": "UFFS", "nao_encontrada": "UFFS Chapecó não oferece Publicidade e Propaganda"},
+   {"uni": "Unochapecó", "nao_encontrada": "site do curso (unochapeco.edu.br/uno.edu.br) bloqueado/renderizado em JS; matriz não acessível"},
+   {"uni": "FURB", "url": "https://www.furb.br/web/upl/graduacao/projeto_pedagogico/202402090946010.2023 PPC Publicidade e Propaganda.pdf", "matriz": "PPC 2023, Blumenau, presencial", "semestres": 8,
+    "disciplinas": [
+     ["Cenários da Comunicação", 1], ["Teorias da Comunicação", 1], ["Introdução à Escrita Criativa Publicitária", 1], ["Linguagem Fotográfica Publicitária", 1], ["Universidade, Ciência e Pesquisa", 1], ["Alteridade e Direitos Humanos", 1], ["Prática desportiva I", 1],
+     ["Sociologia da Comunicação", 2], ["Produção e Linguagem Audiovisual Publicitária", 2], ["Processo Criativo e Inovação em Publicidade e Propaganda", 2], ["Produção Publicitária em Áudio", 2], ["Transmídia e Publicidade", 2], ["Prática desportiva II", 2],
+     ["Publicidade e Branding", 3], ["Marketing e Comunicação", 3], ["Pesquisa em Publicidade e Propaganda", 3], ["Redes Sociais e Produção de Conteúdo", 3], ["Escrita Criativa Publicitária", 3],
+     ["Estratégias Publicitárias Digitais", 4], ["Comunicação e Desenvolvimento", 4], ["Fotografia Publicitária", 4], ["Comunicação Comunitária", 4], ["Produção Textual Acadêmica", 4],
+     ["Estudos do Consumo", 5], ["Promoção e Merchandising", 5], ["Ética em Publicidade e Propaganda", 5], ["Legislação em Publicidade e Propaganda", 5], ["Produção de Vídeo Publicitário", 5],
+     ["Layout Publicitário", 6], ["Planejamento Estratégico em Comunicação", 6], ["Planejamento de Mídia", 6], ["Teorias da Comunicação aplicadas à Publicidade", 6], ["Estratégias e Novos Formatos no Audiovisual Publicitário", 6],
+     ["Projeto Experimental em Publicidade e Propaganda", 7], ["Teoria e Métodos de Pesquisa em Comunicação", 7], ["História e Cultura Afro-brasileira e Indígena", 7], ["Prática e Sustentabilidade", 7],
+     ["Trabalho de Conclusão de Curso (TCC)", 8], ["Estudos Contemporâneos em Publicidade e Propaganda", 8], ["Assessoria de Comunicação", 8]
+    ]},
+   {"uni": "Univali", "nao_encontrada": "Síntese do PPC (Itajaí) localizada, mas o site bloqueia o acesso (erro de cliente/robots)"},
+   {"uni": "Unisul", "url": "https://estaticos.animaeducacao.com.br/medias/20260814162603/BACH_Publicidade_e_Propaganda_PRES_Cluster%C3%9Anico_Presencial_Univers_7TKW0Kv.pdf", "matriz": "PPC presencial Tubarão (2026); tabela da matriz ausente no texto — UCs citadas por nível; semestres aproximados (Fundamental=1, Intermediário=3, Avançado=6), exceto TCC (7 e 8, explícitos)", "semestres": 8,
+    "disciplinas": [
+     ["Narrativas e Produção Transmídia", 1], ["Linguagens e Relações Estéticas", 1], ["Redação e Criação Textual", 1], ["Academia de Futuros Profissionais", 1],
+     ["Teorias da Comunicação e das Mídias", 3], ["Comunicação Integrada", 3], ["Comportamento, Pesquisa e Tendências", 3], ["Estratégias Digitais Data-Driven", 3], ["Planejamento e Organização de Eventos", 3],
+     ["Planejamento de Campanha", 6],
+     ["Projeto de Pesquisa em Comunicação", 7],
+     ["Trabalho de Conclusão de Curso em Publicidade e Propaganda", 8]
+    ]}
+ ],
+ "uniao": [
+  ["Academia de Futuros Profissionais", 1], ["Alteridade e Direitos Humanos", 1], ["Cenários da Comunicação", 1], ["Introdução à Escrita Criativa Publicitária", 1], ["Linguagem Fotográfica Publicitária", 1], ["Linguagens e Relações Estéticas", 1], ["Narrativas e Produção Transmídia", 1], ["Prática Desportiva I", 1], ["Redação e Criação Textual", 1], ["Teorias da Comunicação", 1], ["Universidade, Ciência e Pesquisa", 1],
+  ["Prática Desportiva II", 2], ["Processo Criativo e Inovação em Publicidade e Propaganda", 2], ["Produção e Linguagem Audiovisual Publicitária", 2], ["Produção Publicitária em Áudio", 2], ["Sociologia da Comunicação", 2], ["Transmídia e Publicidade", 2],
+  ["Comportamento, Pesquisa e Tendências", 3], ["Comunicação Integrada", 3], ["Escrita Criativa Publicitária", 3], ["Estratégias Digitais Data-Driven", 3], ["Marketing e Comunicação", 3], ["Pesquisa em Publicidade e Propaganda", 3], ["Planejamento e Organização de Eventos", 3], ["Publicidade e Branding", 3], ["Redes Sociais e Produção de Conteúdo", 3],
+  ["Comunicação Comunitária", 4], ["Comunicação e Desenvolvimento", 4], ["Estratégias Publicitárias Digitais", 4], ["Fotografia Publicitária", 4], ["Produção Textual Acadêmica", 4],
+  ["Estudos do Consumo", 5], ["Ética em Publicidade e Propaganda", 5], ["Legislação em Publicidade e Propaganda", 5], ["Produção de Vídeo Publicitário", 5], ["Promoção e Merchandising", 5],
+  ["Estratégias e Novos Formatos no Audiovisual Publicitário", 6], ["Layout Publicitário", 6], ["Planejamento de Campanha", 6], ["Planejamento de Mídia", 6], ["Planejamento Estratégico em Comunicação", 6], ["Teorias da Comunicação Aplicadas à Publicidade", 6],
+  ["História e Cultura Afro-brasileira e Indígena", 7], ["Prática e Sustentabilidade", 7], ["Projeto de Pesquisa em Comunicação", 7], ["Projeto Experimental em Publicidade e Propaganda", 7], ["Teoria e Métodos de Pesquisa em Comunicação", 7],
+  ["Assessoria de Comunicação", 8], ["Estudos Contemporâneos em Publicidade e Propaganda", 8], ["Trabalho de Conclusão de Curso", 8]
+ ],
+ "notas": "Bacharelado presencial, 8 semestres. Equivalências: 'Teorias da Comunicação' (FURB, 1º) = 'Teorias da Comunicação e das Mídias' (Unisul) — empate, ficou no 1º; TCC unificado. Excluídos: eletiva/optativa genéricas (FURB), UC Exploratória, UC Personalizável e UCs genéricas de 'Extensão Universitária' (Unisul). FURB não prevê estágio obrigatório; Unisul também não. ATENÇÃO: a matriz da Unisul é PARCIAL (só UCs nomeadas no texto do PPC) e seus semestres, exceto os dois de TCC, são aproximações pelo nível formativo. Unochapecó e Univali oferecem o curso, mas as matrizes não puderam ser lidas (sites bloqueados)."
+}

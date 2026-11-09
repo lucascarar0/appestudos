@@ -1,0 +1,465 @@
+{
+ "id": "fsc",
+ "curso": "Física",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://cagr.sistemas.ufsc.br/relatorios/curriculoCurso?curso=2",
+   "matriz": "Currículo 20241 - Bacharelado em Física (Florianópolis)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Introdução à Física Moderna",
+     1
+    ],
+    [
+     "Física Geral - I-A",
+     1
+    ],
+    [
+     "Laboratório de Física I",
+     1
+    ],
+    [
+     "Tópicos de Matemática Básica para Física Geral",
+     1
+    ],
+    [
+     "Cálculo 1",
+     1
+    ],
+    [
+     "Laboratório de Física II",
+     2
+    ],
+    [
+     "Física Geral II-A",
+     2
+    ],
+    [
+     "Física Geral II-B",
+     2
+    ],
+    [
+     "Cálculo 2",
+     2
+    ],
+    [
+     "Álgebra Linear",
+     2
+    ],
+    [
+     "Laboratório de Física III",
+     3
+    ],
+    [
+     "Física Geral III",
+     3
+    ],
+    [
+     "Introdução à Física Computacional",
+     3
+    ],
+    [
+     "Cálculo 3",
+     3
+    ],
+    [
+     "Equações Diferenciais Ordinárias",
+     3
+    ],
+    [
+     "Laboratório de Física IV",
+     4
+    ],
+    [
+     "Física Geral IV",
+     4
+    ],
+    [
+     "Mecânica Geral",
+     4
+    ],
+    [
+     "Física Computacional",
+     4
+    ],
+    [
+     "Cálculo 4",
+     4
+    ],
+    [
+     "Termodinâmica",
+     5
+    ],
+    [
+     "Mecânica Analítica",
+     5
+    ],
+    [
+     "Métodos de Física-Matemática I",
+     5
+    ],
+    [
+     "Estrutura da Matéria I",
+     5
+    ],
+    [
+     "Teoria Eletromagnética I",
+     6
+    ],
+    [
+     "Métodos de Física-Matemática II",
+     6
+    ],
+    [
+     "Mecânica Quântica I",
+     6
+    ],
+    [
+     "Pré-TCC",
+     7
+    ],
+    [
+     "Laboratório de Física Moderna I",
+     7
+    ],
+    [
+     "Mecânica Estatística",
+     7
+    ],
+    [
+     "Teoria Eletromagnética II",
+     7
+    ],
+    [
+     "Mecânica Quântica II",
+     7
+    ],
+    [
+     "Orientação TCC",
+     8
+    ],
+    [
+     "Estado Sólido",
+     8
+    ],
+    [
+     "Física Nuclear e de Partículas Elementares",
+     8
+    ],
+    [
+     "Evolução dos Conceitos da Física",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "nao_encontrada": "Só oferece Licenciatura em Física (CCT/Joinville); matriz curricular não localizada"
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "Campus Chapecó não oferece Física"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "Não oferece Física"
+  },
+  {
+   "uni": "FURB",
+   "nao_encontrada": "Não oferece Física (não localizada oferta)"
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "Não oferece Física"
+  },
+  {
+   "uni": "Unisul",
+   "url": "https://estaticos.animaeducacao.com.br/medias/20250709143508/unisul-doc-institucional-ppc_licfisica_unisul-1.pdf",
+   "matriz": "PPC Licenciatura presencial Tubarão (2023; Resolução 36/2021) - currículo por competências",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Inclusão e libras",
+     1
+    ],
+    [
+     "Profissão docente e identidade profissional",
+     1
+    ],
+    [
+     "Vida & Carreira",
+     1
+    ],
+    [
+     "Educação básica: avaliação e currículo",
+     2
+    ],
+    [
+     "Ferramentas para a matemática aplicada",
+     2
+    ],
+    [
+     "Psicologia e educação",
+     3
+    ],
+    [
+     "Core curriculum",
+     3
+    ],
+    [
+     "Análise de fenômenos físicos da natureza",
+     4
+    ],
+    [
+     "Gestão educacional e políticas públicas",
+     4
+    ],
+    [
+     "Estágio supervisionado (do 1º ao 4º semestre)",
+     4
+    ],
+    [
+     "Tecnologias da informação e da comunicação na educação",
+     5
+    ],
+    [
+     "Fenômenos elétricos, magnéticos e oscilatórios",
+     5
+    ],
+    [
+     "Fundamentos de mecânica, mecânica dos fluidos e termodinâmica",
+     6
+    ],
+    [
+     "Estruturas matemáticas",
+     6
+    ],
+    [
+     "Ensino da física, utilização de tecnologias de informação e comunicação e evolução dos conceitos da física",
+     7
+    ],
+    [
+     "Óptica e física geométrica, física moderna e contemporânea",
+     8
+    ],
+    [
+     "Estágio supervisionado (do 5º ao 8º semestre)",
+     8
+    ]
+   ]
+  }
+ ],
+ "uniao": [
+  [
+   "Cálculo I",
+   1
+  ],
+  [
+   "Física Geral I",
+   1
+  ],
+  [
+   "Inclusão e Libras",
+   1
+  ],
+  [
+   "Introdução à Física Moderna",
+   1
+  ],
+  [
+   "Laboratório de Física I",
+   1
+  ],
+  [
+   "Profissão Docente e Identidade Profissional",
+   1
+  ],
+  [
+   "Tópicos de Matemática Básica para Física Geral",
+   1
+  ],
+  [
+   "Vida & Carreira",
+   1
+  ],
+  [
+   "Álgebra Linear",
+   2
+  ],
+  [
+   "Cálculo II",
+   2
+  ],
+  [
+   "Educação Básica: Avaliação e Currículo",
+   2
+  ],
+  [
+   "Ferramentas para a Matemática Aplicada",
+   2
+  ],
+  [
+   "Física Geral II-A",
+   2
+  ],
+  [
+   "Física Geral II-B",
+   2
+  ],
+  [
+   "Laboratório de Física II",
+   2
+  ],
+  [
+   "Cálculo III",
+   3
+  ],
+  [
+   "Equações Diferenciais Ordinárias",
+   3
+  ],
+  [
+   "Física Geral III",
+   3
+  ],
+  [
+   "Introdução à Física Computacional",
+   3
+  ],
+  [
+   "Laboratório de Física III",
+   3
+  ],
+  [
+   "Psicologia e Educação",
+   3
+  ],
+  [
+   "Análise de Fenômenos Físicos da Natureza",
+   4
+  ],
+  [
+   "Cálculo IV",
+   4
+  ],
+  [
+   "Estágio Supervisionado I",
+   4
+  ],
+  [
+   "Física Computacional",
+   4
+  ],
+  [
+   "Física Geral IV",
+   4
+  ],
+  [
+   "Gestão Educacional e Políticas Públicas",
+   4
+  ],
+  [
+   "Laboratório de Física IV",
+   4
+  ],
+  [
+   "Mecânica Geral",
+   4
+  ],
+  [
+   "Estrutura da Matéria I",
+   5
+  ],
+  [
+   "Fenômenos Elétricos, Magnéticos e Oscilatórios",
+   5
+  ],
+  [
+   "Mecânica Analítica",
+   5
+  ],
+  [
+   "Métodos de Física-Matemática I",
+   5
+  ],
+  [
+   "Tecnologias da Informação e da Comunicação na Educação",
+   5
+  ],
+  [
+   "Termodinâmica",
+   5
+  ],
+  [
+   "Estruturas Matemáticas",
+   6
+  ],
+  [
+   "Fundamentos de Mecânica, Mecânica dos Fluidos e Termodinâmica",
+   6
+  ],
+  [
+   "Mecânica Quântica I",
+   6
+  ],
+  [
+   "Métodos de Física-Matemática II",
+   6
+  ],
+  [
+   "Teoria Eletromagnética I",
+   6
+  ],
+  [
+   "Ensino da Física, TIC e Evolução dos Conceitos da Física",
+   7
+  ],
+  [
+   "Laboratório de Física Moderna I",
+   7
+  ],
+  [
+   "Mecânica Estatística",
+   7
+  ],
+  [
+   "Mecânica Quântica II",
+   7
+  ],
+  [
+   "Teoria Eletromagnética II",
+   7
+  ],
+  [
+   "Trabalho de Conclusão de Curso I",
+   7
+  ],
+  [
+   "Estado Sólido",
+   8
+  ],
+  [
+   "Estágio Supervisionado II",
+   8
+  ],
+  [
+   "Evolução dos Conceitos da Física",
+   8
+  ],
+  [
+   "Física Nuclear e de Partículas Elementares",
+   8
+  ],
+  [
+   "Óptica e Física Geométrica, Física Moderna e Contemporânea",
+   8
+  ],
+  [
+   "Trabalho de Conclusão de Curso II",
+   8
+  ]
+ ],
+ "notas": "UFSC: bacharelado presencial (currículo 20241). Unisul: só oferece licenciatura (presencial, Tubarão), usada por falta de bacharelado; currículo por competências com UCs amplas, mantidas com o nome do módulo; atribuição de semestre inferida da ordem dos blocos na tabela. Duração: 8 semestres. Equivalências: Cálculo 1-4 = Cálculo I-IV; Física Geral - I-A -> Física Geral I; Pré-TCC -> Trabalho de Conclusão de Curso I; Orientação TCC -> Trabalho de Conclusão de Curso II; Estágio supervisionado (1º ao 4º sem.) -> Estágio Supervisionado I; (5º ao 8º sem.) -> Estágio Supervisionado II. Excluído 'Core curriculum' (vaga genérica de UC compartilhada da Unisul). UDESC só tem licenciatura e a matriz não foi encontrada."
+}

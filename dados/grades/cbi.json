@@ -1,0 +1,961 @@
+{
+ "id": "cbi",
+ "curso": "Ciências Biológicas",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://cagr.sistemas.ufsc.br/relatorios/curriculoCurso?curso=108",
+   "matriz": "Currículo 20061 (Portaria 241/PREG/2006) - Bacharelado",
+   "semestres": 9,
+   "disciplinas": [
+    [
+     "Introdução a Ciência",
+     1
+    ],
+    [
+     "Ciências Biológicas: Formação e Profissão",
+     1
+    ],
+    [
+     "Biofísica Instrumental",
+     1
+    ],
+    [
+     "Zoologia de Invertebrados I",
+     1
+    ],
+    [
+     "Introdução à Ecologia",
+     1
+    ],
+    [
+     "Tópicos de Biossegurança",
+     1
+    ],
+    [
+     "Anatomia Aplicada a Ciências Biológicas",
+     1
+    ],
+    [
+     "Fundamentos de Química Geral e Orgânica",
+     1
+    ],
+    [
+     "Biologia Celular",
+     2
+    ],
+    [
+     "Bioquímica Básica",
+     2
+    ],
+    [
+     "Biofísica Celular e das Radiações",
+     2
+    ],
+    [
+     "Zoologia de Invertebrados II",
+     2
+    ],
+    [
+     "Pré-Cálculo",
+     2
+    ],
+    [
+     "Biologia Molecular I",
+     3
+    ],
+    [
+     "Evolução",
+     3
+    ],
+    [
+     "Ficologia",
+     3
+    ],
+    [
+     "Micologia",
+     3
+    ],
+    [
+     "Zoologia de Invertebrados III",
+     3
+    ],
+    [
+     "Bioestatística",
+     3
+    ],
+    [
+     "Microbiologia Geral",
+     3
+    ],
+    [
+     "Histologia Aplicada às Ciências Biológicas",
+     3
+    ],
+    [
+     "Embriologia Animal",
+     4
+    ],
+    [
+     "Citogenética",
+     4
+    ],
+    [
+     "Vivência em Pesquisa I",
+     4
+    ],
+    [
+     "Sistemática de Plantas Vasculares",
+     4
+    ],
+    [
+     "Ecologia de Populações",
+     4
+    ],
+    [
+     "Tópicos em Biologia e Educação",
+     4
+    ],
+    [
+     "Biologia Parasitária",
+     4
+    ],
+    [
+     "Desenvolvimento Humano",
+     5
+    ],
+    [
+     "Genética Clássica",
+     5
+    ],
+    [
+     "Vivência em Pesquisa II",
+     5
+    ],
+    [
+     "Anatomia e Embriologia Vegetal",
+     5
+    ],
+    [
+     "Zoologia de Vertebrados I",
+     5
+    ],
+    [
+     "Ecologia de Comunidades",
+     5
+    ],
+    [
+     "Imunologia",
+     5
+    ],
+    [
+     "Fisiologia Humana",
+     6
+    ],
+    [
+     "Geologia",
+     6
+    ],
+    [
+     "Zoologia de Vertebrados II",
+     6
+    ],
+    [
+     "Fisiologia Animal Comparada",
+     6
+    ],
+    [
+     "Biologia Molecular II",
+     7
+    ],
+    [
+     "Genética Evolutiva",
+     7
+    ],
+    [
+     "Metodologia da Pesquisa",
+     7
+    ],
+    [
+     "Projeto de Trabalho de Conclusão de Curso (TCC)",
+     7
+    ],
+    [
+     "Fisiologia Vegetal",
+     7
+    ],
+    [
+     "Paleontologia",
+     7
+    ],
+    [
+     "Educação, Meio Ambiente e Sustentabilidade",
+     7
+    ],
+    [
+     "Filosofia da Ciência",
+     7
+    ],
+    [
+     "Informática Aplicada às Ciências Biológicas",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso I (TCC)",
+     8
+    ],
+    [
+     "Conservação Biológica",
+     8
+    ],
+    [
+     "Introdução ao Estudo de Impacto Ambiental e ao Relatório de Impacto Ambiental",
+     8
+    ],
+    [
+     "Farmacologia",
+     8
+    ],
+    [
+     "Legislação Profissional Aplicada",
+     9
+    ],
+    [
+     "Trabalho de Conclusão de Curso II (TCC)",
+     9
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "url": "https://udesc.br/arquivos/udesc/documentos/095_2023_cni_17195215630089_4717.pdf",
+   "matriz": "Resolução 095/2023 CONSUNI (vigente a partir de 2024/1) - Bacharelado, CERES/Laguna, opções Biologia Marinha e Biodiversidade e Conservação",
+   "semestres": 9,
+   "disciplinas": [
+    [
+     "Anatomia e Morfologia Vegetal",
+     1
+    ],
+    [
+     "Biologia Celular",
+     1
+    ],
+    [
+     "Ecologia Básica",
+     1
+    ],
+    [
+     "Matemática Aplicada à Biologia",
+     1
+    ],
+    [
+     "Metodologia Científica",
+     1
+    ],
+    [
+     "Química Geral",
+     1
+    ],
+    [
+     "Zoologia de Invertebrados I",
+     1
+    ],
+    [
+     "Ambiente e Sociedade",
+     2
+    ],
+    [
+     "Biologia Molecular",
+     2
+    ],
+    [
+     "Botânica I",
+     2
+    ],
+    [
+     "Estatística",
+     2
+    ],
+    [
+     "Física Aplicada",
+     2
+    ],
+    [
+     "Histologia Animal",
+     2
+    ],
+    [
+     "Química Orgânica",
+     2
+    ],
+    [
+     "Zoologia de Invertebrados II",
+     2
+    ],
+    [
+     "Biofísica",
+     3
+    ],
+    [
+     "Biologia Parasitária",
+     3
+    ],
+    [
+     "Bioquímica",
+     3
+    ],
+    [
+     "Botânica II",
+     3
+    ],
+    [
+     "Ecologia de Populações e Comunidades",
+     3
+    ],
+    [
+     "Genética Geral",
+     3
+    ],
+    [
+     "Zoologia de Vertebrados I",
+     3
+    ],
+    [
+     "Anatomia Animal Comparada",
+     4
+    ],
+    [
+     "Biologia do Desenvolvimento",
+     4
+    ],
+    [
+     "Ecologia de Ecossistemas e Paisagens",
+     4
+    ],
+    [
+     "Evolução",
+     4
+    ],
+    [
+     "Genética Molecular",
+     4
+    ],
+    [
+     "Imunologia",
+     4
+    ],
+    [
+     "Introdução à Geologia",
+     4
+    ],
+    [
+     "Microbiologia Geral",
+     4
+    ],
+    [
+     "Zoologia de Vertebrados II",
+     4
+    ],
+    [
+     "Biogeografia",
+     5
+    ],
+    [
+     "Bioinformática",
+     5
+    ],
+    [
+     "Fisiologia Animal",
+     5
+    ],
+    [
+     "Fisiologia Vegetal",
+     5
+    ],
+    [
+     "Genética Ecológica",
+     5
+    ],
+    [
+     "Legislação e Licenciamento Ambiental",
+     5
+    ],
+    [
+     "Limnologia",
+     5
+    ],
+    [
+     "Biotecnologia Marinha",
+     6
+    ],
+    [
+     "Dinâmica e Morfologia dos Ambientes Costeiros",
+     6
+    ],
+    [
+     "Ficologia Aplicada",
+     6
+    ],
+    [
+     "Ictiologia",
+     6
+    ],
+    [
+     "Oceanografia",
+     6
+    ],
+    [
+     "Química Analítica",
+     6
+    ],
+    [
+     "Conservação da Biodiversidade",
+     6
+    ],
+    [
+     "Diversidade e Biologia dos Insetos",
+     6
+    ],
+    [
+     "Diversidade Genômica e Evolução Molecular",
+     6
+    ],
+    [
+     "Ecologia Comportamental",
+     6
+    ],
+    [
+     "Introdução à Análise de Dados Biológicos",
+     6
+    ],
+    [
+     "Princípios Biológicos da Criação Ecológica de Animais",
+     6
+    ],
+    [
+     "Aquicultura Costeira e Marinha",
+     7
+    ],
+    [
+     "Dinâmica de Populações Marinhas",
+     7
+    ],
+    [
+     "Ecologia de Bentos",
+     7
+    ],
+    [
+     "Geoprocessamento e Sensoriamento Remoto dos Oceanos",
+     7
+    ],
+    [
+     "Gerenciamento Costeiro",
+     7
+    ],
+    [
+     "Qualidade da Água",
+     7
+    ],
+    [
+     "Agricultura Ecológica",
+     7
+    ],
+    [
+     "Comportamento e Bem-estar Animal",
+     7
+    ],
+    [
+     "Etnobiologia",
+     7
+    ],
+    [
+     "Genética da Conservação",
+     7
+    ],
+    [
+     "Instrumentação e Aplicações da Análise de Dados Computacional",
+     7
+    ],
+    [
+     "Manejo de Fauna Silvestre",
+     7
+    ],
+    [
+     "Aves e Répteis Costeiros e Marinhos",
+     8
+    ],
+    [
+     "Mamíferos Marinhos",
+     8
+    ],
+    [
+     "Meteorologia e Climatologia",
+     8
+    ],
+    [
+     "Planctologia",
+     8
+    ],
+    [
+     "Reprodução de Peixes e Estratégias de Repovoamento",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso I (TCC I)",
+     8
+    ],
+    [
+     "Avaliação de Impacto Ambiental",
+     8
+    ],
+    [
+     "Conservação de Recursos Genéticos Animais",
+     8
+    ],
+    [
+     "Conservação de Recursos Genéticos Vegetais",
+     8
+    ],
+    [
+     "Conservação e Manejo de Áreas Protegidas",
+     8
+    ],
+    [
+     "Florística e Fitossociologia",
+     8
+    ],
+    [
+     "Estágio Curricular Supervisionado",
+     9
+    ],
+    [
+     "Trabalho de Conclusão de Curso II (TCC II)",
+     9
+    ]
+   ]
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "Campus Chapecó não oferece Ciências Biológicas (curso só em campi fora de SC)"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "Curso existe, mas o site (unochapeco.edu.br) bloqueou a leitura; matriz não acessível"
+  },
+  {
+   "uni": "FURB",
+   "nao_encontrada": "Matriz do bacharelado 2023 localizada em furb.br/web/upl/graduacao/matriz/..., mas o site retornou erro e não foi possível ler"
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "Síntese do Projeto Pedagógico localizada (Itajaí), mas o site bloqueia leitura automatizada (robots)"
+  },
+  {
+   "uni": "Unisul",
+   "nao_encontrada": "PPC do bacharelado presencial (Tubarão, 8 semestres) localizado, mas a tabela da matriz não é extraível do PDF"
+  }
+ ],
+ "uniao": [
+  [
+   "Anatomia Aplicada às Ciências Biológicas",
+   1
+  ],
+  [
+   "Anatomia Vegetal",
+   1
+  ],
+  [
+   "Biofísica Instrumental",
+   1
+  ],
+  [
+   "Biologia Celular",
+   1
+  ],
+  [
+   "Ciências Biológicas: Formação e Profissão",
+   1
+  ],
+  [
+   "Introdução à Ciência",
+   1
+  ],
+  [
+   "Introdução à Ecologia",
+   1
+  ],
+  [
+   "Matemática Aplicada à Biologia",
+   1
+  ],
+  [
+   "Metodologia Científica",
+   1
+  ],
+  [
+   "Química Geral",
+   1
+  ],
+  [
+   "Tópicos de Biossegurança",
+   1
+  ],
+  [
+   "Zoologia de Invertebrados I",
+   1
+  ],
+  [
+   "Ambiente e Sociedade",
+   2
+  ],
+  [
+   "Bioestatística",
+   2
+  ],
+  [
+   "Biofísica Celular e das Radiações",
+   2
+  ],
+  [
+   "Biologia Molecular I",
+   2
+  ],
+  [
+   "Bioquímica",
+   2
+  ],
+  [
+   "Botânica I",
+   2
+  ],
+  [
+   "Física Aplicada",
+   2
+  ],
+  [
+   "Histologia",
+   2
+  ],
+  [
+   "Química Orgânica",
+   2
+  ],
+  [
+   "Zoologia de Invertebrados II",
+   2
+  ],
+  [
+   "Biologia Parasitária",
+   3
+  ],
+  [
+   "Botânica II",
+   3
+  ],
+  [
+   "Ecologia de Populações",
+   3
+  ],
+  [
+   "Evolução",
+   3
+  ],
+  [
+   "Ficologia",
+   3
+  ],
+  [
+   "Genética Geral",
+   3
+  ],
+  [
+   "Micologia",
+   3
+  ],
+  [
+   "Microbiologia Geral",
+   3
+  ],
+  [
+   "Zoologia de Invertebrados III",
+   3
+  ],
+  [
+   "Zoologia de Vertebrados I",
+   3
+  ],
+  [
+   "Anatomia Animal Comparada",
+   4
+  ],
+  [
+   "Citogenética",
+   4
+  ],
+  [
+   "Ecologia de Ecossistemas e Paisagens",
+   4
+  ],
+  [
+   "Embriologia Animal",
+   4
+  ],
+  [
+   "Genética Molecular",
+   4
+  ],
+  [
+   "Geologia",
+   4
+  ],
+  [
+   "Imunologia",
+   4
+  ],
+  [
+   "Sistemática de Plantas Vasculares",
+   4
+  ],
+  [
+   "Tópicos em Biologia e Educação",
+   4
+  ],
+  [
+   "Vivência em Pesquisa I",
+   4
+  ],
+  [
+   "Zoologia de Vertebrados II",
+   4
+  ],
+  [
+   "Biogeografia",
+   5
+  ],
+  [
+   "Bioinformática",
+   5
+  ],
+  [
+   "Desenvolvimento Humano",
+   5
+  ],
+  [
+   "Ecologia de Comunidades",
+   5
+  ],
+  [
+   "Fisiologia Animal",
+   5
+  ],
+  [
+   "Fisiologia Vegetal",
+   5
+  ],
+  [
+   "Genética Ecológica",
+   5
+  ],
+  [
+   "Legislação e Licenciamento Ambiental",
+   5
+  ],
+  [
+   "Limnologia",
+   5
+  ],
+  [
+   "Vivência em Pesquisa II",
+   5
+  ],
+  [
+   "Biotecnologia Marinha",
+   6
+  ],
+  [
+   "Conservação Biológica",
+   6
+  ],
+  [
+   "Dinâmica e Morfologia dos Ambientes Costeiros",
+   6
+  ],
+  [
+   "Diversidade e Biologia dos Insetos",
+   6
+  ],
+  [
+   "Diversidade Genômica e Evolução Molecular",
+   6
+  ],
+  [
+   "Ecologia Comportamental",
+   6
+  ],
+  [
+   "Ficologia Aplicada",
+   6
+  ],
+  [
+   "Fisiologia Humana",
+   6
+  ],
+  [
+   "Ictiologia",
+   6
+  ],
+  [
+   "Introdução à Análise de Dados Biológicos",
+   6
+  ],
+  [
+   "Oceanografia",
+   6
+  ],
+  [
+   "Princípios Biológicos da Criação Ecológica de Animais",
+   6
+  ],
+  [
+   "Química Analítica",
+   6
+  ],
+  [
+   "Agricultura Ecológica",
+   7
+  ],
+  [
+   "Aquicultura Costeira e Marinha",
+   7
+  ],
+  [
+   "Biologia Molecular II",
+   7
+  ],
+  [
+   "Comportamento e Bem-estar Animal",
+   7
+  ],
+  [
+   "Dinâmica de Populações Marinhas",
+   7
+  ],
+  [
+   "Ecologia de Bentos",
+   7
+  ],
+  [
+   "Educação, Meio Ambiente e Sustentabilidade",
+   7
+  ],
+  [
+   "Etnobiologia",
+   7
+  ],
+  [
+   "Filosofia da Ciência",
+   7
+  ],
+  [
+   "Genética da Conservação",
+   7
+  ],
+  [
+   "Genética Evolutiva",
+   7
+  ],
+  [
+   "Geoprocessamento e Sensoriamento Remoto dos Oceanos",
+   7
+  ],
+  [
+   "Gerenciamento Costeiro",
+   7
+  ],
+  [
+   "Instrumentação e Aplicações da Análise de Dados Computacional",
+   7
+  ],
+  [
+   "Manejo de Fauna Silvestre",
+   7
+  ],
+  [
+   "Paleontologia",
+   7
+  ],
+  [
+   "Projeto de Trabalho de Conclusão de Curso",
+   7
+  ],
+  [
+   "Qualidade da Água",
+   7
+  ],
+  [
+   "Avaliação de Impacto Ambiental",
+   8
+  ],
+  [
+   "Aves e Répteis Costeiros e Marinhos",
+   8
+  ],
+  [
+   "Conservação de Recursos Genéticos Animais",
+   8
+  ],
+  [
+   "Conservação de Recursos Genéticos Vegetais",
+   8
+  ],
+  [
+   "Conservação e Manejo de Áreas Protegidas",
+   8
+  ],
+  [
+   "Farmacologia",
+   8
+  ],
+  [
+   "Florística e Fitossociologia",
+   8
+  ],
+  [
+   "Informática Aplicada às Ciências Biológicas",
+   8
+  ],
+  [
+   "Mamíferos Marinhos",
+   8
+  ],
+  [
+   "Meteorologia e Climatologia",
+   8
+  ],
+  [
+   "Planctologia",
+   8
+  ],
+  [
+   "Reprodução de Peixes e Estratégias de Repovoamento",
+   8
+  ],
+  [
+   "Trabalho de Conclusão de Curso I",
+   8
+  ],
+  [
+   "Estágio Curricular Supervisionado",
+   9
+  ],
+  [
+   "Legislação Profissional Aplicada",
+   9
+  ],
+  [
+   "Trabalho de Conclusão de Curso II",
+   9
+  ]
+ ],
+ "notas": "Bacharelado nas duas fontes (presencial). Duração: 9 semestres. UFSC: currículo 20061 do curso 108; fases 1-4 comuns a bacharelado/licenciatura; usada a grade do bacharelado nas fases 5-9 (BIO7002 excluída por ser tratada como optativa desde 2010). UDESC (CERES/Laguna): incluídas as obrigatórias das duas opções (Biologia Marinha e Biodiversidade e Conservação), já que ambas são obrigatórias dentro da respectiva opção. Equivalências: Bioquímica Básica = Bioquímica; Introdução à Ecologia = Ecologia Básica; Fundamentos de Química Geral e Orgânica -> Química Geral; Pré-Cálculo -> Matemática Aplicada à Biologia; Bioestatística = Estatística; Biologia Molecular (UDESC) = Biologia Molecular I; Histologia Aplicada às Ciências Biológicas = Histologia Animal -> Histologia; Anatomia e Morfologia Vegetal = Anatomia e Embriologia Vegetal -> Anatomia Vegetal; Embriologia Animal = Biologia do Desenvolvimento; Ecologia de Populações e Comunidades -> Ecologia de Populações; Genética Clássica = Genética Geral; Fisiologia Animal Comparada = Fisiologia Animal; Geologia = Introdução à Geologia; Metodologia da Pesquisa = Metodologia Científica; Biofísica (UDESC) -> Biofísica Celular e das Radiações; Conservação Biológica = Conservação da Biodiversidade; Introdução ao EIA/RIMA = Avaliação de Impacto Ambiental. Anatomia Aplicada às Ciências Biológicas (UFSC) mantida com nome próprio (disciplina única, não seriada). Unochapecó, FURB e Univali oferecem o curso, mas os sites bloquearam a leitura."
+}

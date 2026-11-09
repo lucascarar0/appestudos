@@ -1,0 +1,1393 @@
+{
+ "id": "vet",
+ "curso": "Medicina Veterinária",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://cagr.sistemas.ufsc.br/relatorios/curriculoCurso?curso=552",
+   "matriz": "Currículo 20231 - Campus Curitibanos",
+   "semestres": 10,
+   "disciplinas": [
+    [
+     "Ecologia Geral",
+     1
+    ],
+    [
+     "Bioquímica",
+     1
+    ],
+    [
+     "Histologia Veterinária I",
+     1
+    ],
+    [
+     "Anatomia Animal I",
+     1
+    ],
+    [
+     "Etologia e Bem-estar Animal",
+     1
+    ],
+    [
+     "Genética Veterinária",
+     1
+    ],
+    [
+     "Introdução à Medicina Veterinária",
+     1
+    ],
+    [
+     "Conceitos",
+     1
+    ],
+    [
+     "Biologia Celular",
+     1
+    ],
+    [
+     "Ciência, Ética e Metodologia da Pesquisa",
+     1
+    ],
+    [
+     "Histologia Veterinária II",
+     2
+    ],
+    [
+     "Fisiologia Veterinária I",
+     2
+    ],
+    [
+     "Parasitologia Veterinária",
+     2
+    ],
+    [
+     "Anatomia Animal II",
+     2
+    ],
+    [
+     "Fundamentos do Melhoramento Animal",
+     2
+    ],
+    [
+     "Farmacologia Veterinária I",
+     2
+    ],
+    [
+     "Saúde Ambiental",
+     2
+    ],
+    [
+     "Microbiologia Geral",
+     2
+    ],
+    [
+     "Antropologia",
+     2
+    ],
+    [
+     "Fisiologia Veterinária II",
+     3
+    ],
+    [
+     "Anatomia Animal Aplicada",
+     3
+    ],
+    [
+     "Imunologia Veterinária",
+     3
+    ],
+    [
+     "Farmacologia Veterinária II",
+     3
+    ],
+    [
+     "Microbiologia Clínica",
+     3
+    ],
+    [
+     "Epidemiologia Veterinária",
+     3
+    ],
+    [
+     "Estatística Básica",
+     3
+    ],
+    [
+     "Sociologia Rural e Ambiental",
+     3
+    ],
+    [
+     "Patologia Veterinária Geral",
+     4
+    ],
+    [
+     "Laboratório Clínico Veterinário",
+     4
+    ],
+    [
+     "Nutrição Animal",
+     4
+    ],
+    [
+     "Semiologia Veterinária",
+     4
+    ],
+    [
+     "Anestesiologia Veterinária",
+     4
+    ],
+    [
+     "Diagnóstico por Imagem em Medicina Veterinária",
+     4
+    ],
+    [
+     "Técnica Cirúrgica Veterinária",
+     4
+    ],
+    [
+     "Saúde Pública",
+     4
+    ],
+    [
+     "Fundamentos da Economia",
+     4
+    ],
+    [
+     "Estatística Experimental",
+     4
+    ],
+    [
+     "Educação em Saúde",
+     5
+    ],
+    [
+     "Módulo - Medicina e Criação de Ruminantes",
+     5
+    ],
+    [
+     "Desenvolvimento Rural",
+     5
+    ],
+    [
+     "Comunicação e Saúde",
+     6
+    ],
+    [
+     "Módulo - Medicina de Cães e Gatos",
+     6
+    ],
+    [
+     "Administração e Gestão",
+     6
+    ],
+    [
+     "Gestão em Saúde",
+     7
+    ],
+    [
+     "Módulo - Medicina e Produção de Não Ruminantes",
+     7
+    ],
+    [
+     "Módulo - Medicina de Animais Selvagens, Exóticos e de Laboratório",
+     7
+    ],
+    [
+     "Adminstração e Marketing",
+     7
+    ],
+    [
+     "Relações humano/animal/ambiente",
+     8
+    ],
+    [
+     "Módulo - Medicina e Criação de Equinos",
+     8
+    ],
+    [
+     "Módulo - Inspeção e Tecnologia de Produtos de Origem Animal",
+     8
+    ],
+    [
+     "Extensão Rural",
+     8
+    ],
+    [
+     "Estágio Curricular Obrigatório em Medicina Veterinária I",
+     9
+    ],
+    [
+     "Trabalho de Conclusão de Curso",
+     10
+    ],
+    [
+     "Estágio Curricular Obrigatório em Medicina Veterinária II",
+     10
+    ],
+    [
+     "Ações de Extensão",
+     10
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "url": "https://www.udesc.br/arquivos/cav/id_cpmenu/1000/Resolu__o_016_2025_cni_anexo_17494997817588_1000.pdf",
+   "matriz": "Nova matriz (PPC anexo à Resolução 016/2025 CONSUNI; implantação prevista 2024/2) - CAV/Lages",
+   "semestres": 10,
+   "disciplinas": [
+    [
+     "Anatomia I",
+     1
+    ],
+    [
+     "Bioquímica de Biomoléculas",
+     1
+    ],
+    [
+     "Estatística e Experimentação Animal",
+     1
+    ],
+    [
+     "Histologia Geral",
+     1
+    ],
+    [
+     "Ecologia e Desenvolvimento Sustentável",
+     1
+    ],
+    [
+     "Sociologia Aplicada a Medicina Veterinária",
+     1
+    ],
+    [
+     "Comportamento e Bem-Estar Animal",
+     1
+    ],
+    [
+     "Introdução à Medicina Veterinária",
+     1
+    ],
+    [
+     "Extensão, Comunicação e Marketing",
+     1
+    ],
+    [
+     "Anatomia II",
+     2
+    ],
+    [
+     "Bioquímica Metabólica",
+     2
+    ],
+    [
+     "Genética",
+     2
+    ],
+    [
+     "Histologia e Embriologia",
+     2
+    ],
+    [
+     "Fisiologia I",
+     2
+    ],
+    [
+     "Parasitologia I",
+     2
+    ],
+    [
+     "Fisiologia II",
+     3
+    ],
+    [
+     "Imunologia Veterinária",
+     3
+    ],
+    [
+     "Farmacologia Geral",
+     3
+    ],
+    [
+     "Melhoramento Animal",
+     3
+    ],
+    [
+     "Parasitologia II",
+     3
+    ],
+    [
+     "Microbiologia Básica",
+     3
+    ],
+    [
+     "Epistemologia e Metodologia Científica",
+     3
+    ],
+    [
+     "Nutrição Animal",
+     3
+    ],
+    [
+     "Epidemiologia",
+     4
+    ],
+    [
+     "Farmacodinâmica",
+     4
+    ],
+    [
+     "Semiologia",
+     4
+    ],
+    [
+     "Patologia Geral",
+     4
+    ],
+    [
+     "Forragicultura",
+     4
+    ],
+    [
+     "Suinocultura",
+     4
+    ],
+    [
+     "Avicultura",
+     4
+    ],
+    [
+     "Microbiologia Veterinária",
+     4
+    ],
+    [
+     "Doenças Infectocontagiosas",
+     5
+    ],
+    [
+     "Terapêutica",
+     5
+    ],
+    [
+     "Patologia Veterinária",
+     5
+    ],
+    [
+     "Patologia Clínica Veterinária",
+     5
+    ],
+    [
+     "Bovinocultura de Corte",
+     5
+    ],
+    [
+     "Bovinocultura de Leite",
+     5
+    ],
+    [
+     "Piscicultura",
+     5
+    ],
+    [
+     "Ovinocultura",
+     5
+    ],
+    [
+     "Doenças Parasitárias",
+     5
+    ],
+    [
+     "Clínica Médica de Ruminantes",
+     6
+    ],
+    [
+     "Anestesiologia Veterinária",
+     6
+    ],
+    [
+     "Técnica Cirúrgica Veterinária",
+     6
+    ],
+    [
+     "Clínica Médica de Cães e Gatos I",
+     6
+    ],
+    [
+     "Saúde Pública Veterinária",
+     6
+    ],
+    [
+     "Diagnóstico por Imagem em Veterinária",
+     6
+    ],
+    [
+     "Reprodução Animal I",
+     6
+    ],
+    [
+     "Sanidade Suína",
+     6
+    ],
+    [
+     "Clínica Médica de Cães e Gatos II",
+     7
+    ],
+    [
+     "Inspeção e Tecnologia de Produtos de Origem Animal I",
+     7
+    ],
+    [
+     "Clínica Cirúrgica de Pequenos Animais",
+     7
+    ],
+    [
+     "Toxicologia Veterinária e Plantas Tóxicas",
+     7
+    ],
+    [
+     "Reprodução Animal II",
+     7
+    ],
+    [
+     "Clínica de Animais Silvestres e Exóticos",
+     7
+    ],
+    [
+     "Equideocultura",
+     7
+    ],
+    [
+     "Projeto de Trabalho de Conclusão de Curso",
+     7
+    ],
+    [
+     "Obstetrícia Veterinária",
+     8
+    ],
+    [
+     "Inspeção e Tecnologia de Produtos de Origem Animal II",
+     8
+    ],
+    [
+     "Economia e Administração",
+     8
+    ],
+    [
+     "Doenças das Aves",
+     8
+    ],
+    [
+     "Clínica Médica de Equinos",
+     8
+    ],
+    [
+     "Clínica Cirúrgica de Grandes Animais",
+     8
+    ],
+    [
+     "Deontologia",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso",
+     8
+    ],
+    [
+     "Estágio Curricular Obrigatório (na IES)",
+     9
+    ],
+    [
+     "Estágio Curricular Obrigatório (fora da IES)",
+     10
+    ]
+   ]
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "Campus Chapecó não oferece Medicina Veterinária (curso da UFFS é em Realeza/PR)"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "Oferta não confirmada; site unochapeco.edu.br bloqueia leitura"
+  },
+  {
+   "uni": "FURB",
+   "url": "https://www.furb.br/web/upl/graduacao/projeto_pedagogico/202512171307310.ppc medicina veterinaria correcao prerrequisito.pdf",
+   "matriz": "PPC 2022.2, versão 1.1 (17/12/2025)",
+   "semestres": 10,
+   "disciplinas": [
+    [
+     "Introdução à Medicina Veterinária",
+     1
+    ],
+    [
+     "Anatomia Veterinária I",
+     1
+    ],
+    [
+     "Deontologia Veterinária",
+     1
+    ],
+    [
+     "Alteridade e Direitos Humanos",
+     1
+    ],
+    [
+     "Universidade, Ciência e Pesquisa",
+     1
+    ],
+    [
+     "Histologia e Embriologia Geral",
+     1
+    ],
+    [
+     "História da Cultura Afro-brasileira e indígena",
+     1
+    ],
+    [
+     "Medicina da Conservação",
+     1
+    ],
+    [
+     "Educação Física – Prática Desportiva I",
+     1
+    ],
+    [
+     "Saúde Pública em Medicina Veterinária I",
+     2
+    ],
+    [
+     "Zootecnia Geral",
+     2
+    ],
+    [
+     "Anatomia Veterinária II",
+     2
+    ],
+    [
+     "Bioquímica",
+     2
+    ],
+    [
+     "Histologia e Embriologia Veterinária",
+     2
+    ],
+    [
+     "Fisiologia Veterinária I",
+     2
+    ],
+    [
+     "Genética na Saúde",
+     2
+    ],
+    [
+     "Educação Física – Prática Desportiva II",
+     2
+    ],
+    [
+     "Relações Interpessoais da Saúde",
+     3
+    ],
+    [
+     "Anatomia Veterinária III",
+     3
+    ],
+    [
+     "Nutrição e Alimentação Animal",
+     3
+    ],
+    [
+     "Bioquímica Metabólica",
+     3
+    ],
+    [
+     "Parasitologia Veterinária I",
+     3
+    ],
+    [
+     "Imunologia Veterinária I",
+     3
+    ],
+    [
+     "Fisiologia Veterinária II",
+     3
+    ],
+    [
+     "Microbiologia Veterinária I",
+     3
+    ],
+    [
+     "Saúde Pública em Medicina Veterinária II",
+     4
+    ],
+    [
+     "Melhoramento Animal",
+     4
+    ],
+    [
+     "Imunologia Veterinária II",
+     4
+    ],
+    [
+     "Farmacologia Geral",
+     4
+    ],
+    [
+     "Epidemiologia Veterinária",
+     4
+    ],
+    [
+     "Parasitologia Veterinária II",
+     4
+    ],
+    [
+     "Microbiologia Veterinária II",
+     4
+    ],
+    [
+     "Produção Textual Acadêmica",
+     4
+    ],
+    [
+     "Diversidade e Sociedade",
+     5
+    ],
+    [
+     "Semiologia Veterinária",
+     5
+    ],
+    [
+     "Patologia Clínica Veterinária",
+     5
+    ],
+    [
+     "Patologia Geral Veterinária",
+     5
+    ],
+    [
+     "Agrostologia e Forragicultura",
+     5
+    ],
+    [
+     "Terapêutica Veterinária",
+     5
+    ],
+    [
+     "Zoonoses",
+     5
+    ],
+    [
+     "Diagnóstico por Imagem Veterinário",
+     6
+    ],
+    [
+     "Bovinocultura",
+     6
+    ],
+    [
+     "Patologia Especial Veterinária",
+     6
+    ],
+    [
+     "Doenças Infecciosas de Animais Domésticos",
+     6
+    ],
+    [
+     "Doenças Parasitárias de Animais Domésticos",
+     6
+    ],
+    [
+     "Anestesiologia Veterinária",
+     6
+    ],
+    [
+     "Técnica Cirúrgica Veterinária",
+     6
+    ],
+    [
+     "Estatística",
+     7
+    ],
+    [
+     "Laboratório de Prática em Cirurgia de Pequenos Animais",
+     7
+    ],
+    [
+     "Trabalho de Conclusão I",
+     7
+    ],
+    [
+     "Bioética",
+     7
+    ],
+    [
+     "Inspeção Animal e Tecnologia de Produtos de Origem Animal I",
+     7
+    ],
+    [
+     "Patologia Aviária e Suína",
+     7
+    ],
+    [
+     "Clínica Médica de Cães e Gatos",
+     7
+    ],
+    [
+     "Clínica Médica de Grandes Animais",
+     7
+    ],
+    [
+     "Fisiopatologia da Reprodução Animal",
+     7
+    ],
+    [
+     "Toxicologia e Plantas Tóxicas",
+     8
+    ],
+    [
+     "Inspeção Animal e Tecnologia de Produtos de Origem Animal II",
+     8
+    ],
+    [
+     "Suinocultura e Avicultura",
+     8
+    ],
+    [
+     "Biotecnologia da Reprodução Animal",
+     8
+    ],
+    [
+     "Clínica Cirúrgica de Cães e Gatos",
+     8
+    ],
+    [
+     "Clínica Cirúrgica de Grandes Animais",
+     8
+    ],
+    [
+     "Estágio em Medicina Veterinária I – Clínica Cirúrgica de Cães e Gatos",
+     9
+    ],
+    [
+     "Estágio em Medicina Veterinária II – Clínica Médica de Cães, Gatos e Grandes Animais",
+     9
+    ],
+    [
+     "Estágio em Medicina Veterinária III – Diagnóstico Laboratorial",
+     9
+    ],
+    [
+     "Estágio em Medicina Veterinária IV – Medicina de Animais Selvagens",
+     9
+    ],
+    [
+     "Estágio em Medicina Veterinária V – Saúde Pública e Medicina Veterinária Preventiva",
+     9
+    ],
+    [
+     "Estágio em Medicina Veterinária VI – Inspeção e Tecnologia em Produtos de Origem Animal",
+     9
+    ],
+    [
+     "Estágio em Medicina Veterinária VII – Produção e reprodução animal",
+     9
+    ],
+    [
+     "Trabalho de Conclusão de Curso II",
+     9
+    ],
+    [
+     "Estágio em Medicina Veterinária VIII - Estágio Final",
+     10
+    ]
+   ]
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "Oferta não confirmada; site univali.br bloqueia leitura automatizada (robots)"
+  },
+  {
+   "uni": "Unisul",
+   "url": "https://estaticos.animaeducacao.com.br/medias/20250709143514/unisul-doc-institucional-ppc_bachmedicina-veterinaria_unisul_unive_hnUtjZc.pdf",
+   "matriz": "PPC Bacharelado presencial Tubarão/Braço do Norte/Pedra Branca (2022) - currículo por competências",
+   "semestres": 10,
+   "disciplinas": [
+    [
+     "Sistemas vitais dos animais",
+     1
+    ],
+    [
+     "Zootecnia de ruminantes",
+     1
+    ],
+    [
+     "Vida & Carreira",
+     1
+    ],
+    [
+     "Sistema nervoso e aparelho locomotor dos animais",
+     2
+    ],
+    [
+     "Reprodução animal e biotecnologias",
+     2
+    ],
+    [
+     "Práticas veterinárias: saúde e tecnologia",
+     2
+    ],
+    [
+     "Agravos e imunidade em saúde animal",
+     3
+    ],
+    [
+     "Medicina veterinária investigativa",
+     3
+    ],
+    [
+     "Práticas veterinárias: saúde animal",
+     3
+    ],
+    [
+     "Zootecnia de aves, suínos e aquicultura",
+     4
+    ],
+    [
+     "Meio ambiente e medicina de animais silvestres",
+     4
+    ],
+    [
+     "Práticas veterinárias: Medicina e meio ambiente",
+     4
+    ],
+    [
+     "Clínica médica de cães e gatos",
+     5
+    ],
+    [
+     "Saúde única",
+     5
+    ],
+    [
+     "Práticas veterinárias: profissão e sociedade",
+     5
+    ],
+    [
+     "Medicina de ruminantes",
+     6
+    ],
+    [
+     "Core curriculum",
+     6
+    ],
+    [
+     "Práticas veterinárias: clínica médica",
+     6
+    ],
+    [
+     "Clínica cirúrgica de cães e gatos",
+     7
+    ],
+    [
+     "Inspeção e tecnologia de produtos de origem animal",
+     7
+    ],
+    [
+     "Práticas veterinárias: intervenções em saúde animal",
+     7
+    ],
+    [
+     "Medicina e criação de equídeos",
+     8
+    ],
+    [
+     "Saúde de animais de produção",
+     8
+    ],
+    [
+     "Práticas veterinárias: clínica médica e produção",
+     8
+    ],
+    [
+     "Estágio supervisionado: práticas profissionais",
+     9
+    ],
+    [
+     "Estágio supervisionado: vivência profissional",
+     10
+    ],
+    [
+     "Trabalho de conclusão de curso",
+     10
+    ]
+   ]
+  }
+ ],
+ "uniao": [
+  [
+   "Alteridade e Direitos Humanos",
+   1
+  ],
+  [
+   "Anatomia Veterinária I",
+   1
+  ],
+  [
+   "Bioestatística",
+   1
+  ],
+  [
+   "Biologia Celular",
+   1
+  ],
+  [
+   "Bioquímica",
+   1
+  ],
+  [
+   "Deontologia Veterinária",
+   1
+  ],
+  [
+   "Ecologia Geral",
+   1
+  ],
+  [
+   "Etologia e Bem-Estar Animal",
+   1
+  ],
+  [
+   "Extensão, Comunicação e Marketing",
+   1
+  ],
+  [
+   "Histologia Geral",
+   1
+  ],
+  [
+   "História da Cultura Afro-brasileira e Indígena",
+   1
+  ],
+  [
+   "Introdução à Medicina Veterinária",
+   1
+  ],
+  [
+   "Medicina da Conservação",
+   1
+  ],
+  [
+   "Metodologia Científica",
+   1
+  ],
+  [
+   "Prática Desportiva I",
+   1
+  ],
+  [
+   "Sistemas Vitais dos Animais",
+   1
+  ],
+  [
+   "Sociologia Aplicada à Medicina Veterinária",
+   1
+  ],
+  [
+   "Vida & Carreira",
+   1
+  ],
+  [
+   "Zootecnia de Ruminantes",
+   1
+  ],
+  [
+   "Anatomia Veterinária II",
+   2
+  ],
+  [
+   "Antropologia",
+   2
+  ],
+  [
+   "Bioquímica Metabólica",
+   2
+  ],
+  [
+   "Farmacologia Veterinária I",
+   2
+  ],
+  [
+   "Fisiologia Veterinária I",
+   2
+  ],
+  [
+   "Genética Veterinária",
+   2
+  ],
+  [
+   "Histologia e Embriologia Veterinária",
+   2
+  ],
+  [
+   "Melhoramento Animal",
+   2
+  ],
+  [
+   "Parasitologia Veterinária I",
+   2
+  ],
+  [
+   "Prática Desportiva II",
+   2
+  ],
+  [
+   "Práticas Veterinárias: Saúde e Tecnologia",
+   2
+  ],
+  [
+   "Reprodução Animal e Biotecnologias",
+   2
+  ],
+  [
+   "Saúde Ambiental",
+   2
+  ],
+  [
+   "Saúde Pública Veterinária I",
+   2
+  ],
+  [
+   "Sistema Nervoso e Aparelho Locomotor dos Animais",
+   2
+  ],
+  [
+   "Zootecnia Geral",
+   2
+  ],
+  [
+   "Agravos e Imunidade em Saúde Animal",
+   3
+  ],
+  [
+   "Anatomia Veterinária III",
+   3
+  ],
+  [
+   "Farmacologia Veterinária II",
+   3
+  ],
+  [
+   "Fisiologia Veterinária II",
+   3
+  ],
+  [
+   "Imunologia Veterinária I",
+   3
+  ],
+  [
+   "Medicina Veterinária Investigativa",
+   3
+  ],
+  [
+   "Microbiologia Veterinária I",
+   3
+  ],
+  [
+   "Nutrição Animal",
+   3
+  ],
+  [
+   "Parasitologia Veterinária II",
+   3
+  ],
+  [
+   "Práticas Veterinárias: Saúde Animal",
+   3
+  ],
+  [
+   "Relações Interpessoais da Saúde",
+   3
+  ],
+  [
+   "Avicultura",
+   4
+  ],
+  [
+   "Economia e Administração",
+   4
+  ],
+  [
+   "Epidemiologia Veterinária",
+   4
+  ],
+  [
+   "Estatística Experimental",
+   4
+  ],
+  [
+   "Forragicultura",
+   4
+  ],
+  [
+   "Imunologia Veterinária II",
+   4
+  ],
+  [
+   "Microbiologia Veterinária II",
+   4
+  ],
+  [
+   "Patologia Geral Veterinária",
+   4
+  ],
+  [
+   "Práticas Veterinárias: Medicina e Meio Ambiente",
+   4
+  ],
+  [
+   "Produção Textual Acadêmica",
+   4
+  ],
+  [
+   "Saúde Pública Veterinária II",
+   4
+  ],
+  [
+   "Semiologia Veterinária",
+   4
+  ],
+  [
+   "Suinocultura",
+   4
+  ],
+  [
+   "Zootecnia de Aves, Suínos e Aquicultura",
+   4
+  ],
+  [
+   "Bovinocultura de Corte",
+   5
+  ],
+  [
+   "Bovinocultura de Leite",
+   5
+  ],
+  [
+   "Clínica Médica de Cães e Gatos I",
+   5
+  ],
+  [
+   "Desenvolvimento Rural",
+   5
+  ],
+  [
+   "Diversidade e Sociedade",
+   5
+  ],
+  [
+   "Doenças Infecciosas",
+   5
+  ],
+  [
+   "Doenças Parasitárias",
+   5
+  ],
+  [
+   "Educação em Saúde",
+   5
+  ],
+  [
+   "Medicina e Criação de Ruminantes",
+   5
+  ],
+  [
+   "Ovinocultura",
+   5
+  ],
+  [
+   "Patologia Clínica Veterinária",
+   5
+  ],
+  [
+   "Patologia Veterinária Especial",
+   5
+  ],
+  [
+   "Piscicultura",
+   5
+  ],
+  [
+   "Práticas Veterinárias: Profissão e Sociedade",
+   5
+  ],
+  [
+   "Saúde Única",
+   5
+  ],
+  [
+   "Terapêutica Veterinária",
+   5
+  ],
+  [
+   "Zoonoses",
+   5
+  ],
+  [
+   "Administração e Gestão",
+   6
+  ],
+  [
+   "Anestesiologia Veterinária",
+   6
+  ],
+  [
+   "Clínica Médica de Ruminantes",
+   6
+  ],
+  [
+   "Comunicação e Saúde",
+   6
+  ],
+  [
+   "Diagnóstico por Imagem Veterinário",
+   6
+  ],
+  [
+   "Medicina de Cães e Gatos",
+   6
+  ],
+  [
+   "Práticas Veterinárias: Clínica Médica",
+   6
+  ],
+  [
+   "Reprodução Animal I",
+   6
+  ],
+  [
+   "Sanidade Suína",
+   6
+  ],
+  [
+   "Técnica Cirúrgica Veterinária",
+   6
+  ],
+  [
+   "Administração e Marketing",
+   7
+  ],
+  [
+   "Bioética",
+   7
+  ],
+  [
+   "Clínica Cirúrgica de Cães e Gatos",
+   7
+  ],
+  [
+   "Clínica Médica de Cães e Gatos II",
+   7
+  ],
+  [
+   "Clínica Médica de Grandes Animais",
+   7
+  ],
+  [
+   "Doenças das Aves",
+   7
+  ],
+  [
+   "Equideocultura",
+   7
+  ],
+  [
+   "Gestão em Saúde",
+   7
+  ],
+  [
+   "Inspeção e Tecnologia de Produtos de Origem Animal I",
+   7
+  ],
+  [
+   "Laboratório de Prática em Cirurgia de Pequenos Animais",
+   7
+  ],
+  [
+   "Medicina de Animais Selvagens e Exóticos",
+   7
+  ],
+  [
+   "Medicina e Produção de Não Ruminantes",
+   7
+  ],
+  [
+   "Práticas Veterinárias: Intervenções em Saúde Animal",
+   7
+  ],
+  [
+   "Reprodução Animal II",
+   7
+  ],
+  [
+   "Toxicologia Veterinária e Plantas Tóxicas",
+   7
+  ],
+  [
+   "Trabalho de Conclusão de Curso I",
+   7
+  ],
+  [
+   "Biotecnologia da Reprodução Animal",
+   8
+  ],
+  [
+   "Clínica Cirúrgica de Grandes Animais",
+   8
+  ],
+  [
+   "Clínica Médica de Equinos",
+   8
+  ],
+  [
+   "Extensão Rural",
+   8
+  ],
+  [
+   "Inspeção e Tecnologia de Produtos de Origem Animal II",
+   8
+  ],
+  [
+   "Medicina e Criação de Equinos",
+   8
+  ],
+  [
+   "Obstetrícia Veterinária",
+   8
+  ],
+  [
+   "Práticas Veterinárias: Clínica Médica e Produção",
+   8
+  ],
+  [
+   "Relações Humano/Animal/Ambiente",
+   8
+  ],
+  [
+   "Saúde de Animais de Produção",
+   8
+  ],
+  [
+   "Estágio Curricular Obrigatório I",
+   9
+  ],
+  [
+   "Estágio Curricular Obrigatório II",
+   10
+  ],
+  [
+   "Trabalho de Conclusão de Curso II",
+   10
+  ]
+ ],
+ "notas": "Bacharelado presencial em todas as fontes; duração 10 semestres com estágios no 9º e 10º. Unisul: usado o PPC de Tubarão (também há PPCs de Florianópolis, Itajaí e Criciúma); currículo por competências, semestres inferidos da ordem dos blocos. Equivalências principais: Anatomia Animal I/II = Anatomia I/II = Anatomia Veterinária I/II; Anatomia Animal Aplicada = Anatomia Veterinária III; Bioquímica de Biomoléculas = Bioquímica; Histologia Veterinária I = Histologia Geral = Histologia e Embriologia Geral; Histologia Veterinária II = Histologia e Embriologia = Histologia e Embriologia Veterinária; Comportamento e Bem-Estar Animal = Etologia e Bem-estar Animal; Genética = Genética na Saúde = Genética Veterinária; Ciência, Ética e Metodologia da Pesquisa = Epistemologia e Metodologia Científica = Universidade, Ciência e Pesquisa -> Metodologia Científica; Ecologia e Desenvolvimento Sustentável = Ecologia Geral; Sociologia Rural e Ambiental = Sociologia Aplicada; Estatística Básica = Estatística e Experimentação Animal = Estatística -> Bioestatística; Farmacologia Geral = Farmacologia Veterinária I; Farmacodinâmica = Farmacologia Veterinária II; Microbiologia Geral/Básica = Microbiologia Veterinária I; Microbiologia Clínica = Microbiologia Veterinária II; Fundamentos do Melhoramento Animal = Melhoramento Animal; Saúde Pública (UFSC) = Saúde Pública em MV I; Saúde Pública Veterinária (UDESC) = Saúde Pública em MV II; Laboratório Clínico Veterinário = Patologia Clínica Veterinária; Patologia Veterinária (UDESC) = Patologia Especial Veterinária; Fundamentos da Economia = Economia e Administração; Agrostologia e Forragicultura = Forragicultura; Bovinocultura (FURB) contada em Corte e Leite; Suinocultura e Avicultura (FURB) contada em Suinocultura e Avicultura; Patologia Aviária e Suína contada em Doenças das Aves e Sanidade Suína; Doenças Infectocontagiosas = Doenças Infecciosas de Animais Domésticos; Medicina de ruminantes (Unisul) = Clínica Médica de Ruminantes; Clínica médica de cães e gatos (Unisul) = Clínica Médica de Cães e Gatos I; Clínica Médica de Cães e Gatos (FURB) = II; Clínica Cirúrgica de Pequenos Animais = Clínica Cirúrgica de Cães e Gatos; Fisiopatologia da Reprodução Animal = Reprodução Animal I; Medicina e criação de equídeos (Unisul) = Medicina e Criação de Equinos (módulo UFSC); módulo UFSC de Animais Selvagens = Clínica de Animais Silvestres e Exóticos = Meio ambiente e medicina de animais silvestres (Unisul); Inspeção (módulo UFSC e UC Unisul) = Inspeção e Tecnologia de POA I; Projeto de TCC = Trabalho de Conclusão I; TCC (UFSC/UDESC/Unisul) = TCC II (FURB); estágios I-VII por área da FURB e estágios 'na IES'/'práticas profissionais' -> Estágio Curricular Obrigatório I; Estágio Final/'fora da IES'/'vivência profissional' -> Estágio Curricular Obrigatório II. Módulos integrados da UFSC e UCs da Unisul mantidos com o nome do módulo quando sem equivalente. Excluídos: 'Conceitos' (UFSC, nome incompleto na fonte), 'Ações de Extensão' (extensão genérica), 'Core curriculum' (Unisul, vaga genérica)."
+}

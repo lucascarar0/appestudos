@@ -1,0 +1,43 @@
+{
+ "id": "jor", "curso": "Jornalismo",
+ "fontes": [
+   {"uni": "UFSC", "url": "https://jornalismo.ufsc.br/programas-das-disciplinas/curriculo-2020-1/", "matriz": "Currículo 2020.1 (bacharelado, presencial)", "semestres": 8,
+    "disciplinas": [
+     ["Áudio e Radiojornalismo", 1], ["Fotografia e Fotojornalismo", 1], ["Linguagem e Texto Jornalístico I", 1], ["Iniciação ao Trabalho Acadêmico", 1], ["Fundamentos e História do Jornalismo", 1], ["Jornalismo, Identidade, Diversidade e Gênero", 1],
+     ["Vídeo e Telejornalismo", 2], ["Laboratório de Fotojornalismo", 2], ["Laboratório de Áudio e Jornalismo", 2], ["Linguagem e Texto Jornalístico II", 2], ["Produção Gráfica em Jornalismo", 2], ["Teoria da Comunicação", 2],
+     ["Laboratório de Vídeo e Telejornalismo", 3], ["Ética e Deontologia", 3], ["Linguagem e Texto Jornalístico III", 3], ["Laboratório de Produção Gráfica", 3], ["Jornalismo e Cultura Brasileira", 3], ["Jornalismo e Cibercultura", 3],
+     ["Linguagem e Texto Jornalístico IV", 4], ["Teoria do Jornalismo", 4], ["Estética e Cultura da Mídia", 4], ["Jornalismo e Comunicação Organizacional", 4], ["WebDesign em Jornalismo", 4], ["Estado, Políticas Públicas e de Comunicação", 4],
+     ["Linguagem e Texto Jornalístico V", 5], ["Metodologia e Técnicas de Pesquisa em Jornalismo", 5], ["Edição", 5], ["Problemas Sociais Brasileiros", 5], ["Jornalismo Online e Narrativas Digitais", 5],
+     ["Jornal Laboratório", 6], ["Formação Histórica da Atualidade", 6], ["Jornalismo Comunitário", 6], ["Planejamento de Estágio Curricular Obrigatório", 6], ["Inovação e Gestão de Projetos em Jornalismo", 6],
+     ["Planejamento de TCC", 7], ["Estágio Curricular", 7],
+     ["Trabalho de Conclusão de Curso", 8]
+    ]},
+   {"uni": "UDESC", "nao_encontrada": "UDESC não oferece Jornalismo"},
+   {"uni": "UFFS", "nao_encontrada": "UFFS Chapecó não oferece Jornalismo"},
+   {"uni": "Unochapecó", "nao_encontrada": "site do curso (unochapeco.edu.br/uno.edu.br) bloqueado/renderizado em JS; matriz não acessível"},
+   {"uni": "FURB", "nao_encontrada": "FURB não oferece Jornalismo"},
+   {"uni": "Univali", "nao_encontrada": "Síntese do PPC (Itajaí) localizada, mas o site bloqueia o acesso (robots/erro de cliente)"},
+   {"uni": "Unisul", "url": "https://estaticos.animaeducacao.com.br/medias/20250709143513/unisul-doc-institucional-ppc_bachjornalismo_unisul_universidade-1.pdf", "matriz": "PPC 2022, Tubarão, presencial (semestres inferidos pela ordem dos blocos da matriz)", "semestres": 8,
+    "disciplinas": [
+     ["Linguagens e relações estéticas", 1], ["Narrativas e produção transmídia", 1], ["Vida & Carreira", 1],
+     ["Informação jornalística", 2], ["Produção de conteúdo em multiplataformas", 2],
+     ["Informação e projeto gráfico", 3], ["Laboratório de projetos editoriais", 3],
+     ["Comunicação integrada", 4],
+     ["Comunicação audiovisual", 5], ["Análise de dados e big data", 5],
+     ["Narrativas documentais", 6],
+     ["Comunicação pública", 7], ["Negócios da comunicação", 7], ["Estágio curricular supervisionado", 7],
+     ["Laboratório de produtos jornalísticos", 8], ["Trabalho de conclusão de curso", 8]
+    ]}
+ ],
+ "uniao": [
+  ["Áudio e Radiojornalismo", 1], ["Fotografia e Fotojornalismo", 1], ["Fundamentos e História do Jornalismo", 1], ["Iniciação ao Trabalho Acadêmico", 1], ["Jornalismo, Identidade, Diversidade e Gênero", 1], ["Linguagem e Texto Jornalístico I", 1], ["Linguagens e Relações Estéticas", 1], ["Narrativas e Produção Transmídia", 1], ["Vida & Carreira", 1],
+  ["Informação Jornalística", 2], ["Laboratório de Áudio e Jornalismo", 2], ["Laboratório de Fotojornalismo", 2], ["Linguagem e Texto Jornalístico II", 2], ["Produção de Conteúdo em Multiplataformas", 2], ["Produção Gráfica em Jornalismo", 2], ["Teoria da Comunicação", 2], ["Vídeo e Telejornalismo", 2],
+  ["Ética e Deontologia", 3], ["Informação e Projeto Gráfico", 3], ["Jornalismo e Cibercultura", 3], ["Jornalismo e Cultura Brasileira", 3], ["Laboratório de Produção Gráfica", 3], ["Laboratório de Projetos Editoriais", 3], ["Laboratório de Vídeo e Telejornalismo", 3], ["Linguagem e Texto Jornalístico III", 3],
+  ["Comunicação Integrada", 4], ["Estado, Políticas Públicas e de Comunicação", 4], ["Estética e Cultura da Mídia", 4], ["Jornalismo e Comunicação Organizacional", 4], ["Linguagem e Texto Jornalístico IV", 4], ["Teoria do Jornalismo", 4], ["WebDesign em Jornalismo", 4],
+  ["Análise de Dados e Big Data", 5], ["Comunicação Audiovisual", 5], ["Edição", 5], ["Jornalismo Online e Narrativas Digitais", 5], ["Linguagem e Texto Jornalístico V", 5], ["Metodologia e Técnicas de Pesquisa em Jornalismo", 5], ["Problemas Sociais Brasileiros", 5],
+  ["Formação Histórica da Atualidade", 6], ["Inovação e Gestão de Projetos em Jornalismo", 6], ["Jornal Laboratório", 6], ["Jornalismo Comunitário", 6], ["Narrativas Documentais", 6], ["Planejamento de Estágio Curricular Obrigatório", 6],
+  ["Comunicação Pública", 7], ["Estágio Curricular Supervisionado", 7], ["Negócios da Comunicação", 7], ["Planejamento de TCC", 7],
+  ["Laboratório de Produtos Jornalísticos", 8], ["Trabalho de Conclusão de Curso", 8]
+ ],
+ "notas": "Bacharelado presencial, 8 semestres. Equivalências: 'Estágio Curricular' (UFSC) = 'Estágio curricular supervisionado' (Unisul); TCC unificado. Unisul: PPC 2022 de Tubarão não rotula semestres; foram inferidos pela ordem dos blocos; 'Core curriculum' (eixo genérico) excluído. O PPC mais recente de Florianópolis (2026) não traz a tabela da matriz em texto. Unochapecó e Univali oferecem o curso, mas as matrizes não puderam ser lidas (sites bloqueados). UFSC: currículo 2020.1 em implantação progressiva."
+}

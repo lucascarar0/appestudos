@@ -1,0 +1,861 @@
+{
+ "id": "qui",
+ "curso": "Química",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://quimica.paginas.ufsc.br/files/2014/03/PPC_QMC_Bacharelado_2021.1.pdf",
+   "matriz": "PPC Bacharelado 2021.1 (substitui o currículo 2009.1; cagr curso 3 ainda exibe 20091)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Química Geral I",
+     1
+    ],
+    [
+     "Química Geral Experimental I",
+     1
+    ],
+    [
+     "Pré-Cálculo",
+     1
+    ],
+    [
+     "Tópicos Especiais",
+     1
+    ],
+    [
+     "Desenho Técnico Aplicado à Química",
+     1
+    ],
+    [
+     "Segurança no Laboratório e Tratamento de Resíduos",
+     1
+    ],
+    [
+     "Química Geral II",
+     2
+    ],
+    [
+     "Química Geral Experimental II",
+     2
+    ],
+    [
+     "Cálculo I",
+     2
+    ],
+    [
+     "Geometria Analítica",
+     2
+    ],
+    [
+     "Física I",
+     2
+    ],
+    [
+     "Estatística Aplicada à Química",
+     2
+    ],
+    [
+     "Química e Sustentabilidade",
+     2
+    ],
+    [
+     "Cálculo II",
+     3
+    ],
+    [
+     "Física IV-B",
+     3
+    ],
+    [
+     "Química Analítica Qualitativa",
+     3
+    ],
+    [
+     "Princípios de Termodinâmica",
+     3
+    ],
+    [
+     "Química Orgânica Teórica A",
+     3
+    ],
+    [
+     "Fundamentos de Química Inorgânica",
+     3
+    ],
+    [
+     "Química Analítica Quantitativa",
+     4
+    ],
+    [
+     "Equilíbrio de Fases e Soluções",
+     4
+    ],
+    [
+     "Fundamentos de Química Quântica",
+     4
+    ],
+    [
+     "Química Orgânica Teórica B",
+     4
+    ],
+    [
+     "Química Inorgânica Experimental I",
+     4
+    ],
+    [
+     "Química Analítica Experimental",
+     5
+    ],
+    [
+     "Química Orgânica Teórica C",
+     5
+    ],
+    [
+     "Análise Orgânica",
+     5
+    ],
+    [
+     "Química de Compostos de Coordenação",
+     5
+    ],
+    [
+     "Cinética Química e Catálise",
+     5
+    ],
+    [
+     "Introdução a Ciência dos Polímeros",
+     5
+    ],
+    [
+     "Física Experimental II",
+     5
+    ],
+    [
+     "Técnicas Espectrométricas de Análise",
+     6
+    ],
+    [
+     "Técnicas Cromatográficas e Eletroforéticas de Análise",
+     6
+    ],
+    [
+     "Físico-Química Experimental 1",
+     6
+    ],
+    [
+     "Física dos Processos Eletroquímicos e Corrosão",
+     6
+    ],
+    [
+     "Química Orgânica Biológica",
+     6
+    ],
+    [
+     "Química Orgânica Experimental I",
+     6
+    ],
+    [
+     "Mecanismos de Reações Inorgânicas e Compostos Organometálicos",
+     6
+    ],
+    [
+     "Química Bioinorgânica",
+     6
+    ],
+    [
+     "Métodos Eletroanalíticos",
+     7
+    ],
+    [
+     "Laboratório de Análises Espectrométricas e de Separações",
+     7
+    ],
+    [
+     "Métodos Sintéticos em Química Orgânica",
+     7
+    ],
+    [
+     "Química do Estado Sólido e Mineralogia",
+     7
+    ],
+    [
+     "Química de Superfícies e Colóides",
+     7
+    ],
+    [
+     "Físico-Química Experimental 2",
+     7
+    ],
+    [
+     "Química Inorgânica Experimental II",
+     7
+    ],
+    [
+     "Estágio I",
+     7
+    ],
+    [
+     "Química Orgânica Biológica Experimental I",
+     8
+    ],
+    [
+     "Laboratório de Métodos Eletroanalíticos",
+     8
+    ],
+    [
+     "Química Ambiental",
+     8
+    ],
+    [
+     "Estágio II",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "nao_encontrada": "Só oferece Licenciatura em Química (CCT/Joinville); matriz curricular não localizada (página do curso deu erro)"
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "Campus Chapecó não oferece Química"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "Não oferece Química (só Engenharia Química)"
+  },
+  {
+   "uni": "FURB",
+   "url": "https://www.furb.br/web/upl/graduacao/matriz/201810181046200.Quimica Bacharelado Not 2019.pdf",
+   "matriz": "Bacharelado noturno 2019",
+   "semestres": 9,
+   "disciplinas": [
+    [
+     "Alteridade e Direitos Humanos",
+     1
+    ],
+    [
+     "Física Teórica I",
+     1
+    ],
+    [
+     "Inglês Instrumental",
+     1
+    ],
+    [
+     "Módulos de Matemática Básica",
+     1
+    ],
+    [
+     "Produção Textual Acadêmica",
+     1
+    ],
+    [
+     "Química Geral Experimental",
+     1
+    ],
+    [
+     "Química Geral I",
+     1
+    ],
+    [
+     "Prática Desportiva",
+     1
+    ],
+    [
+     "Cálculo Diferencial e Integral I",
+     2
+    ],
+    [
+     "Diversidade e Sociedade",
+     2
+    ],
+    [
+     "Física Teórica II",
+     2
+    ],
+    [
+     "Física Experimental",
+     2
+    ],
+    [
+     "Química Geral II",
+     2
+    ],
+    [
+     "Química Inorgânica I",
+     2
+    ],
+    [
+     "Universidade Ciência e Pesquisa",
+     2
+    ],
+    [
+     "Prática Desportiva",
+     2
+    ],
+    [
+     "Cálculo Diferencial e Integral II",
+     3
+    ],
+    [
+     "Culturas Afro-brasileiras e Indígenas",
+     3
+    ],
+    [
+     "Estatística",
+     3
+    ],
+    [
+     "Qualidade Industrial",
+     3
+    ],
+    [
+     "Química Analítica Qualitativa",
+     3
+    ],
+    [
+     "Química Inorgânica II",
+     3
+    ],
+    [
+     "Álgebra Linear",
+     4
+    ],
+    [
+     "Físico-Química I",
+     4
+    ],
+    [
+     "Química Analítica Quantitativa",
+     4
+    ],
+    [
+     "Química Orgânica I",
+     4
+    ],
+    [
+     "Cinética e Catálise",
+     5
+    ],
+    [
+     "Físico-Química II",
+     5
+    ],
+    [
+     "Mineralogia",
+     5
+    ],
+    [
+     "Química do Estado Sólido",
+     5
+    ],
+    [
+     "Química Orgânica II",
+     5
+    ],
+    [
+     "Análise Instrumental I",
+     6
+    ],
+    [
+     "Biologia Geral",
+     6
+    ],
+    [
+     "Físico-Química III",
+     6
+    ],
+    [
+     "Síntese Orgânica",
+     6
+    ],
+    [
+     "Trabalho de Conclusão de Curso I",
+     6
+    ],
+    [
+     "Análise Instrumental II",
+     7
+    ],
+    [
+     "Análise Orgânica",
+     7
+    ],
+    [
+     "Bioquímica",
+     7
+    ],
+    [
+     "Química da Atualidade I",
+     7
+    ],
+    [
+     "Preparo de Amostras para Análise Instrumental",
+     7
+    ],
+    [
+     "Química Cosmética",
+     7
+    ],
+    [
+     "Química de Polímeros",
+     7
+    ],
+    [
+     "Empreendedorismo e Inovação",
+     8
+    ],
+    [
+     "Química Ambiental",
+     8
+    ],
+    [
+     "Química da Atualidade II",
+     8
+    ],
+    [
+     "Química de Alimentos",
+     8
+    ],
+    [
+     "Química Orgânica Biológica",
+     8
+    ],
+    [
+     "Química Têxtil",
+     8
+    ],
+    [
+     "Estágio",
+     9
+    ],
+    [
+     "Trabalho de Conclusão de Curso II",
+     9
+    ]
+   ]
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "Não oferece Química (só Engenharia Química)"
+  },
+  {
+   "uni": "Unisul",
+   "url": "https://estaticos.animaeducacao.com.br/medias/20250709143518/unisul-doc-institucional-ppc_bachquimica_unisul_universidade-1.pdf",
+   "matriz": "PPC Bacharelado presencial Tubarão (2022; Portaria 948/2021) - currículo por competências (UCs integradas)",
+   "semestres": 7,
+   "disciplinas": [
+    [
+     "Fenômenos elétricos, magnéticos e oscilatórios",
+     1
+    ],
+    [
+     "Modelagem e simulação de sistemas elétricos e magnéticos",
+     1
+    ],
+    [
+     "Vida & Carreira",
+     1
+    ],
+    [
+     "Modelagem e simulação do mundo físico-químico",
+     2
+    ],
+    [
+     "Medição em ciências e representação gráfica",
+     2
+    ],
+    [
+     "Comportamento químico e mecânico dos materiais",
+     3
+    ],
+    [
+     "Análise de fenômenos físicos da natureza",
+     3
+    ],
+    [
+     "Core curriculum",
+     4
+    ],
+    [
+     "Química dos processos industriais",
+     4
+    ],
+    [
+     "Leis termodinâmicas e suas aplicações",
+     5
+    ],
+    [
+     "Tecnologias de processos químicos",
+     5
+    ],
+    [
+     "Administração e integração de operações e qualidade",
+     6
+    ],
+    [
+     "Fenômenos bioquímicos e suas aplicações",
+     6
+    ],
+    [
+     "Métodos instrumentais para análises químicas",
+     7
+    ],
+    [
+     "Análises químicas quantitativas e qualitativas",
+     7
+    ]
+   ]
+  }
+ ],
+ "uniao": [
+  [
+   "Alteridade e Direitos Humanos",
+   1
+  ],
+  [
+   "Desenho Técnico Aplicado à Química",
+   1
+  ],
+  [
+   "Fenômenos Elétricos, Magnéticos e Oscilatórios",
+   1
+  ],
+  [
+   "Física I",
+   1
+  ],
+  [
+   "Inglês Instrumental",
+   1
+  ],
+  [
+   "Modelagem e Simulação de Sistemas Elétricos e Magnéticos",
+   1
+  ],
+  [
+   "Prática Desportiva I",
+   1
+  ],
+  [
+   "Pré-Cálculo",
+   1
+  ],
+  [
+   "Produção Textual Acadêmica",
+   1
+  ],
+  [
+   "Química Geral Experimental I",
+   1
+  ],
+  [
+   "Química Geral I",
+   1
+  ],
+  [
+   "Segurança no Laboratório e Tratamento de Resíduos",
+   1
+  ],
+  [
+   "Tópicos Especiais",
+   1
+  ],
+  [
+   "Vida & Carreira",
+   1
+  ],
+  [
+   "Cálculo I",
+   2
+  ],
+  [
+   "Diversidade e Sociedade",
+   2
+  ],
+  [
+   "Estatística Aplicada à Química",
+   2
+  ],
+  [
+   "Física Experimental",
+   2
+  ],
+  [
+   "Física II",
+   2
+  ],
+  [
+   "Geometria Analítica",
+   2
+  ],
+  [
+   "Medição em Ciências e Representação Gráfica",
+   2
+  ],
+  [
+   "Modelagem e Simulação do Mundo Físico-Químico",
+   2
+  ],
+  [
+   "Prática Desportiva II",
+   2
+  ],
+  [
+   "Química e Sustentabilidade",
+   2
+  ],
+  [
+   "Química Geral Experimental II",
+   2
+  ],
+  [
+   "Química Geral II",
+   2
+  ],
+  [
+   "Química Inorgânica I",
+   2
+  ],
+  [
+   "Universidade, Ciência e Pesquisa",
+   2
+  ],
+  [
+   "Análise de Fenômenos Físicos da Natureza",
+   3
+  ],
+  [
+   "Cálculo II",
+   3
+  ],
+  [
+   "Comportamento Químico e Mecânico dos Materiais",
+   3
+  ],
+  [
+   "Culturas Afro-brasileiras e Indígenas",
+   3
+  ],
+  [
+   "Física IV",
+   3
+  ],
+  [
+   "Físico-Química I",
+   3
+  ],
+  [
+   "Qualidade Industrial",
+   3
+  ],
+  [
+   "Química Analítica Qualitativa",
+   3
+  ],
+  [
+   "Química Inorgânica II",
+   3
+  ],
+  [
+   "Química Orgânica I",
+   3
+  ],
+  [
+   "Álgebra Linear",
+   4
+  ],
+  [
+   "Físico-Química II",
+   4
+  ],
+  [
+   "Fundamentos de Química Quântica",
+   4
+  ],
+  [
+   "Química Analítica Quantitativa",
+   4
+  ],
+  [
+   "Química dos Processos Industriais",
+   4
+  ],
+  [
+   "Química Inorgânica Experimental I",
+   4
+  ],
+  [
+   "Química Orgânica II",
+   4
+  ],
+  [
+   "Análise Orgânica",
+   5
+  ],
+  [
+   "Cinética Química e Catálise",
+   5
+  ],
+  [
+   "Mineralogia",
+   5
+  ],
+  [
+   "Química Analítica Experimental",
+   5
+  ],
+  [
+   "Química de Coordenação",
+   5
+  ],
+  [
+   "Química de Polímeros",
+   5
+  ],
+  [
+   "Química do Estado Sólido",
+   5
+  ],
+  [
+   "Química Orgânica III",
+   5
+  ],
+  [
+   "Tecnologias de Processos Químicos",
+   5
+  ],
+  [
+   "Administração e Integração de Operações e Qualidade",
+   6
+  ],
+  [
+   "Análise Instrumental I",
+   6
+  ],
+  [
+   "Análise Instrumental II",
+   6
+  ],
+  [
+   "Biologia Geral",
+   6
+  ],
+  [
+   "Bioquímica",
+   6
+  ],
+  [
+   "Física dos Processos Eletroquímicos e Corrosão",
+   6
+  ],
+  [
+   "Físico-Química Experimental I",
+   6
+  ],
+  [
+   "Físico-Química III",
+   6
+  ],
+  [
+   "Mecanismos de Reações Inorgânicas e Compostos Organometálicos",
+   6
+  ],
+  [
+   "Química Bioinorgânica",
+   6
+  ],
+  [
+   "Química Orgânica Biológica",
+   6
+  ],
+  [
+   "Química Orgânica Experimental I",
+   6
+  ],
+  [
+   "Síntese Orgânica",
+   6
+  ],
+  [
+   "Trabalho de Conclusão de Curso I",
+   6
+  ],
+  [
+   "Estágio I",
+   7
+  ],
+  [
+   "Físico-Química Experimental II",
+   7
+  ],
+  [
+   "Laboratório de Análises Espectrométricas e de Separações",
+   7
+  ],
+  [
+   "Métodos Eletroanalíticos",
+   7
+  ],
+  [
+   "Preparo de Amostras para Análise Instrumental",
+   7
+  ],
+  [
+   "Química Cosmética",
+   7
+  ],
+  [
+   "Química da Atualidade I",
+   7
+  ],
+  [
+   "Química de Superfícies e Coloides",
+   7
+  ],
+  [
+   "Química Inorgânica Experimental II",
+   7
+  ],
+  [
+   "Empreendedorismo e Inovação",
+   8
+  ],
+  [
+   "Estágio II",
+   8
+  ],
+  [
+   "Laboratório de Métodos Eletroanalíticos",
+   8
+  ],
+  [
+   "Química Ambiental",
+   8
+  ],
+  [
+   "Química da Atualidade II",
+   8
+  ],
+  [
+   "Química de Alimentos",
+   8
+  ],
+  [
+   "Química Orgânica Biológica Experimental",
+   8
+  ],
+  [
+   "Química Têxtil",
+   8
+  ],
+  [
+   "Trabalho de Conclusão de Curso II",
+   8
+  ]
+ ],
+ "notas": "Bacharelado presencial nas três fontes. Duração típica adotada: 8 semestres (UFSC 8, FURB 9, Unisul 7); disciplinas do 9º semestre da FURB (Estágio, TCC II) foram colocadas no 8º. Equivalências: Módulos de Matemática Básica = Pré-Cálculo; Cálculo Diferencial e Integral I/II = Cálculo I/II; Física Teórica I/II = Física I/II; Física IV-B -> Física IV; Física Experimental II (UFSC) = Física Experimental (FURB); Estatística = Estatística Aplicada à Química; Princípios de Termodinâmica = Físico-Química I = Leis termodinâmicas e suas aplicações (Unisul); Equilíbrio de Fases e Soluções = Físico-Química II; Cinética e Catálise = Cinética Química e Catálise; Química Orgânica Teórica A/B/C = Química Orgânica I/II/III (FURB I e II mapeadas para I e II); Fundamentos de Química Inorgânica = Química Inorgânica I; Química de Compostos de Coordenação -> Química de Coordenação; Introdução à Ciência dos Polímeros = Química de Polímeros; Técnicas Espectrométricas de Análise = Análise Instrumental I = Métodos instrumentais para análises químicas (Unisul); Técnicas Cromatográficas e Eletroforéticas = Análise Instrumental II; Análises químicas quantitativas e qualitativas (Unisul) -> Química Analítica Quantitativa; Fenômenos bioquímicos e suas aplicações (Unisul) -> Bioquímica; Métodos Sintéticos em Química Orgânica = Síntese Orgânica; Química do Estado Sólido e Mineralogia (UFSC) dividida em Mineralogia e Química do Estado Sólido (como na FURB); Estágio (FURB) -> Estágio II. Prática Desportiva aparece duas vezes na FURB (1º e 2º semestres) -> I e II. Excluídos: Disciplina Eletiva e optativas da FURB; 'Core curriculum' da Unisul (vaga genérica de UC compartilhada). Unisul: currículo por competências com UCs amplas; a atribuição de semestre veio da leitura do layout da tabela (incerta). UDESC só tem licenciatura e a matriz não foi encontrada."
+}

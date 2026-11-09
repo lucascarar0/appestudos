@@ -11,6 +11,7 @@ App de estudos de graduação. Arquivo único `index.html`, sem build, sem backe
 
 ## Onde fica cada coisa em `index.html`
 - `COURSES`: cursos (`id`, `n` nome, `i` emoji, `c` cor, `s` lista de `"Disciplina|semestre"`). As grades são ajustadas pelos blocos `L` e `L2` e pela lista de cursos novos, mais abaixo no script. Ciência da Computação, Odontologia e Arquitetura vêm do currículo oficial da UFSC (marcados em `VER`).
+- `G` e `SRC` (logo antes de `D["Cálculo 1"]=...`): grade final de cada curso e universidades usadas. Ela substitui `L`/`L2` e é a união das disciplinas obrigatórias das matrizes oficiais de UFSC, UDESC, UFFS, Unochapecó, FURB, Univali e Unisul. Os dados brutos, com links das fontes, ficam em `dados/grades/<id>.json`. Unochapecó e Univali bloquearam a leitura automática e ainda faltam.
 - `D`: conteúdo de cada disciplina. A **chave deve ser idêntica ao nome da disciplina** na grade (ex.: `"Cálculo 1"`).
 - `X`: mapas mentais extras por disciplina (opcional).
 - `LB`: biblioteca por disciplina (vídeos por assunto, livros, artigos).

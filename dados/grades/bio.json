@@ -1,0 +1,35 @@
+{
+ "id": "bio", "curso": "Biomedicina",
+ "fontes": [
+  {"uni": "UFSC", "nao_encontrada": "UFSC não oferece o curso de Biomedicina"},
+  {"uni": "UDESC", "nao_encontrada": "UDESC não oferece o curso de Biomedicina"},
+  {"uni": "UFFS", "nao_encontrada": "UFFS não oferece Biomedicina no campus Chapecó"},
+  {"uni": "Unochapecó", "nao_encontrada": "site unochapeco.edu.br bloqueado para leitura (redireciona); matriz não localizada em outra fonte"},
+  {"uni": "FURB", "url": "https://www.furb.br/web/upl/graduacao/projeto_pedagogico/202504221325370.4.PPC Biomedicinaa 2023.1.pdf", "matriz": "Currículo 2023.1.1701-0, versão 1 (Parecer CEPE 43/2022), noturno", "semestres": 9,
+   "disciplinas": [
+    ["Anatomia Humana Geral", 1], ["Biologia Celular", 1], ["Biofísica", 1], ["Introdução à Biomedicina", 1], ["Genética Mendeliana", 1], ["Química Geral", 1], ["Saúde Comunitária", 1], ["Educação Física - Prática Desportiva I", 1],
+    ["Bioquímica", 2], ["Fisiologia Geral", 2], ["Histologia e Embriologia Geral", 2], ["Química Orgânica", 2], ["Genética Humana", 2], ["Biossegurança", 2], ["Universidade Ciência e Pesquisa", 2], ["Educação Física - Prática Desportiva II", 2],
+    ["Patologia", 3], ["Imaginologia", 3], ["Técnicas Analíticas", 3], ["Bioquímica Clínica", 3], ["Coleta e Controle de Qualidade", 3], ["Relações Interpessoais na Saúde", 3],
+    ["Diversidade e Sociedade", 4], ["Biologia Molecular", 4], ["Citogenética", 4], ["Farmacologia", 4], ["Líquidos Corporais", 4], ["Acupuntura", 4], ["Patologia dos Sistemas", 4], ["Estágio em Biomedicina I", 4],
+    ["Citopatologia", 5], ["Parasitologia Clínica I", 5], ["Imunologia Clínica I", 5], ["Estética", 5], ["História das Culturas Afro-Brasileira e Indígena", 5], ["Práticas Laboratoriais em Estética", 5],
+    ["Epidemiologia e Bioestatística aplicada à Saúde", 6], ["Bioética", 6], ["Trabalho de Conclusão de Curso I", 6], ["Imunologia Clínica II", 6], ["Parasitologia Clínica II", 6], ["Alteridade e Direitos Humanos", 6], ["Práticas Laboratoriais em Citopatologia", 6],
+    ["Hemoterapia e Banco de Sangue", 7], ["Microbiologia Clínica I", 7], ["Hematologia Clínica I", 7], ["Micologia Clínica", 7], ["Práticas Laboratoriais em Análises Clínicas I", 7],
+    ["Práticas Laboratoriais em Análises Clínicas II", 8], ["Toxicologia Clínica", 8], ["Microbiologia Clínica II", 8], ["Hematologia Clínica II", 8], ["Trabalho de Conclusão de Curso II", 8], ["Teoria Social e Realidade Brasileira", 8],
+    ["Estágio em Biomedicina II", 9]
+   ]},
+  {"uni": "Univali", "nao_encontrada": "site univali.br bloqueia leitura automatizada (robots); matriz não lida"},
+  {"uni": "Unisul", "nao_encontrada": "página do curso renderizada por JavaScript, sem matriz legível; nenhum PDF de matriz localizado"}
+ ],
+ "uniao": [
+  ["Anatomia Humana I", 1], ["Biofísica", 1], ["Biologia Celular", 1], ["Educação Física – Prática Desportiva I", 1], ["Genética Mendeliana", 1], ["Introdução à Biomedicina", 1], ["Química Geral", 1], ["Saúde Comunitária", 1],
+  ["Bioquímica", 2], ["Biossegurança", 2], ["Educação Física – Prática Desportiva II", 2], ["Fisiologia Geral", 2], ["Genética Humana", 2], ["Histologia e Embriologia", 2], ["Química Orgânica", 2], ["Universidade, Ciência e Pesquisa", 2],
+  ["Bioquímica Clínica", 3], ["Coleta e Controle de Qualidade", 3], ["Imaginologia", 3], ["Patologia", 3], ["Relações Interpessoais na Saúde", 3], ["Técnicas Analíticas", 3],
+  ["Acupuntura", 4], ["Biologia Molecular", 4], ["Citogenética", 4], ["Diversidade e Sociedade", 4], ["Estágio em Biomedicina I", 4], ["Farmacologia", 4], ["Líquidos Corporais", 4], ["Patologia dos Sistemas", 4],
+  ["Citopatologia", 5], ["Estética", 5], ["História da Cultura Afro-brasileira e Indígena", 5], ["Imunologia Clínica I", 5], ["Parasitologia Clínica I", 5], ["Práticas Laboratoriais em Estética", 5],
+  ["Alteridade e Direitos Humanos", 6], ["Bioética", 6], ["Epidemiologia e Bioestatística Aplicada à Saúde", 6], ["Imunologia Clínica II", 6], ["Parasitologia Clínica II", 6], ["Práticas Laboratoriais em Citopatologia", 6], ["Trabalho de Conclusão de Curso I", 6],
+  ["Hematologia Clínica I", 7], ["Hemoterapia e Banco de Sangue", 7], ["Micologia Clínica", 7], ["Microbiologia Clínica I", 7], ["Práticas Laboratoriais em Análises Clínicas I", 7],
+  ["Hematologia Clínica II", 8], ["Microbiologia Clínica II", 8], ["Práticas Laboratoriais em Análises Clínicas II", 8], ["Teoria Social e Realidade Brasileira", 8], ["Toxicologia Clínica", 8], ["Trabalho de Conclusão de Curso II", 8],
+  ["Estágio em Biomedicina II", 9]
+ ],
+ "notas": "Bacharelado presencial. Só a matriz da FURB foi lida (9 fases = 4,5 anos; a 10ª fase é um Estágio Optativo e foi excluída). Nomes normalizados: 'Anatomia Humana Geral' = 'Anatomia Humana I'; 'Histologia e Embriologia Geral' = 'Histologia e Embriologia'; 'Educação Física - Prática Desportiva' com travessão. Excluídos optativas (fases 3 e 7), Eletivas I/II, Estágio Optativo e AACC. Unochapecó, Univali e Unisul oferecem Biomedicina, mas as matrizes não puderam ser lidas (sites bloqueados ou renderizados por JavaScript)."
+}

@@ -1,0 +1,113 @@
+{
+ "id": "mid",
+ "curso": "Mídias Sociais e Digitais",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "nao_encontrada": "não oferece Mídias Sociais e Digitais nem curso equivalente (Comunicação Digital/Produção Multimídia)"
+  },
+  {
+   "uni": "UDESC",
+   "nao_encontrada": "não oferece curso equivalente"
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "UFFS Chapecó não oferece curso equivalente"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "não oferece o curso com esse nome; tem Produção Audiovisual/Publicidade, mas o site (JS) não expõe matrizes ao WebFetch"
+  },
+  {
+   "uni": "FURB",
+   "nao_encontrada": "não oferece curso equivalente (só Publicidade e Propaganda)"
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "não oferece o curso com esse nome; o mais próximo (CST Produção Audiovisual) está num site que recusa o WebFetch"
+  },
+  {
+   "uni": "Unisul",
+   "url": "https://estaticos.animaeducacao.com.br/medias/20250709143517/unisul-doc-institucional-ppc_cstproducao-multimidia_unisul_universidade-1.pdf",
+   "matriz": "PPC 2022 – CST Produção Multimídia, presencial (Tubarão)",
+   "semestres": 4,
+   "disciplinas": [
+    [
+     "Linguagens e relações estéticas",
+     1
+    ],
+    [
+     "Narrativas e produção transmídia",
+     1
+    ],
+    [
+     "Vida & Carreira",
+     1
+    ],
+    [
+     "Análise de dados e big data",
+     2
+    ],
+    [
+     "Projetos multiplataforma",
+     2
+    ],
+    [
+     "Design de interface",
+     3
+    ],
+    [
+     "Processos de produção audiovisual",
+     3
+    ],
+    [
+     "Core curriculum",
+     4
+    ],
+    [
+     "Animação",
+     4
+    ]
+   ]
+  }
+ ],
+ "uniao": [
+  [
+   "Linguagens e Relações Estéticas",
+   1
+  ],
+  [
+   "Narrativas e Produção Transmídia",
+   1
+  ],
+  [
+   "Vida & Carreira",
+   1
+  ],
+  [
+   "Análise de Dados e Big Data",
+   2
+  ],
+  [
+   "Projetos Multiplataforma",
+   2
+  ],
+  [
+   "Design de Interface",
+   3
+  ],
+  [
+   "Processos de Produção Audiovisual",
+   3
+  ],
+  [
+   "Animação",
+   4
+  ],
+  [
+   "Core Curriculum",
+   4
+  ]
+ ],
+ "notas": "Nenhuma das 7 universidades oferece um curso chamado 'Mídias Sociais e Digitais'. Usado o curso mais próximo encontrado: CST em Produção Multimídia da Unisul (tecnólogo, presencial, Tubarão, 4 semestres). Os semestres foram inferidos da ordem dos blocos da matriz (a tabela não os rotula). Excluídas atividades de extensão e a 'Unidade Curricular Digital Personalizável'. Sem TCC nem estágio obrigatório. Duração típica: 4 semestres."
+}

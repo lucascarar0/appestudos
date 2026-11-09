@@ -1,0 +1,1213 @@
+{
+ "id": "des",
+ "curso": "Design",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://design.ufsc.br/files/2025/03/PP-Design-sem-apendices.pdf",
+   "matriz": "Matriz 2022.1 (ajustes 2023/2024)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "História da Arte",
+     1
+    ],
+    [
+     "Design e Cultura",
+     1
+    ],
+    [
+     "Introdução ao Design",
+     1
+    ],
+    [
+     "Laboratório de Representação Visual",
+     1
+    ],
+    [
+     "Criatividade",
+     1
+    ],
+    [
+     "Forma",
+     1
+    ],
+    [
+     "Fundamentos da Cor",
+     1
+    ],
+    [
+     "Desenho de Observação",
+     1
+    ],
+    [
+     "Metodologia de Projeto",
+     1
+    ],
+    [
+     "Laboratório de Modelagem",
+     2
+    ],
+    [
+     "Fundamentos da Ergonomia",
+     2
+    ],
+    [
+     "História do Design",
+     2
+    ],
+    [
+     "Design e Sustentabilidade",
+     2
+    ],
+    [
+     "Computação Gráfica",
+     2
+    ],
+    [
+     "Design da Informação",
+     2
+    ],
+    [
+     "Produção Gráfica",
+     2
+    ],
+    [
+     "Desenho Técnico",
+     2
+    ],
+    [
+     "Microtipografia",
+     2
+    ],
+    [
+     "Semiótica Aplicada",
+     3
+    ],
+    [
+     "Laboratório de Introdução à Programação",
+     3
+    ],
+    [
+     "Ilustração Digital",
+     3
+    ],
+    [
+     "Design para Experiência",
+     3
+    ],
+    [
+     "Projeto Editorial Impresso",
+     3
+    ],
+    [
+     "Planejamento Gráfico Editorial",
+     3
+    ],
+    [
+     "Macrotipografia",
+     3
+    ],
+    [
+     "Laboratório Edição e Composição de Vídeo",
+     4
+    ],
+    [
+     "Inovação e Tendência",
+     4
+    ],
+    [
+     "Comunicação Integrada de Marketing",
+     4
+    ],
+    [
+     "Projeto Branding",
+     4
+    ],
+    [
+     "Pesquisa em Design",
+     5
+    ],
+    [
+     "Laboratório de Prototipagem 2D e 3D",
+     5
+    ],
+    [
+     "Comportamento na Era Digital",
+     5
+    ],
+    [
+     "Materiais",
+     5
+    ],
+    [
+     "Gestão Design nas Organizações",
+     5
+    ],
+    [
+     "Projeto Digital",
+     5
+    ],
+    [
+     "Ética Profissional e Legislação",
+     6
+    ],
+    [
+     "Empreendedorismo",
+     6
+    ],
+    [
+     "Design Emocional",
+     6
+    ],
+    [
+     "Pré-PCC",
+     7
+    ],
+    [
+     "PCC",
+     8
+    ],
+    [
+     "Estágio Obrigatório",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "url": "https://secon.udesc.br/consuni/camaras/ceg/resol/2023/029-2023-ceg.pdf",
+   "matriz": "Reforma curricular Res. 029/2023-CEG, vigente a partir de 2024/1 (CEART) – habilitação Design Gráfico",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "História da Arte e do Design I",
+     1
+    ],
+    [
+     "Fundamentos da Linguagem Visual",
+     1
+    ],
+    [
+     "Introdução ao Design Gráfico",
+     1
+    ],
+    [
+     "Princípios da Geometria Plana e Perspectiva em Design Gráfico",
+     1
+    ],
+    [
+     "Desenho Experimental",
+     1
+    ],
+    [
+     "Modelos e Protótipos em Design Gráfico",
+     1
+    ],
+    [
+     "História da Arte e do Design II",
+     2
+    ],
+    [
+     "Tipografia I",
+     2
+    ],
+    [
+     "Desenho Técnico em Design Gráfico",
+     2
+    ],
+    [
+     "Desenho no Design de Informação",
+     2
+    ],
+    [
+     "Metodologia do Design Gráfico",
+     2
+    ],
+    [
+     "Programação para o Design Gráfico",
+     2
+    ],
+    [
+     "Prática Experimental em Design Gráfico",
+     2
+    ],
+    [
+     "Diversidades Estéticas e Design Contemporâneo",
+     3
+    ],
+    [
+     "Tipografia II",
+     3
+    ],
+    [
+     "Desenho em Narrativas Visuais",
+     3
+    ],
+    [
+     "Computação em Design Gráfico I",
+     3
+    ],
+    [
+     "Processos Gráficos I",
+     3
+    ],
+    [
+     "Ergonomia Aplicada ao Design",
+     3
+    ],
+    [
+     "Prática e Educação Projetual em Design Gráfico I",
+     3
+    ],
+    [
+     "Ergonomia Aplicada ao Design Gráfico",
+     4
+    ],
+    [
+     "Fotografia I",
+     4
+    ],
+    [
+     "Computação em Design Gráfico II",
+     4
+    ],
+    [
+     "Processos Gráficos II",
+     4
+    ],
+    [
+     "Prática e Educação Projetual em Design Gráfico II",
+     4
+    ],
+    [
+     "Estágio Curricular Supervisionado",
+     5
+    ],
+    [
+     "Sociedade, Cultura e Design",
+     5
+    ],
+    [
+     "Computação em Design Gráfico III",
+     5
+    ],
+    [
+     "Fotografia II",
+     5
+    ],
+    [
+     "Gestão do Design Gráfico",
+     5
+    ],
+    [
+     "Prática e Educação Projetual em Design Gráfico III",
+     5
+    ],
+    [
+     "Tópicos Especiais I em Design Gráfico",
+     6
+    ],
+    [
+     "Imagem em Movimento",
+     6
+    ],
+    [
+     "Mercadologia e Empreendedorismo",
+     6
+    ],
+    [
+     "Retórica Visual",
+     6
+    ],
+    [
+     "Prática e Educação Projetual em Design Gráfico IV",
+     6
+    ],
+    [
+     "Tópicos Especiais II em Design Gráfico",
+     7
+    ],
+    [
+     "Metodologia Científica para o Trabalho de Conclusão de Curso",
+     7
+    ],
+    [
+     "Prática de Projeto de Graduação em Design Gráfico I",
+     7
+    ],
+    [
+     "Tópicos Especiais III em Design Gráfico",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso",
+     8
+    ],
+    [
+     "Prática de Projeto de Graduação em Design Gráfico II",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "UFFS Chapecó não oferece Design"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "site uno.edu.br (JS) não expõe matriz ao WebFetch; oferta não confirmada"
+  },
+  {
+   "uni": "FURB",
+   "url": "https://www.furb.br/sites/default/files/2024-03/PPC_Design_2024.pdf",
+   "matriz": "PPC Design 2024 (bacharelado)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Desenho Aplicado ao Design I",
+     1
+    ],
+    [
+     "Representação Projetual do Design I",
+     1
+    ],
+    [
+     "Introdução ao Design",
+     1
+    ],
+    [
+     "Forma, Função e Composição",
+     1
+    ],
+    [
+     "Ateliê de Design I",
+     1
+    ],
+    [
+     "Educação Física - Prática Desportiva I",
+     1
+    ],
+    [
+     "Desenho Aplicado ao Design II",
+     2
+    ],
+    [
+     "Representação Projetual do Design II",
+     2
+    ],
+    [
+     "História do Design",
+     2
+    ],
+    [
+     "Metodologia do Projeto de Design",
+     2
+    ],
+    [
+     "Ateliê de Design II",
+     2
+    ],
+    [
+     "Educação Física – Prática Desportiva II",
+     2
+    ],
+    [
+     "Computação Gráfica Aplicada ao Design I",
+     3
+    ],
+    [
+     "Sistema de Identidade Visual",
+     3
+    ],
+    [
+     "Rendering",
+     3
+    ],
+    [
+     "Computação Gráfica Aplicada ao Design II",
+     4
+    ],
+    [
+     "Design e Usabilidade",
+     4
+    ],
+    [
+     "Universidade, Ciência e Pesquisa",
+     4
+    ],
+    [
+     "História e Cultura Afro-Brasileiras",
+     4
+    ],
+    [
+     "Design e Sustentabilidade",
+     5
+    ],
+    [
+     "Fotografia Digital",
+     5
+    ],
+    [
+     "Diversidade e Sociedade",
+     5
+    ],
+    [
+     "Alteridade e Direitos Humanos",
+     5
+    ],
+    [
+     "Projeto Empreendedor de Base Tecnológica",
+     6
+    ],
+    [
+     "Design de Superfície",
+     6
+    ],
+    [
+     "Tendências Contemporâneas do Design",
+     6
+    ],
+    [
+     "Produção Textual Acadêmica",
+     6
+    ],
+    [
+     "Estágio Supervisionado em Design",
+     7
+    ],
+    [
+     "Design Thinking",
+     7
+    ],
+    [
+     "Pesquisa em Design",
+     7
+    ],
+    [
+     "Legislação, Normas e Ética Profissional",
+     8
+    ],
+    [
+     "TCC em Design",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "Univali",
+   "url": "https://www.univali.br/graduacao/design-balneario-camboriu/projeto-pedagogico/Documents/pp.pdf",
+   "matriz": "Projeto pedagógico Design – Bacharelado (Balneário Camboriú); ano da matriz não informado (projeto iniciado em 2009)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Introdução ao Design",
+     1
+    ],
+    [
+     "Representação Gráfica",
+     1
+    ],
+    [
+     "Processo Criativo",
+     1
+    ],
+    [
+     "Criatividade e Inovação",
+     1
+    ],
+    [
+     "História e Patrimônio Cultural",
+     1
+    ],
+    [
+     "Sociedade e Cultura",
+     1
+    ],
+    [
+     "Plástica e Métodos Visuais",
+     1
+    ],
+    [
+     "História e Teoria do Design",
+     2
+    ],
+    [
+     "Representação Técnica",
+     2
+    ],
+    [
+     "Processo de Design",
+     2
+    ],
+    [
+     "Desenho Técnico de Produto",
+     2
+    ],
+    [
+     "Sketching e Rendering",
+     2
+    ],
+    [
+     "Comunicação e Comportamento",
+     2
+    ],
+    [
+     "Projeto de Produto",
+     3
+    ],
+    [
+     "Laboratório de Modelagem",
+     3
+    ],
+    [
+     "Modelagem Digital",
+     3
+    ],
+    [
+     "Ergonomia",
+     3
+    ],
+    [
+     "Ergonomia Cognitiva",
+     3
+    ],
+    [
+     "Semiótica",
+     3
+    ],
+    [
+     "Ilustração",
+     3
+    ],
+    [
+     "Computação Gráfica",
+     4
+    ],
+    [
+     "Multimídia",
+     4
+    ],
+    [
+     "Materiais e Processos Gráficos",
+     4
+    ],
+    [
+     "Teoria da informação",
+     4
+    ],
+    [
+     "Design e Interatividade",
+     4
+    ],
+    [
+     "Projeto de Produto",
+     5
+    ],
+    [
+     "Laboratório de Modelagem",
+     5
+    ],
+    [
+     "Modelagem Digital Avançada",
+     5
+    ],
+    [
+     "Processo de Fabricação",
+     5
+    ],
+    [
+     "Física e Modelos Estruturais",
+     5
+    ],
+    [
+     "Metodologia de Pesquisa",
+     5
+    ],
+    [
+     "Materiais Industriais",
+     5
+    ],
+    [
+     "Gestão do Design",
+     6
+    ],
+    [
+     "Gestão Financeira de Projetos",
+     6
+    ],
+    [
+     "Ética e Legislação",
+     6
+    ],
+    [
+     "Branding",
+     6
+    ],
+    [
+     "Pesquisa em Design",
+     6
+    ],
+    [
+     "Projeto Experimental",
+     7
+    ],
+    [
+     "Laboratório de Expressão da Forma",
+     7
+    ],
+    [
+     "Design e Meio Ambiente",
+     7
+    ],
+    [
+     "Gestão da Produção",
+     7
+    ],
+    [
+     "Marketing",
+     7
+    ],
+    [
+     "Laboratório de Artes Gráficas Avançadas",
+     7
+    ],
+    [
+     "Portfólio em Design",
+     7
+    ],
+    [
+     "Projeto Interdisciplinar Comunitário",
+     7
+    ],
+    [
+     "Trabalho de Iniciação Científica",
+     8
+    ],
+    [
+     "Atividades Integradas ao Trabalho de Iniciação Científica",
+     8
+    ],
+    [
+     "Estudos Contemporâneos em Design",
+     8
+    ],
+    [
+     "Estágio Supervisionado",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "Unisul",
+   "url": "https://estaticos.animaeducacao.com.br/medias/20250709143500/unisul-doc-institucional-ppc_bachdesign_unisul_universidade.pdf",
+   "matriz": "PPC 2022, bacharelado presencial (Tubarão)",
+   "semestres": 6,
+   "disciplinas": [
+    [
+     "Metodologia de projeto",
+     1
+    ],
+    [
+     "Expressão visual",
+     1
+    ],
+    [
+     "Vida & Carreira",
+     1
+    ],
+    [
+     "Estudos críticos: história, arte e cultura",
+     2
+    ],
+    [
+     "Sistemas de representação e interfaces",
+     2
+    ],
+    [
+     "Imagem e identidade visual",
+     3
+    ],
+    [
+     "Informação e projeto gráfico",
+     3
+    ],
+    [
+     "Criação em audiovisual",
+     4
+    ],
+    [
+     "Design de interface",
+     4
+    ],
+    [
+     "Projeto em design de produto",
+     5
+    ],
+    [
+     "Técnicas de produção em design",
+     5
+    ],
+    [
+     "Core curriculum",
+     6
+    ],
+    [
+     "TCC: Projeto de graduação",
+     6
+    ]
+   ]
+  }
+ ],
+ "uniao": [
+  [
+   "Ateliê de Design I",
+   1
+  ],
+  [
+   "Criatividade",
+   1
+  ],
+  [
+   "Criatividade e Inovação",
+   1
+  ],
+  [
+   "Desenho Aplicado ao Design I",
+   1
+  ],
+  [
+   "Design, Cultura e Sociedade",
+   1
+  ],
+  [
+   "Educação Física – Prática Desportiva I",
+   1
+  ],
+  [
+   "Expressão Visual",
+   1
+  ],
+  [
+   "Forma, Função e Composição",
+   1
+  ],
+  [
+   "Fundamentos da Cor",
+   1
+  ],
+  [
+   "Fundamentos da Linguagem Visual",
+   1
+  ],
+  [
+   "Geometria Plana e Perspectiva",
+   1
+  ],
+  [
+   "História da Arte",
+   1
+  ],
+  [
+   "História e Patrimônio Cultural",
+   1
+  ],
+  [
+   "Introdução ao Design",
+   1
+  ],
+  [
+   "Modelos e Protótipos",
+   1
+  ],
+  [
+   "Plástica e Métodos Visuais",
+   1
+  ],
+  [
+   "Representação Projetual I",
+   1
+  ],
+  [
+   "Vida & Carreira",
+   1
+  ],
+  [
+   "Ateliê de Design II",
+   2
+  ],
+  [
+   "Comunicação e Comportamento",
+   2
+  ],
+  [
+   "Desenho Aplicado ao Design II",
+   2
+  ],
+  [
+   "Desenho no Design de Informação",
+   2
+  ],
+  [
+   "Desenho Técnico",
+   2
+  ],
+  [
+   "Design da Informação",
+   2
+  ],
+  [
+   "Design e Sustentabilidade",
+   2
+  ],
+  [
+   "Educação Física – Prática Desportiva II",
+   2
+  ],
+  [
+   "Estudos Críticos: História, Arte e Cultura",
+   2
+  ],
+  [
+   "História do Design",
+   2
+  ],
+  [
+   "Laboratório de Modelagem I",
+   2
+  ],
+  [
+   "Metodologia de Projeto",
+   2
+  ],
+  [
+   "Prática Experimental em Design",
+   2
+  ],
+  [
+   "Processos Gráficos I",
+   2
+  ],
+  [
+   "Programação para Design",
+   2
+  ],
+  [
+   "Representação Projetual II",
+   2
+  ],
+  [
+   "Sistemas de Representação e Interfaces",
+   2
+  ],
+  [
+   "Sketching e Rendering",
+   2
+  ],
+  [
+   "Tipografia I",
+   2
+  ],
+  [
+   "Computação Gráfica I",
+   3
+  ],
+  [
+   "Desenho em Narrativas Visuais",
+   3
+  ],
+  [
+   "Design para Experiência",
+   3
+  ],
+  [
+   "Diversidades Estéticas e Design Contemporâneo",
+   3
+  ],
+  [
+   "Ergonomia Cognitiva",
+   3
+  ],
+  [
+   "Ergonomia I",
+   3
+  ],
+  [
+   "Ilustração",
+   3
+  ],
+  [
+   "Informação e Projeto Gráfico",
+   3
+  ],
+  [
+   "Modelagem Digital",
+   3
+  ],
+  [
+   "Planejamento Gráfico Editorial",
+   3
+  ],
+  [
+   "Prática Projetual em Design I",
+   3
+  ],
+  [
+   "Projeto de Produto I",
+   3
+  ],
+  [
+   "Projeto Editorial Impresso",
+   3
+  ],
+  [
+   "Semiótica",
+   3
+  ],
+  [
+   "Sistema de Identidade Visual",
+   3
+  ],
+  [
+   "Tipografia II",
+   3
+  ],
+  [
+   "Branding",
+   4
+  ],
+  [
+   "Computação Gráfica II",
+   4
+  ],
+  [
+   "Criação em Audiovisual",
+   4
+  ],
+  [
+   "Design de Interface",
+   4
+  ],
+  [
+   "Design e Interatividade",
+   4
+  ],
+  [
+   "Design e Usabilidade",
+   4
+  ],
+  [
+   "Ergonomia II",
+   4
+  ],
+  [
+   "Fotografia I",
+   4
+  ],
+  [
+   "História e Cultura Afro-Brasileiras",
+   4
+  ],
+  [
+   "Laboratório de Edição e Composição de Vídeo",
+   4
+  ],
+  [
+   "Marketing",
+   4
+  ],
+  [
+   "Multimídia",
+   4
+  ],
+  [
+   "Prática Projetual em Design II",
+   4
+  ],
+  [
+   "Processos Gráficos II",
+   4
+  ],
+  [
+   "Tendências e Inovação em Design",
+   4
+  ],
+  [
+   "Teoria da Informação",
+   4
+  ],
+  [
+   "Universidade, Ciência e Pesquisa",
+   4
+  ],
+  [
+   "Alteridade e Direitos Humanos",
+   5
+  ],
+  [
+   "Comportamento na Era Digital",
+   5
+  ],
+  [
+   "Computação Gráfica III",
+   5
+  ],
+  [
+   "Diversidade e Sociedade",
+   5
+  ],
+  [
+   "Física e Modelos Estruturais",
+   5
+  ],
+  [
+   "Fotografia II",
+   5
+  ],
+  [
+   "Gestão do Design",
+   5
+  ],
+  [
+   "Laboratório de Modelagem II",
+   5
+  ],
+  [
+   "Laboratório de Prototipagem 2D e 3D",
+   5
+  ],
+  [
+   "Materiais",
+   5
+  ],
+  [
+   "Metodologia da Pesquisa",
+   5
+  ],
+  [
+   "Modelagem Digital Avançada",
+   5
+  ],
+  [
+   "Pesquisa em Design",
+   5
+  ],
+  [
+   "Prática Projetual em Design III",
+   5
+  ],
+  [
+   "Processo de Fabricação",
+   5
+  ],
+  [
+   "Projeto de Produto II",
+   5
+  ],
+  [
+   "Projeto Digital",
+   5
+  ],
+  [
+   "Projeto em Design de Produto",
+   5
+  ],
+  [
+   "Técnicas de Produção em Design",
+   5
+  ],
+  [
+   "Core Curriculum",
+   6
+  ],
+  [
+   "Design de Superfície",
+   6
+  ],
+  [
+   "Design Emocional",
+   6
+  ],
+  [
+   "Empreendedorismo",
+   6
+  ],
+  [
+   "Ética e Legislação Profissional",
+   6
+  ],
+  [
+   "Gestão Financeira de Projetos",
+   6
+  ],
+  [
+   "Imagem em Movimento",
+   6
+  ],
+  [
+   "Prática Projetual em Design IV",
+   6
+  ],
+  [
+   "Produção Textual Acadêmica",
+   6
+  ],
+  [
+   "Retórica Visual",
+   6
+  ],
+  [
+   "Design Thinking",
+   7
+  ],
+  [
+   "Gestão da Produção",
+   7
+  ],
+  [
+   "Laboratório de Artes Gráficas Avançadas",
+   7
+  ],
+  [
+   "Laboratório de Expressão da Forma",
+   7
+  ],
+  [
+   "Portfólio em Design",
+   7
+  ],
+  [
+   "Pré-Projeto de Conclusão de Curso",
+   7
+  ],
+  [
+   "Projeto de Graduação I",
+   7
+  ],
+  [
+   "Projeto Experimental",
+   7
+  ],
+  [
+   "Projeto Interdisciplinar Comunitário",
+   7
+  ],
+  [
+   "Estágio Supervisionado",
+   8
+  ],
+  [
+   "Estudos Contemporâneos em Design",
+   8
+  ],
+  [
+   "Projeto de Graduação II",
+   8
+  ],
+  [
+   "Trabalho de Conclusão de Curso",
+   8
+  ]
+ ],
+ "notas": "Bacharelado presencial. 5 de 7 matrizes (UFSC, UDESC, FURB, Univali, Unisul). UDESC tem duas habilitações; usada só Design Gráfico. Excluídos: projetos eletivos da UFSC (6ª fase: Sinalização/Inovação Digital; 7ª: escolher 2 entre Publicação Digital, Audiovisual, Embalagem, Design de Superfície), Tópicos Especiais I–III (UDESC, genéricos), eletivas e extensão. UFSC: estágio sem fase fixa (após a 4ª), colocado na 8ª. FURB: PPC truncado na 3ª fase, pode faltar alguma obrigatória dessa fase. Univali: matriz antiga (ano não informado); 'Projeto de Produto' e 'Laboratório de Modelagem' aparecem na 3ª e 5ª, unificados como I e II. Equivalências: Forma = Forma, Função e Composição; Criatividade = Processo Criativo; Design e Cultura = Sociedade e Cultura = Sociedade, Cultura e Design; História da Arte = História da Arte e do Design I; História do Design = História da Arte e do Design II = História e Teoria do Design; Laboratório de Representação Visual = Representação Projetual do Design I = Representação Gráfica; Representação Técnica = Representação Projetual do Design II; Metodologia de Projeto = Metodologia do Design Gráfico = Metodologia do Projeto de Design = Processo de Design; Microtipografia = Tipografia I; Macrotipografia = Tipografia II; Produção Gráfica = Processos Gráficos I = Materiais e Processos Gráficos; Computação Gráfica = Computação em Design Gráfico I = Computação Gráfica Aplicada ao Design I; Fundamentos da Ergonomia = Ergonomia Aplicada ao Design = Ergonomia; Semiótica Aplicada = Semiótica; Ilustração Digital = Ilustração; Projeto Branding = Branding; Inovação e Tendência = Tendências Contemporâneas do Design; Comunicação Integrada de Marketing = Marketing; Fotografia Digital = Fotografia I; Gestão Design nas Organizações = Gestão do Design Gráfico = Gestão do Design; Empreendedorismo = Mercadologia e Empreendedorismo = Projeto Empreendedor de Base Tecnológica; Ética Profissional e Legislação = Legislação, Normas e Ética Profissional = Ética e Legislação; Metodologia de Pesquisa = Metodologia Científica para o TCC; Design e Sustentabilidade = Design e Meio Ambiente; Materiais = Materiais Industriais; Programação para o Design Gráfico = Lab. de Introdução à Programação; Rendering = Sketching e Rendering; Prática e Educação Projetual I–IV = Prática Projetual em Design I–IV; PCC = TCC = TCC em Design = Trabalho de Iniciação Científica (+ Atividades Integradas); Pré-PCC = Pré-Projeto de Conclusão de Curso. Duração típica: 8 semestres. Unisul (PPC 2022, 6 semestres, módulos de 160 h): semestres inferidos da ordem da tabela; estágio obrigatório (100 h) sem semestre definido; 'Metodologia de projeto' = Metodologia de Projeto; 'Imagem e identidade visual' = Sistema de Identidade Visual; 'TCC: Projeto de graduação' = Trabalho de Conclusão de Curso."
+}

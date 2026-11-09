@@ -1,0 +1,873 @@
+{
+ "id": "adm",
+ "curso": "Administração",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "http://administracao.paginas.ufsc.br/files/2026/11/Curr%C3%ADculo-2023-301.pdf",
+   "matriz": "Currículo 20231 (curso 301, diurno)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Formação em Administração e Ética Profissional",
+     1
+    ],
+    [
+     "Organizações e Sociedade",
+     1
+    ],
+    [
+     "Empreendedorismo",
+     1
+    ],
+    [
+     "Laboratório de Habilidades Relacionais",
+     1
+    ],
+    [
+     "Fundamentos Econômicos",
+     1
+    ],
+    [
+     "Direito para Administradores",
+     1
+    ],
+    [
+     "Teorias da Administração",
+     2
+    ],
+    [
+     "Métodos de Pesquisa e Análise Organizacional",
+     2
+    ],
+    [
+     "Negociação",
+     2
+    ],
+    [
+     "Gestão da Inovação",
+     2
+    ],
+    [
+     "Gestão Ambiental",
+     2
+    ],
+    [
+     "Introdução ao Raciocínio Quantitativo na Formação do Conhecimento",
+     2
+    ],
+    [
+     "Estado, Mercado e Sociedade Civil",
+     3
+    ],
+    [
+     "Sustentabilidade e Inovação",
+     3
+    ],
+    [
+     "Pessoas e Organizações",
+     3
+    ],
+    [
+     "Fundamentos de Contabilidade para Administradores",
+     3
+    ],
+    [
+     "Análise de Dados",
+     3
+    ],
+    [
+     "Gestão de Processos",
+     4
+    ],
+    [
+     "Administração de Marketing",
+     4
+    ],
+    [
+     "Laboratório de Desenvolvimento de Carreira",
+     4
+    ],
+    [
+     "Inovação Social",
+     4
+    ],
+    [
+     "Gestão de Serviços",
+     4
+    ],
+    [
+     "Custos e Precificação",
+     4
+    ],
+    [
+     "Gestão de Projetos",
+     5
+    ],
+    [
+     "Gestão da Produção e Operações",
+     5
+    ],
+    [
+     "Gestão Estratégica de Pessoas I",
+     5
+    ],
+    [
+     "Finanças Corporativas I",
+     5
+    ],
+    [
+     "Comportamento do Consumidor",
+     5
+    ],
+    [
+     "Gestão Estratégica",
+     6
+    ],
+    [
+     "Gestão Estratégica de Pessoas II",
+     6
+    ],
+    [
+     "Finanças Corporativas II",
+     6
+    ],
+    [
+     "Gestão Estratégica de Marketing",
+     6
+    ],
+    [
+     "Prototipação de Ideias de Negócios",
+     7
+    ],
+    [
+     "Logística e Gestão da Cadeia de Suprimentos",
+     7
+    ],
+    [
+     "Planejamento Financeiro e Orçamentário",
+     7
+    ],
+    [
+     "Sistemas e Inteligência de Dados",
+     7
+    ],
+    [
+     "Imersão Profissional",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "url": "https://www.udesc.br/arquivos/esag/id_cpmenu/669/Projeto_Pedag_gico_DAE_2024_1_17074202431018_669.pdf",
+   "matriz": "PPC Administração ESAG, implantação 2024/1 (Quadro 16)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Fundamentos de Direito",
+     1
+    ],
+    [
+     "Gestão de Empresas I",
+     1
+    ],
+    [
+     "Introdução à Ciência de Dados",
+     1
+    ],
+    [
+     "Matemática Aplicada",
+     1
+    ],
+    [
+     "Comportamento Humano nas Organizações",
+     1
+    ],
+    [
+     "Contabilidade Financeira",
+     2
+    ],
+    [
+     "Fundamentos de Microeconomia",
+     2
+    ],
+    [
+     "Gestão de Empresas II",
+     2
+    ],
+    [
+     "Matemática Financeira Aplicada",
+     2
+    ],
+    [
+     "Métodos Estatísticos",
+     2
+    ],
+    [
+     "Modelagem de Dados",
+     3
+    ],
+    [
+     "Análise Estatística",
+     3
+    ],
+    [
+     "Contabilidade de Custos",
+     3
+    ],
+    [
+     "Fundamentos de Macroeconomia",
+     3
+    ],
+    [
+     "Gestão por Processos",
+     3
+    ],
+    [
+     "Administração de Materiais e Logística I",
+     3
+    ],
+    [
+     "Fundamentos de Gestão de Pessoas",
+     4
+    ],
+    [
+     "Fundamentos de Marketing",
+     4
+    ],
+    [
+     "Inteligência de Negócios",
+     4
+    ],
+    [
+     "Planejamento e Controle Financeiro",
+     4
+    ],
+    [
+     "Teorias de Apoio à Decisão",
+     4
+    ],
+    [
+     "Direito das Obrigações e Contratos",
+     4
+    ],
+    [
+     "Direito do Trabalho",
+     5
+    ],
+    [
+     "Estratégias Organizacionais",
+     5
+    ],
+    [
+     "Geração de Ideias e Modelagem de Negócios",
+     5
+    ],
+    [
+     "Administração de Materiais e Logística II",
+     5
+    ],
+    [
+     "Gestão e Aplicações de Sistemas de Informação",
+     5
+    ],
+    [
+     "Pesquisa de Marketing",
+     5
+    ],
+    [
+     "Filosofia e Ética",
+     5
+    ],
+    [
+     "Direito Tributário",
+     6
+    ],
+    [
+     "Finanças Corporativas",
+     6
+    ],
+    [
+     "Administração da Produção e Operações",
+     6
+    ],
+    [
+     "Marketing em Ambiente Digital",
+     6
+    ],
+    [
+     "Validação do Modelo de Negócios",
+     6
+    ],
+    [
+     "Internacionalização de Empresas",
+     7
+    ],
+    [
+     "Gestão Logística da Cadeia de Suprimentos",
+     7
+    ],
+    [
+     "Marketing de Serviços",
+     7
+    ],
+    [
+     "Mercado Financeiro e de Capitais",
+     7
+    ],
+    [
+     "Prototipação de Produtos e Serviços",
+     7
+    ],
+    [
+     "Captação de Recursos",
+     8
+    ],
+    [
+     "Direito Empresarial",
+     8
+    ],
+    [
+     "Gestão de Vendas e Negociação",
+     8
+    ],
+    [
+     "Planejamento Estratégico de Marketing",
+     8
+    ],
+    [
+     "Desenvolvimento de Pessoas",
+     8
+    ],
+    [
+     "Gestão da Qualidade e Processos",
+     8
+    ],
+    [
+     "Estágio Curricular Supervisionado em Administração",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "curso existe em Chapecó, mas PPC não localizado (busca só retorna PPC de Cerro Largo/RS; páginas do campus recusam acesso)"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "site novo uno.edu.br (SPA em JS); PDFs antigos redirecionam para a home"
+  },
+  {
+   "uni": "FURB",
+   "url": "https://www.furb.br/web/upl/graduacao/matriz/202408091317370.2024.2.004-0.pdf",
+   "matriz": "2024.2.004-0 (noturno), Parecer CEPE 034/2024",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Gestão da Inovação",
+     1
+    ],
+    [
+     "Administração Geral",
+     1
+    ],
+    [
+     "Matemática Geral",
+     1
+    ],
+    [
+     "Fundamentos de Economia",
+     1
+    ],
+    [
+     "Contabilidade Geral",
+     1
+    ],
+    [
+     "Educação Física - Prática Desportiva I",
+     1
+    ],
+    [
+     "Psicologia Organizacional",
+     2
+    ],
+    [
+     "Produção Textual Acadêmica",
+     2
+    ],
+    [
+     "Estatística Geral",
+     2
+    ],
+    [
+     "Empreendedorismo",
+     2
+    ],
+    [
+     "Mercado de Capitais",
+     2
+    ],
+    [
+     "Educação Física - Prática Desportiva II",
+     2
+    ],
+    [
+     "Universidade, Ciência e Pesquisa",
+     3
+    ],
+    [
+     "História da Cultura Afro-brasileira e Indígena",
+     3
+    ],
+    [
+     "Contabilidade Tributária I",
+     3
+    ],
+    [
+     "Matemática Financeira",
+     3
+    ],
+    [
+     "Pesquisa em Ciências Sociais Aplicadas",
+     3
+    ],
+    [
+     "Gestão de Pessoas",
+     4
+    ],
+    [
+     "Marketing I",
+     4
+    ],
+    [
+     "Gestão Financeira",
+     4
+    ],
+    [
+     "Gestão de Compras e Estoques",
+     4
+    ],
+    [
+     "Administração da Produção e Operações I",
+     4
+    ],
+    [
+     "Administração de Recursos Humanos II",
+     5
+    ],
+    [
+     "Marketing II",
+     5
+    ],
+    [
+     "Administração Financeira e Orçamentaria",
+     5
+    ],
+    [
+     "Gestão da Cadeia de Suprimentos",
+     5
+    ],
+    [
+     "Administração da Produção e Operações II",
+     5
+    ],
+    [
+     "Estágio I",
+     5
+    ],
+    [
+     "Administração de Vendas",
+     6
+    ],
+    [
+     "Análise de Processos Empresariais",
+     6
+    ],
+    [
+     "Análise de Custos",
+     6
+    ],
+    [
+     "Teoria Social e Realidade Brasileira",
+     6
+    ],
+    [
+     "Planejamento Estratégico",
+     6
+    ],
+    [
+     "Estágio II",
+     6
+    ],
+    [
+     "Gestão da Informação",
+     7
+    ],
+    [
+     "Responsabilidade Social e Ambiental",
+     7
+    ],
+    [
+     "Análise de Investimentos",
+     7
+    ],
+    [
+     "Comércio Exterior",
+     7
+    ],
+    [
+     "Pesquisa Operacional",
+     7
+    ],
+    [
+     "Contabilidade e Gestão Pública I",
+     7
+    ],
+    [
+     "Gestão de Projetos Empresariais",
+     8
+    ],
+    [
+     "Direito Empresarial",
+     8
+    ],
+    [
+     "Contabilidade Gerencial",
+     8
+    ],
+    [
+     "Economia de Empresas-business game",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "univali.br recusa acesso (client_error) às páginas/Sínteses de PPC"
+  },
+  {
+   "uni": "Unisul",
+   "nao_encontrada": "só semipresencial/EaD; página do curso não expõe o PDF da matriz"
+  }
+ ],
+ "uniao": [
+  [
+   "Comportamento Organizacional",
+   1
+  ],
+  [
+   "Contabilidade Geral",
+   1
+  ],
+  [
+   "Empreendedorismo",
+   1
+  ],
+  [
+   "Formação em Administração e Ética Profissional",
+   1
+  ],
+  [
+   "Fundamentos de Direito",
+   1
+  ],
+  [
+   "Fundamentos de Economia",
+   1
+  ],
+  [
+   "Gestão da Inovação",
+   1
+  ],
+  [
+   "Introdução à Ciência de Dados",
+   1
+  ],
+  [
+   "Laboratório de Habilidades Relacionais",
+   1
+  ],
+  [
+   "Matemática Aplicada",
+   1
+  ],
+  [
+   "Organizações e Sociedade",
+   1
+  ],
+  [
+   "Teoria Geral da Administração",
+   1
+  ],
+  [
+   "Estatística I",
+   2
+  ],
+  [
+   "Gestão Ambiental",
+   2
+  ],
+  [
+   "Gestão de Empresas II",
+   2
+  ],
+  [
+   "Matemática Financeira",
+   2
+  ],
+  [
+   "Mercado Financeiro e de Capitais",
+   2
+  ],
+  [
+   "Métodos de Pesquisa em Administração",
+   2
+  ],
+  [
+   "Microeconomia",
+   2
+  ],
+  [
+   "Negociação",
+   2
+  ],
+  [
+   "Produção Textual Acadêmica",
+   2
+  ],
+  [
+   "Administração de Materiais e Logística I",
+   3
+  ],
+  [
+   "Contabilidade de Custos",
+   3
+  ],
+  [
+   "Contabilidade Tributária",
+   3
+  ],
+  [
+   "Estado, Mercado e Sociedade Civil",
+   3
+  ],
+  [
+   "Estatística II",
+   3
+  ],
+  [
+   "Gestão de Processos",
+   3
+  ],
+  [
+   "História da Cultura Afro-brasileira e Indígena",
+   3
+  ],
+  [
+   "Macroeconomia",
+   3
+  ],
+  [
+   "Modelagem de Dados",
+   3
+  ],
+  [
+   "Sustentabilidade e Inovação",
+   3
+  ],
+  [
+   "Universidade, Ciência e Pesquisa",
+   3
+  ],
+  [
+   "Administração da Produção e Operações I",
+   4
+  ],
+  [
+   "Administração Financeira I",
+   4
+  ],
+  [
+   "Direito das Obrigações e Contratos",
+   4
+  ],
+  [
+   "Gestão de Pessoas I",
+   4
+  ],
+  [
+   "Gestão de Serviços",
+   4
+  ],
+  [
+   "Inovação Social",
+   4
+  ],
+  [
+   "Inteligência de Negócios",
+   4
+  ],
+  [
+   "Laboratório de Desenvolvimento de Carreira",
+   4
+  ],
+  [
+   "Marketing I",
+   4
+  ],
+  [
+   "Pesquisa Operacional",
+   4
+  ],
+  [
+   "Administração da Produção e Operações II",
+   5
+  ],
+  [
+   "Administração de Materiais e Logística II",
+   5
+  ],
+  [
+   "Comportamento do Consumidor",
+   5
+  ],
+  [
+   "Direito do Trabalho",
+   5
+  ],
+  [
+   "Estágio Supervisionado I",
+   5
+  ],
+  [
+   "Filosofia e Ética",
+   5
+  ],
+  [
+   "Finanças Corporativas I",
+   5
+  ],
+  [
+   "Geração de Ideias e Modelagem de Negócios",
+   5
+  ],
+  [
+   "Gestão de Pessoas II",
+   5
+  ],
+  [
+   "Gestão de Projetos",
+   5
+  ],
+  [
+   "Marketing II",
+   5
+  ],
+  [
+   "Pesquisa de Marketing",
+   5
+  ],
+  [
+   "Planejamento Financeiro e Orçamentário",
+   5
+  ],
+  [
+   "Sistemas de Informação Gerencial",
+   5
+  ],
+  [
+   "Direito Tributário",
+   6
+  ],
+  [
+   "Estágio Supervisionado II",
+   6
+  ],
+  [
+   "Finanças Corporativas II",
+   6
+  ],
+  [
+   "Gestão de Vendas",
+   6
+  ],
+  [
+   "Marketing Digital",
+   6
+  ],
+  [
+   "Marketing Estratégico",
+   6
+  ],
+  [
+   "Planejamento Estratégico",
+   6
+  ],
+  [
+   "Teoria Social e Realidade Brasileira",
+   6
+  ],
+  [
+   "Validação do Modelo de Negócios",
+   6
+  ],
+  [
+   "Análise de Investimentos",
+   7
+  ],
+  [
+   "Comércio Exterior",
+   7
+  ],
+  [
+   "Contabilidade e Gestão Pública",
+   7
+  ],
+  [
+   "Gestão da Cadeia de Suprimentos",
+   7
+  ],
+  [
+   "Internacionalização de Empresas",
+   7
+  ],
+  [
+   "Marketing de Serviços",
+   7
+  ],
+  [
+   "Prototipação de Negócios",
+   7
+  ],
+  [
+   "Responsabilidade Social e Ambiental",
+   7
+  ],
+  [
+   "Captação de Recursos",
+   8
+  ],
+  [
+   "Contabilidade Gerencial",
+   8
+  ],
+  [
+   "Direito Empresarial",
+   8
+  ],
+  [
+   "Economia de Empresas – Business Game",
+   8
+  ],
+  [
+   "Gestão da Qualidade",
+   8
+  ],
+  [
+   "Imersão Profissional",
+   8
+  ]
+ ],
+ "notas": "Bacharelado presencial, 8 semestres. UDESC: usada a matriz nova (PPC implantação 2024/1) em vez da PPC 2020 (também lida). Nenhuma das três matrizes tem TCC obrigatório. Equivalências: Teoria Geral da Administração = Gestão de Empresas I (UDESC) = Administração Geral (FURB) = Teorias da Administração (UFSC); Comportamento Organizacional = Comportamento Humano nas Organizações = Psicologia Organizacional = Pessoas e Organizações; Contabilidade Geral = Contabilidade Financeira = Fundamentos de Contabilidade para Administradores; Contabilidade de Custos = Custos e Precificação = Análise de Custos; Fundamentos de Direito = Direito para Administradores; Fundamentos de Economia = Fundamentos Econômicos; Matemática Aplicada = Matemática Geral = Introdução ao Raciocínio Quantitativo; Estatística I = Métodos Estatísticos = Estatística Geral; Estatística II = Análise Estatística = Análise de Dados (UFSC); Métodos de Pesquisa = Pesquisa em Ciências Sociais Aplicadas; Gestão de Processos = Gestão por Processos = Análise de Processos Empresariais; Adm. de Materiais e Logística I = Gestão de Compras e Estoques; Gestão da Cadeia de Suprimentos (3 fontes); Gestão de Pessoas I = Fundamentos de Gestão de Pessoas = Gestão de Pessoas = GEP I; Gestão de Pessoas II = GEP II = ARH II = Desenvolvimento de Pessoas; Marketing I = Administração/Fundamentos de Marketing; Marketing Estratégico = Gestão Estratégica de Marketing = Planejamento Estratégico de Marketing; Administração Financeira I = Planejamento e Controle Financeiro = Gestão Financeira; Planejamento Financeiro e Orçamentário = Adm. Financeira e Orçamentária; Finanças Corporativas I = Finanças Corporativas (UDESC); APO I = Gestão da Produção e Operações = Administração da Produção e Operações; Planejamento Estratégico = Gestão Estratégica = Estratégias Organizacionais; Pesquisa Operacional = Teorias de Apoio à Decisão; Inteligência de Negócios = Sistemas e Inteligência de Dados; Sistemas de Informação Gerencial = Gestão e Aplicações de SI = Gestão da Informação; Gestão de Vendas = Gestão de Vendas e Negociação = Administração de Vendas; Prototipação de Negócios = Prototipação de Ideias de Negócios = Prototipação de Produtos e Serviços; Gestão de Projetos = Gestão de Projetos Empresariais; Mercado Financeiro e de Capitais = Mercado de Capitais; Estágio Supervisionado I = Estágio I (FURB) = Estágio Curricular Supervisionado (UDESC). Imersão Profissional (UFSC, 8ª fase) mantida separada. Excluídos: Prática Desportiva (FURB, não computa carga horária), eletivas, AACC."
+}

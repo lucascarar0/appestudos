@@ -1,0 +1,821 @@
+{
+ "id": "ctb",
+ "curso": "Ciências Contábeis",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://cienciascontabeis.paginas.ufsc.br/files/2023/03/PPC-2019-C.-CONTABEIS-versao-final-20-10-2018.pdf",
+   "matriz": "Currículo 2019.1 (diurno 302 / noturno 317); 9ª fase só optativas",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Contabilidade Introdutória I",
+     1
+    ],
+    [
+     "Direito Empresarial",
+     1
+    ],
+    [
+     "Pré-Cálculo",
+     1
+    ],
+    [
+     "Administração I",
+     1
+    ],
+    [
+     "Ética e Filosofia Política",
+     1
+    ],
+    [
+     "Contabilidade Introdutória II",
+     2
+    ],
+    [
+     "Matemática Financeira",
+     2
+    ],
+    [
+     "Teoria Econômica",
+     2
+    ],
+    [
+     "Legislação Tributária",
+     2
+    ],
+    [
+     "Métodos Estatísticos",
+     2
+    ],
+    [
+     "Contabilidade Intermediária I",
+     3
+    ],
+    [
+     "Matemática Financeira Aplicada à Contabilidade",
+     3
+    ],
+    [
+     "Legislação Social e Previdenciária",
+     3
+    ],
+    [
+     "Mercado de Capitais",
+     3
+    ],
+    [
+     "Contabilometria",
+     3
+    ],
+    [
+     "Contabilidade Intermediária II",
+     4
+    ],
+    [
+     "Contabilidade de Custos",
+     4
+    ],
+    [
+     "Teoria da Contabilidade",
+     4
+    ],
+    [
+     "Produção Textual e Acadêmica",
+     4
+    ],
+    [
+     "Tributação das Empresas Comerciais e Industriais",
+     4
+    ],
+    [
+     "Contabilidade e Responsabilidade Socioambiental",
+     4
+    ],
+    [
+     "Contabilidade e Finanças",
+     5
+    ],
+    [
+     "Análise de Custos",
+     5
+    ],
+    [
+     "Contabilidade Tributária",
+     5
+    ],
+    [
+     "Análise das Demonstrações Contábeis",
+     5
+    ],
+    [
+     "Tributação na Prestação de Serviços",
+     5
+    ],
+    [
+     "Contabilidade Avançada",
+     6
+    ],
+    [
+     "Contabilidade Gerencial",
+     6
+    ],
+    [
+     "Laboratório de Prática Contábil",
+     6
+    ],
+    [
+     "Contabilidade Pública I",
+     6
+    ],
+    [
+     "Metodologia da Pesquisa Aplicada a Contabilidade",
+     6
+    ],
+    [
+     "Auditoria Contábil I",
+     7
+    ],
+    [
+     "Simulação Gerencial I",
+     7
+    ],
+    [
+     "Sistema de Informação Contábil",
+     7
+    ],
+    [
+     "Contabilidade Pública II",
+     7
+    ],
+    [
+     "Técnicas de Elaboração de Projeto de Pesquisa",
+     7
+    ],
+    [
+     "Auditoria Contábil II",
+     8
+    ],
+    [
+     "Simulação Gerencial II",
+     8
+    ],
+    [
+     "Planejamento Tributário",
+     8
+    ],
+    [
+     "Controladoria",
+     8
+    ],
+    [
+     "Perícia Contábil",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso – TCC",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "url": "https://www.udesc.br/arquivos/ceavi/id_cpmenu/312/014_2020_ceg_16311266578869_312.pdf",
+   "matriz": "CEAVI (Ibirama), Resolução 014/2020-CEG (ajustes 2020)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Administração",
+     1
+    ],
+    [
+     "Contabilidade I",
+     1
+    ],
+    [
+     "Instituições de Direito",
+     1
+    ],
+    [
+     "Matemática",
+     1
+    ],
+    [
+     "Metodologia da Pesquisa Científica",
+     1
+    ],
+    [
+     "Contabilidade II",
+     2
+    ],
+    [
+     "Direito Empresarial",
+     2
+    ],
+    [
+     "Fundamentos da Economia",
+     2
+    ],
+    [
+     "Filosofia da Ciência",
+     2
+    ],
+    [
+     "Matemática Financeira I",
+     2
+    ],
+    [
+     "Contabilidade e Sociedade",
+     2
+    ],
+    [
+     "Contabilidade III",
+     3
+    ],
+    [
+     "Contabilidade de Custos",
+     3
+    ],
+    [
+     "Direito Tributário",
+     3
+    ],
+    [
+     "Estatística I",
+     3
+    ],
+    [
+     "Matemática Financeira II",
+     3
+    ],
+    [
+     "Análise de Custos",
+     4
+    ],
+    [
+     "Contabilidade Tributária I",
+     4
+    ],
+    [
+     "Estrutura e Elaboração das Demonstrações Contábeis",
+     4
+    ],
+    [
+     "Laboratório Contábil I (Contabilidade)",
+     4
+    ],
+    [
+     "Legislação Trabalhista e Previdenciária",
+     4
+    ],
+    [
+     "Interdisciplinar I",
+     4
+    ],
+    [
+     "Estágio Curricular Supervisionado",
+     4
+    ],
+    [
+     "Contabilidade Tributária II",
+     5
+    ],
+    [
+     "Contabilidade Pública I",
+     5
+    ],
+    [
+     "Laboratório Contábil II (Fiscal)",
+     5
+    ],
+    [
+     "Mercado de Capitais",
+     5
+    ],
+    [
+     "Teoria da Contabilidade",
+     5
+    ],
+    [
+     "Análise das Demonstrações Contábeis",
+     6
+    ],
+    [
+     "Contabilidade Pública II",
+     6
+    ],
+    [
+     "Planejamento Estratégico e Orçamento Empresarial",
+     6
+    ],
+    [
+     "Pesquisa Operacional",
+     6
+    ],
+    [
+     "Sistemas de Informação Contábil",
+     6
+    ],
+    [
+     "Auditoria",
+     7
+    ],
+    [
+     "Metodologia de Trabalho de Conclusão",
+     7
+    ],
+    [
+     "Contabilidade Avançada",
+     7
+    ],
+    [
+     "Perícia Contábil",
+     7
+    ],
+    [
+     "Interdisciplinar II",
+     7
+    ],
+    [
+     "Controladoria",
+     8
+    ],
+    [
+     "Empreendedorismo",
+     8
+    ],
+    [
+     "Comportamento Organizacional",
+     8
+    ],
+    [
+     "Ética Profissional",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "não oferece Ciências Contábeis no campus Chapecó"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "site novo uno.edu.br (SPA em JS); matriz não acessível"
+  },
+  {
+   "uni": "FURB",
+   "url": "https://www.furb.br/web/upl/graduacao/matriz/202204201614400.Ciencias%20Contabeis%202020-1.pdf",
+   "matriz": "2020.1.005-0 (noturno)",
+   "semestres": 8,
+   "disciplinas": [
+    [
+     "Administração Geral",
+     1
+    ],
+    [
+     "Contabilidade Tributária I",
+     1
+    ],
+    [
+     "Matemática Geral",
+     1
+    ],
+    [
+     "Fundamentos de Economia",
+     1
+    ],
+    [
+     "Contabilidade Geral",
+     1
+    ],
+    [
+     "Educação Física - Prática Desportiva I",
+     1
+    ],
+    [
+     "Contabilidade II",
+     2
+    ],
+    [
+     "Produção Textual Acadêmica",
+     2
+    ],
+    [
+     "Estatística Geral",
+     2
+    ],
+    [
+     "Contabilidade Tributária II",
+     2
+    ],
+    [
+     "Laboratório Contábil I",
+     2
+    ],
+    [
+     "Estágio II",
+     2
+    ],
+    [
+     "Educação Física - Prática Desportiva II",
+     2
+    ],
+    [
+     "Universidade, Ciência e Pesquisa",
+     3
+    ],
+    [
+     "Diversidade e Sociedade",
+     3
+    ],
+    [
+     "Contabilidade III",
+     3
+    ],
+    [
+     "Contabilidade Tributária III",
+     3
+    ],
+    [
+     "Contabilidade de Custos",
+     3
+    ],
+    [
+     "Matemática Financeira",
+     3
+    ],
+    [
+     "Estágio III",
+     3
+    ],
+    [
+     "Mercado de Capitais",
+     4
+    ],
+    [
+     "Direito Empresarial",
+     4
+    ],
+    [
+     "Gestão Financeira",
+     4
+    ],
+    [
+     "Contabilidade IV",
+     4
+    ],
+    [
+     "Contabilidade Trabalhista",
+     4
+    ],
+    [
+     "Laboratório Contábil II",
+     5
+    ],
+    [
+     "Contabilidade e Gestão Pública I",
+     5
+    ],
+    [
+     "Contabilidade Avançada I",
+     5
+    ],
+    [
+     "Teoria da Contabilidade",
+     5
+    ],
+    [
+     "Contabilidade Orçamentária",
+     5
+    ],
+    [
+     "Estágio IV",
+     5
+    ],
+    [
+     "Teoria Social e Realidade Brasileira",
+     6
+    ],
+    [
+     "Contabilidade e Gestão Pública II",
+     6
+    ],
+    [
+     "Contabilidade Avançada II",
+     6
+    ],
+    [
+     "Análise de Custos",
+     6
+    ],
+    [
+     "Análise das Demonstrações Contábeis",
+     6
+    ],
+    [
+     "Contabilidade Avançada III",
+     7
+    ],
+    [
+     "Auditoria I",
+     7
+    ],
+    [
+     "Análise de Investimentos",
+     7
+    ],
+    [
+     "Controladoria",
+     7
+    ],
+    [
+     "Ética e Legislação Profissional em Contabilidade",
+     8
+    ],
+    [
+     "Perícia Contábil",
+     8
+    ],
+    [
+     "Auditoria II",
+     8
+    ],
+    [
+     "Contabilidade Gerencial",
+     8
+    ],
+    [
+     "Economia de Empresas - Business Game",
+     8
+    ]
+   ]
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "univali.br recusa acesso (client_error)"
+  },
+  {
+   "uni": "Unisul",
+   "nao_encontrada": "página do curso recusa acesso (client_error) e PDF da matriz não localizado"
+  }
+ ],
+ "uniao": [
+  [
+   "Contabilidade Introdutória I",
+   1
+  ],
+  [
+   "Direito Empresarial",
+   1
+  ],
+  [
+   "Filosofia",
+   1
+  ],
+  [
+   "Instituições de Direito",
+   1
+  ],
+  [
+   "Matemática Básica",
+   1
+  ],
+  [
+   "Metodologia da Pesquisa",
+   1
+  ],
+  [
+   "Teoria Geral da Administração",
+   1
+  ],
+  [
+   "Contabilidade e Sociedade",
+   2
+  ],
+  [
+   "Contabilidade Introdutória II",
+   2
+  ],
+  [
+   "Direito Tributário",
+   2
+  ],
+  [
+   "Estágio Supervisionado I",
+   2
+  ],
+  [
+   "Estatística",
+   2
+  ],
+  [
+   "Fundamentos de Economia",
+   2
+  ],
+  [
+   "Laboratório Contábil I",
+   2
+  ],
+  [
+   "Matemática Financeira I",
+   2
+  ],
+  [
+   "Produção Textual Acadêmica",
+   2
+  ],
+  [
+   "Contabilidade de Custos",
+   3
+  ],
+  [
+   "Contabilidade Intermediária I",
+   3
+  ],
+  [
+   "Contabilidade Tributária III",
+   3
+  ],
+  [
+   "Contabilometria",
+   3
+  ],
+  [
+   "Diversidade e Sociedade",
+   3
+  ],
+  [
+   "Estágio Supervisionado II",
+   3
+  ],
+  [
+   "Legislação Trabalhista e Previdenciária",
+   3
+  ],
+  [
+   "Matemática Financeira II",
+   3
+  ],
+  [
+   "Mercado de Capitais",
+   3
+  ],
+  [
+   "Universidade, Ciência e Pesquisa",
+   3
+  ],
+  [
+   "Análise de Custos",
+   4
+  ],
+  [
+   "Contabilidade e Responsabilidade Socioambiental",
+   4
+  ],
+  [
+   "Contabilidade Intermediária II",
+   4
+  ],
+  [
+   "Contabilidade Trabalhista",
+   4
+  ],
+  [
+   "Contabilidade Tributária I",
+   4
+  ],
+  [
+   "Gestão Financeira",
+   4
+  ],
+  [
+   "Interdisciplinar I",
+   4
+  ],
+  [
+   "Contabilidade Avançada I",
+   5
+  ],
+  [
+   "Contabilidade e Finanças",
+   5
+  ],
+  [
+   "Contabilidade Pública I",
+   5
+  ],
+  [
+   "Contabilidade Tributária II",
+   5
+  ],
+  [
+   "Estágio Supervisionado III",
+   5
+  ],
+  [
+   "Laboratório Contábil II",
+   5
+  ],
+  [
+   "Orçamento Empresarial",
+   5
+  ],
+  [
+   "Teoria da Contabilidade",
+   5
+  ],
+  [
+   "Análise das Demonstrações Contábeis",
+   6
+  ],
+  [
+   "Contabilidade Avançada II",
+   6
+  ],
+  [
+   "Contabilidade Gerencial",
+   6
+  ],
+  [
+   "Contabilidade Pública II",
+   6
+  ],
+  [
+   "Pesquisa Operacional",
+   6
+  ],
+  [
+   "Sistemas de Informação Contábil",
+   6
+  ],
+  [
+   "Teoria Social e Realidade Brasileira",
+   6
+  ],
+  [
+   "Análise de Investimentos",
+   7
+  ],
+  [
+   "Auditoria I",
+   7
+  ],
+  [
+   "Contabilidade Avançada III",
+   7
+  ],
+  [
+   "Interdisciplinar II",
+   7
+  ],
+  [
+   "Projeto de Pesquisa em Contabilidade",
+   7
+  ],
+  [
+   "Simulação Gerencial I",
+   7
+  ],
+  [
+   "Auditoria II",
+   8
+  ],
+  [
+   "Comportamento Organizacional",
+   8
+  ],
+  [
+   "Controladoria",
+   8
+  ],
+  [
+   "Empreendedorismo",
+   8
+  ],
+  [
+   "Ética Profissional",
+   8
+  ],
+  [
+   "Perícia Contábil",
+   8
+  ],
+  [
+   "Planejamento Tributário",
+   8
+  ],
+  [
+   "Simulação Gerencial II",
+   8
+  ],
+  [
+   "Trabalho de Conclusão de Curso",
+   8
+  ]
+ ],
+ "notas": "Bacharelado presencial, 8 semestres (UFSC tem 9ª fase só de optativas). UDESC: curso no CEAVI/Ibirama (ESAG não oferece); Estágio Curricular Supervisionado sem fase na matriz, posto na 4ª pelo código 41ECS. FURB: TCC aparece só entre optativas (não obrigatório); matriz não tem 'Estágio I' (Estágio II/III/IV mapeados para Estágio Supervisionado I/II/III; UDESC Estágio = I). Equivalências: Contabilidade Introdutória I = Contabilidade I = Contabilidade Geral; Introdutória II = Contabilidade II; Intermediária I = Contabilidade III; Intermediária II = Contabilidade IV = Estrutura e Elaboração das Demonstrações Contábeis; Contabilidade Tributária I = Tributação das Empresas Comerciais e Industriais; II = Contabilidade Tributária (UFSC); III = Tributação na Prestação de Serviços; Direito Tributário = Legislação Tributária; Legislação Trabalhista e Previdenciária = Legislação Social e Previdenciária; Matemática Básica = Pré-Cálculo = Matemática = Matemática Geral; Teoria Geral da Administração = Administração I = Administração = Administração Geral; Fundamentos de Economia = Teoria Econômica; Estatística = Métodos Estatísticos = Estatística I = Estatística Geral; Matemática Financeira II = Matemática Financeira Aplicada à Contabilidade; Filosofia = Ética e Filosofia Política = Filosofia da Ciência; Metodologia da Pesquisa = Metodologia da Pesquisa Aplicada a Contabilidade = Metodologia da Pesquisa Científica; Projeto de Pesquisa em Contabilidade = Técnicas de Elaboração de Projeto de Pesquisa = Metodologia de Trabalho de Conclusão; Laboratório Contábil I = Laboratório de Prática Contábil; Contabilidade Pública I/II = Contabilidade e Gestão Pública I/II; Contabilidade Avançada I = Contabilidade Avançada (UFSC/UDESC); Auditoria I = Auditoria Contábil I = Auditoria; Ética Profissional = Ética e Legislação Profissional em Contabilidade; Orçamento Empresarial = Planejamento Estratégico e Orçamento Empresarial = Contabilidade Orçamentária; Simulação Gerencial II = Economia de Empresas - Business Game. Excluídos: Prática Desportiva (FURB), optativas, AACC."
+}

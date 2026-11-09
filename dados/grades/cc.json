@@ -1,0 +1,849 @@
+{
+ "id": "cc",
+ "curso": "Ciência da Computação",
+ "fontes": [
+  {
+   "uni": "UFSC",
+   "url": "https://cagr.sistemas.ufsc.br/relatorios/curriculoCurso?curso=208",
+   "matriz": "Currículo 20271",
+   "semestres": 9,
+   "disciplinas": [
+    [
+     "Introdução à Ciência da Computação",
+     1
+    ],
+    [
+     "Introdução a Algoritmos e Programação Estruturada",
+     1
+    ],
+    [
+     "Fundamentos da Matemática Discreta para Computação",
+     1
+    ],
+    [
+     "Preparação para a Carreira em Computação",
+     1
+    ],
+    [
+     "Iniciação à Extensão e a Pesquisa Acadêmica",
+     1
+    ],
+    [
+     "Algoritmos e Estruturas de Dados Lineares",
+     2
+    ],
+    [
+     "Circuitos Digitais",
+     2
+    ],
+    [
+     "Programação Orientada a Objetos",
+     2
+    ],
+    [
+     "Ciência, Tecnologia e Sociedade",
+     2
+    ],
+    [
+     "Cálculo 1",
+     2
+    ],
+    [
+     "Algoritmos e Estruturas de Dados Não-Lineares",
+     3
+    ],
+    [
+     "Laboratório de Programação",
+     3
+    ],
+    [
+     "Probabilidade e Estatística",
+     3
+    ],
+    [
+     "Sistemas Digitais",
+     3
+    ],
+    [
+     "Laboratório de Sistemas Digitais",
+     3
+    ],
+    [
+     "Cálculo 2",
+     3
+    ],
+    [
+     "Organização de Computadores",
+     4
+    ],
+    [
+     "Redes e Comunicação de Dados",
+     4
+    ],
+    [
+     "Engenharia de Software",
+     4
+    ],
+    [
+     "Teoria dos Grafos e Aplicações",
+     4
+    ],
+    [
+     "Banco de Dados",
+     4
+    ],
+    [
+     "Álgebra Linear",
+     4
+    ],
+    [
+     "Linguagens Formais e Modelos de Representação",
+     5
+    ],
+    [
+     "Análise e Projeto de Algoritmos",
+     5
+    ],
+    [
+     "Sistemas Operacionais",
+     5
+    ],
+    [
+     "Segurança em Computação",
+     5
+    ],
+    [
+     "Computação Numérica",
+     5
+    ],
+    [
+     "Paradigmas de Programação",
+     6
+    ],
+    [
+     "Teoria da Computação",
+     6
+    ],
+    [
+     "Introdução à Inteligência Artificial",
+     6
+    ],
+    [
+     "Computação Gráfica",
+     6
+    ],
+    [
+     "Computação Distribuída",
+     6
+    ],
+    [
+     "Computação Paralela",
+     7
+    ],
+    [
+     "Interdisciplinaridade e Empreendedorismo para Computação",
+     7
+    ],
+    [
+     "Introdução à Pesquisa em Computação",
+     7
+    ],
+    [
+     "Compiladores",
+     7
+    ],
+    [
+     "Computador e Sociedade",
+     8
+    ],
+    [
+     "TCC I",
+     8
+    ],
+    [
+     "TCC II",
+     9
+    ]
+   ]
+  },
+  {
+   "uni": "UDESC",
+   "url": "https://www.udesc.br/arquivos/cct/id_cpmenu/1440/PPC_BCC_2025_1_17398122449391_1440.pdf",
+   "matriz": "PPC BCC 2025/1 (CCT Joinville), matriz proposta seção 7.1",
+   "semestres": 9,
+   "disciplinas": [
+    [
+     "Algoritmos",
+     1
+    ],
+    [
+     "Geometria Analítica",
+     1
+    ],
+    [
+     "Introdução ao Cálculo",
+     1
+    ],
+    [
+     "Lógica Matemática",
+     1
+    ],
+    [
+     "Programação Funcional",
+     1
+    ],
+    [
+     "Teoria Geral de Sistemas",
+     1
+    ],
+    [
+     "Álgebra Linear",
+     2
+    ],
+    [
+     "Cálculo Diferencial e Integral I",
+     2
+    ],
+    [
+     "Linguagem de Programação",
+     2
+    ],
+    [
+     "Matemática Discreta",
+     2
+    ],
+    [
+     "Sistemas Digitais",
+     2
+    ],
+    [
+     "Unidade Curricular de Extensão I",
+     2
+    ],
+    [
+     "Análise e Modelagem de Sistemas",
+     3
+    ],
+    [
+     "Arquitetura e Organização de Computadores",
+     3
+    ],
+    [
+     "Cálculo Diferencial e Integral II",
+     3
+    ],
+    [
+     "Estruturas de Dados I",
+     3
+    ],
+    [
+     "Probabilidade e Estatística",
+     3
+    ],
+    [
+     "Programação Orientada a Objetos",
+     3
+    ],
+    [
+     "Unidade Curricular de Extensão II",
+     3
+    ],
+    [
+     "Análise Numérica",
+     4
+    ],
+    [
+     "Estruturas de Dados II",
+     4
+    ],
+    [
+     "Linguagens Formais e Autômatos",
+     4
+    ],
+    [
+     "Metodologia da Pesquisa",
+     4
+    ],
+    [
+     "Sistemas Operacionais",
+     4
+    ],
+    [
+     "Teoria dos Grafos",
+     4
+    ],
+    [
+     "Unidade Curricular de Extensão III",
+     4
+    ],
+    [
+     "Banco de Dados I",
+     5
+    ],
+    [
+     "Compiladores",
+     5
+    ],
+    [
+     "Complexidade de Algoritmos",
+     5
+    ],
+    [
+     "Computação Gráfica",
+     5
+    ],
+    [
+     "Engenharia de Software",
+     5
+    ],
+    [
+     "Redes de Computadores",
+     5
+    ],
+    [
+     "Banco de Dados II",
+     6
+    ],
+    [
+     "Interação Humano-Computador e Experiência do Usuário",
+     6
+    ],
+    [
+     "Processamento de Imagens",
+     6
+    ],
+    [
+     "Sistemas Distribuídos",
+     6
+    ],
+    [
+     "Teoria da Computação",
+     6
+    ],
+    [
+     "Unidade Curricular de Extensão IV",
+     6
+    ],
+    [
+     "Automação e Controle",
+     7
+    ],
+    [
+     "Inteligência Artificial",
+     7
+    ],
+    [
+     "Métodos Formais",
+     7
+    ],
+    [
+     "Pesquisa Operacional",
+     7
+    ],
+    [
+     "Segurança Computacional",
+     7
+    ],
+    [
+     "Unidade Curricular de Extensão V",
+     7
+    ],
+    [
+     "Empreendedorismo em Informática",
+     8
+    ],
+    [
+     "Ética em Informática",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso I",
+     8
+    ],
+    [
+     "Trabalho de Conclusão de Curso II",
+     9
+    ]
+   ]
+  },
+  {
+   "uni": "UFFS",
+   "nao_encontrada": "PPC do curso (Chapecó, PPC nº 3/2023) não localizado/acessível; site do curso retornou erro"
+  },
+  {
+   "uni": "Unochapecó",
+   "nao_encontrada": "site uno.edu.br é renderizado via JS; PPC/matriz não acessível pelo WebFetch"
+  },
+  {
+   "uni": "FURB",
+   "url": "https://www.furb.br/sites/default/files/2025-04/PPC%20CIENCIA%20DA%20COMPUTACAO%202019.1.pdf",
+   "matriz": "PPC 2019.1 (seção 4.10.1)",
+   "semestres": 9,
+   "disciplinas": [
+    [
+     "Introdução à programação",
+     1
+    ],
+    [
+     "Fundamentos matemáticos",
+     1
+    ],
+    [
+     "Arquitetura de computadores I",
+     1
+    ],
+    [
+     "Introdução à Computação",
+     1
+    ],
+    [
+     "Universidade, Ciência e Pesquisa",
+     1
+    ],
+    [
+     "Diversidade e Sociedade",
+     1
+    ],
+    [
+     "Educação Física - Prática desportiva I",
+     1
+    ],
+    [
+     "Programação orientada a objetos",
+     2
+    ],
+    [
+     "Banco de dados",
+     2
+    ],
+    [
+     "Arquitetura de computadores II",
+     2
+    ],
+    [
+     "Lógica para computação",
+     2
+    ],
+    [
+     "Educação Física - Prática desportiva II",
+     2
+    ],
+    [
+     "Programação web I",
+     3
+    ],
+    [
+     "Algoritmos e estrutura de dados",
+     3
+    ],
+    [
+     "Teoria da Computação",
+     3
+    ],
+    [
+     "Legislação em Informática",
+     3
+    ],
+    [
+     "Ambiente corporativo e postura profissional",
+     3
+    ],
+    [
+     "Programação web II",
+     4
+    ],
+    [
+     "Teoria dos Grafos",
+     4
+    ],
+    [
+     "Estatística",
+     4
+    ],
+    [
+     "Compiladores",
+     4
+    ],
+    [
+     "História da Cultura Afro-brasileira e Indígena",
+     4
+    ],
+    [
+     "Alteridade e Direitos Humanos",
+     4
+    ],
+    [
+     "Análise de algoritmos",
+     5
+    ],
+    [
+     "Engenharia de software",
+     5
+    ],
+    [
+     "Álgebra linear",
+     5
+    ],
+    [
+     "Redes de computadores",
+     5
+    ],
+    [
+     "Banco de dados avançado",
+     5
+    ],
+    [
+     "Projeto de software",
+     6
+    ],
+    [
+     "Geometria analítica",
+     6
+    ],
+    [
+     "Inteligência artificial",
+     6
+    ],
+    [
+     "Sistemas distribuídos",
+     6
+    ],
+    [
+     "Sistemas operacionais",
+     6
+    ],
+    [
+     "Computação gráfica",
+     7
+    ],
+    [
+     "Processamento de imagens",
+     7
+    ],
+    [
+     "Aprendizado de máquina",
+     7
+    ],
+    [
+     "Segurança da informação",
+     7
+    ],
+    [
+     "Trabalho de conclusão de curso I",
+     8
+    ],
+    [
+     "Realidade virtual",
+     8
+    ],
+    [
+     "Inovação tecnológica",
+     8
+    ],
+    [
+     "Processamento de linguagem natural",
+     8
+    ],
+    [
+     "Produção Textual Acadêmica",
+     8
+    ],
+    [
+     "Trabalho de conclusão de curso II",
+     9
+    ]
+   ]
+  },
+  {
+   "uni": "Univali",
+   "nao_encontrada": "PDFs da Síntese do Projeto Pedagógico (Itajaí e Kobrasol) existem, mas o site recusa o WebFetch (client_error/robots)"
+  },
+  {
+   "uni": "Unisul",
+   "nao_encontrada": "oferta semipresencial (Tubarão) e EaD; o PPC publicado (estaticos.animaeducacao.com.br) tem a seção 'Matriz Curricular' vazia"
+  }
+ ],
+ "uniao": [
+  [
+   "Algoritmos e Programação",
+   1
+  ],
+  [
+   "Arquitetura e Organização de Computadores I",
+   1
+  ],
+  [
+   "Diversidade e Sociedade",
+   1
+  ],
+  [
+   "Educação Física – Prática Desportiva I",
+   1
+  ],
+  [
+   "Fundamentos Matemáticos",
+   1
+  ],
+  [
+   "Geometria Analítica",
+   1
+  ],
+  [
+   "Iniciação à Extensão e à Pesquisa Acadêmica",
+   1
+  ],
+  [
+   "Introdução à Ciência da Computação",
+   1
+  ],
+  [
+   "Introdução ao Cálculo",
+   1
+  ],
+  [
+   "Lógica para Computação",
+   1
+  ],
+  [
+   "Matemática Discreta",
+   1
+  ],
+  [
+   "Preparação para a Carreira em Computação",
+   1
+  ],
+  [
+   "Programação Funcional",
+   1
+  ],
+  [
+   "Teoria Geral de Sistemas",
+   1
+  ],
+  [
+   "Universidade, Ciência e Pesquisa",
+   1
+  ],
+  [
+   "Álgebra Linear",
+   2
+  ],
+  [
+   "Arquitetura e Organização de Computadores II",
+   2
+  ],
+  [
+   "Banco de Dados I",
+   2
+  ],
+  [
+   "Cálculo I",
+   2
+  ],
+  [
+   "Ciência, Tecnologia e Sociedade",
+   2
+  ],
+  [
+   "Circuitos Digitais",
+   2
+  ],
+  [
+   "Educação Física – Prática Desportiva II",
+   2
+  ],
+  [
+   "Linguagem de Programação",
+   2
+  ],
+  [
+   "Programação Orientada a Objetos",
+   2
+  ],
+  [
+   "Sistemas Digitais",
+   2
+  ],
+  [
+   "Ambiente Corporativo e Postura Profissional",
+   3
+  ],
+  [
+   "Análise e Modelagem de Sistemas",
+   3
+  ],
+  [
+   "Cálculo II",
+   3
+  ],
+  [
+   "Estruturas de Dados I",
+   3
+  ],
+  [
+   "Estruturas de Dados II",
+   3
+  ],
+  [
+   "Laboratório de Programação",
+   3
+  ],
+  [
+   "Laboratório de Sistemas Digitais",
+   3
+  ],
+  [
+   "Legislação em Informática",
+   3
+  ],
+  [
+   "Probabilidade e Estatística",
+   3
+  ],
+  [
+   "Programação Web I",
+   3
+  ],
+  [
+   "Alteridade e Direitos Humanos",
+   4
+  ],
+  [
+   "Cálculo Numérico",
+   4
+  ],
+  [
+   "Compiladores",
+   4
+  ],
+  [
+   "História da Cultura Afro-brasileira e Indígena",
+   4
+  ],
+  [
+   "Linguagens Formais e Autômatos",
+   4
+  ],
+  [
+   "Metodologia da Pesquisa",
+   4
+  ],
+  [
+   "Programação Web II",
+   4
+  ],
+  [
+   "Sistemas Operacionais",
+   4
+  ],
+  [
+   "Teoria dos Grafos",
+   4
+  ],
+  [
+   "Análise e Projeto de Algoritmos",
+   5
+  ],
+  [
+   "Banco de Dados II",
+   5
+  ],
+  [
+   "Computação Gráfica",
+   5
+  ],
+  [
+   "Engenharia de Software",
+   5
+  ],
+  [
+   "Redes de Computadores",
+   5
+  ],
+  [
+   "Inteligência Artificial",
+   6
+  ],
+  [
+   "Interação Humano-Computador e Experiência do Usuário",
+   6
+  ],
+  [
+   "Paradigmas de Programação",
+   6
+  ],
+  [
+   "Processamento de Imagens",
+   6
+  ],
+  [
+   "Projeto de Software",
+   6
+  ],
+  [
+   "Sistemas Distribuídos",
+   6
+  ],
+  [
+   "Teoria da Computação",
+   6
+  ],
+  [
+   "Aprendizado de Máquina",
+   7
+  ],
+  [
+   "Automação e Controle",
+   7
+  ],
+  [
+   "Computação Paralela",
+   7
+  ],
+  [
+   "Empreendedorismo em Computação",
+   7
+  ],
+  [
+   "Métodos Formais",
+   7
+  ],
+  [
+   "Pesquisa Operacional",
+   7
+  ],
+  [
+   "Segurança da Informação",
+   7
+  ],
+  [
+   "Computador, Ética e Sociedade",
+   8
+  ],
+  [
+   "Inovação Tecnológica",
+   8
+  ],
+  [
+   "Processamento de Linguagem Natural",
+   8
+  ],
+  [
+   "Produção Textual Acadêmica",
+   8
+  ],
+  [
+   "Realidade Virtual",
+   8
+  ],
+  [
+   "Trabalho de Conclusão de Curso I",
+   8
+  ],
+  [
+   "Trabalho de Conclusão de Curso II",
+   9
+  ]
+ ],
+ "notas": "Bacharelado, presencial. 3 de 7 matrizes obtidas (UFSC, UDESC-CCT Joinville, FURB). UFSC: o CAGR mostra o currículo 20271 (mais recente disponível). UDESC: usada a matriz proposta do PPC 2025/1. 'Unidade Curricular de Extensão I–V' (UDESC) excluídas como extensão genérica. Equivalências: Introdução a Algoritmos e Programação Estruturada = Algoritmos = Introdução à programação; AED Lineares = Estruturas de Dados I = Algoritmos e estrutura de dados; AED Não-Lineares = Estruturas de Dados II; Cálculo 1 = Cálculo Diferencial e Integral I; Organização de Computadores = Arquitetura e Organização de Computadores = Arquitetura de computadores I; Lógica Matemática = Lógica para computação; Análise e Projeto de Algoritmos = Complexidade de Algoritmos = Análise de algoritmos; Computação Numérica = Análise Numérica (→ Cálculo Numérico); Segurança em Computação = Segurança Computacional = Segurança da informação; Computação Distribuída = Sistemas Distribuídos; Banco de dados avançado = Banco de Dados II; Estatística = Probabilidade e Estatística; Introdução à Pesquisa em Computação = Metodologia da Pesquisa; Computador e Sociedade = Ética em Informática; Interdisciplinaridade e Empreendedorismo para Computação = Empreendedorismo em Informática. Duração típica: 9 semestres."
+}

@@ -1,0 +1,14 @@
+{
+ "id": "to", "curso": "Terapia Ocupacional",
+ "fontes": [
+   {"uni": "UFSC", "nao_encontrada": "UFSC não oferece Terapia Ocupacional"},
+   {"uni": "UDESC", "nao_encontrada": "UDESC não oferece Terapia Ocupacional"},
+   {"uni": "UFFS", "nao_encontrada": "UFFS Chapecó não oferece Terapia Ocupacional"},
+   {"uni": "Unochapecó", "nao_encontrada": "nenhuma oferta de Terapia Ocupacional encontrada"},
+   {"uni": "FURB", "nao_encontrada": "nenhuma oferta de Terapia Ocupacional encontrada"},
+   {"uni": "Univali", "nao_encontrada": "nenhuma oferta de Terapia Ocupacional encontrada"},
+   {"uni": "Unisul", "nao_encontrada": "oferece o curso só semipresencial (Tubarão e Itajaí, 8 semestres, noturno, segundo o Pravaler); a página do curso em unisul.br falhou ao carregar e nenhum PDF de matriz foi encontrado; o Pravaler só lista áreas temáticas genéricas, não disciplinas"}
+ ],
+ "uniao": [],
+ "notas": "Nenhuma matriz encontrada entre as universidades escolhidas, então a união está vazia. Única oferta identificada: Unisul, semipresencial (não há presencial). Duração típica: 8 semestres. Para preencher, seria preciso a matriz da Unisul (botão 'Ver matriz curricular' do site, que gera o PDF dinamicamente) ou ampliar a lista de universidades."
+}
