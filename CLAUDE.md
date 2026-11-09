@@ -30,6 +30,7 @@ App de estudos de graduação. Arquivo único `index.html`, sem build, sem backe
 }
 ```
 Formato novo (modelo pronto: `Anatomia Humana I`, bloco "Anatomia Humana I: conteúdo completo" no `index.html`):
+- Aulas (material de estudo principal): `D[k].aulas=[{t,o,s,tb,cl,pk,mp,fx}]` = título, objetivos, seções `[[subtítulo,[parágrafos]]]`, tabela `[legenda,[cabeçalhos],[linhas]]`, correlação clínica/prática, pontos-chave, mapa da aula e perguntas de fixação `[[pergunta,resposta]]`. Cerca de 10 aulas por disciplina. Com `aulas`, a aba Aprender abre em "Aulas"; resumo, mapas, casos e provas ficam como revisão.
 - Folha do mapa com explicação: use `["Nome", "explicação curta"]` no lugar da string.
 - Vários casos: `casos: [[título, identificação, queixa, história, exame, pergunta, resposta comentada], ...]` (20 por disciplina). Se `casos` existir, ele substitui `caso`.
 - Questões: 20 por nível, com comentário opcional no 4º item. Cada prova sorteia 10 questões do banco.
